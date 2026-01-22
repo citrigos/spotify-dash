@@ -61,8 +61,8 @@ function App() {
                 <div className="stat-icon">🎵</div>
                 <div className="stat-content">
                   <h3 className="stat-value">847</h3>
-                  <p className="stat-label">Tracks Played</p>
-                  <p className="stat-detail">+23% from last month</p>
+                  <p className="stat-label">Tracks played</p>
+                  <p className="stat-detail">+23% from last month • 196 skipped</p>
                 </div>
               </div>
 
@@ -70,8 +70,8 @@ function App() {
                 <div className="stat-icon">⏱️</div>
                 <div className="stat-content">
                   <h3 className="stat-value">43hrs</h3>
-                  <p className="stat-label">Listening Time</p>
-                  <p className="stat-detail">86 min/day average</p>
+                  <p className="stat-label">Listening time</p>
+                  <p className="stat-detail">86 min/day • Longest: 3.5hrs on Jan 15</p>
                 </div>
               </div>
 
@@ -79,8 +79,8 @@ function App() {
                 <div className="stat-icon">🎤</div>
                 <div className="stat-content">
                   <h3 className="stat-value">156</h3>
-                  <p className="stat-label">Unique Artists</p>
-                  <p className="stat-detail">Top: Radiohead (47 plays)</p>
+                  <p className="stat-label">Unique artists</p>
+                  <p className="stat-detail">Top: Radiohead (47) • New: 12 discoveries</p>
                 </div>
               </div>
 
@@ -88,8 +88,8 @@ function App() {
                 <div className="stat-icon">📊</div>
                 <div className="stat-content">
                   <h3 className="stat-value">28/day</h3>
-                  <p className="stat-label">Daily Average</p>
-                  <p className="stat-detail">Most active: Fridays</p>
+                  <p className="stat-label">Daily average</p>
+                  <p className="stat-detail">Peak: Fridays (42 tracks) • Low: Tuesdays</p>
                 </div>
               </div>
 
@@ -97,8 +97,8 @@ function App() {
                 <div className="stat-icon">🔁</div>
                 <div className="stat-content">
                   <h3 className="stat-value">73%</h3>
-                  <p className="stat-label">Repeat Rate</p>
-                  <p className="stat-detail">You love your favorites</p>
+                  <p className="stat-label">Repeat rate</p>
+                  <p className="stat-detail">Most played: "Fake Plastic Trees" (8x)</p>
                 </div>
               </div>
 
@@ -106,8 +106,8 @@ function App() {
                 <div className="stat-icon">🌙</div>
                 <div className="stat-content">
                   <h3 className="stat-value">3pm PST</h3>
-                  <p className="stat-label">Peak Hour</p>
-                  <p className="stat-detail">Afternoon listener</p>
+                  <p className="stat-label">Peak hour</p>
+                  <p className="stat-detail">Afternoon listener • Quiet mornings</p>
                 </div>
               </div>
             </div>
