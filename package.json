@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A sleek and modern Spotify analytics dashboard",
   "author": "citrigos",
+  "homepage": "https://citrigos.github.io/spotify-dash",
   "repository": {
     "type": "git",
     "url": "https://github.com/citrigos/spotify-dash.git"
@@ -16,6 +17,7 @@
   ],
   "private": true,
   "dependencies": {
+    "axios": "^1.13.2",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

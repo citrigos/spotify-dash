@@ -1,6 +1,23 @@
+import { useState, useEffect } from 'react';
 import './App.css';
+import spotifyData from './data/spotify-data.json';
 
 function App() {
+  const [data, setData] = useState(spotifyData);
+
+  const getTimeAgo = (timestamp) => {
+    const now = new Date();
+    const played = new Date(timestamp);
+    const diffMs = now - played;
+    const diffMins = Math.floor(diffMs / 60000);
+    const diffHours = Math.floor(diffMins / 60);
+    const diffDays = Math.floor(diffHours / 24);
+
+    if (diffMins < 60) return `${diffMins} min${diffMins !== 1 ? 's' : ''} ago`;
+    if (diffHours < 24) return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
+    return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
+  };
+
   return (
     <div className="App">
       <div className="dashboard-container">
@@ -38,7 +55,7 @@ function App() {
 
         <main className="dashboard-main">
           <a
-            href="https://open.spotify.com/search/Lover%2C%20You%20Should%27ve%20Come%20Over%20Jeff%20Buckley"
+            href={data.recentTrack.url}
             target="_blank"
             rel="noopener noreferrer"
             className="recent-track"
@@ -46,10 +63,10 @@ function App() {
             <div className="recent-track-label">Last played</div>
             <div className="recent-track-info">
               <div className="recent-track-details">
-                <div className="recent-track-name">Lover, You Should've Come Over</div>
-                <div className="recent-track-artist">Jeff Buckley</div>
+                <div className="recent-track-name">{data.recentTrack.name}</div>
+                <div className="recent-track-artist">{data.recentTrack.artist}</div>
               </div>
-              <div className="recent-track-time">2 hours ago</div>
+              <div className="recent-track-time">{getTimeAgo(data.recentTrack.playedAt)}</div>
             </div>
             <div className="play-hint">Click to play on Spotify</div>
           </a>
@@ -60,7 +77,7 @@ function App() {
               <div className="stat-card purple">
                 <div className="stat-icon">🎵</div>
                 <div className="stat-content">
-                  <h3 className="stat-value">847</h3>
+                  <h3 className="stat-value">{data.stats.tracksPlayed}</h3>
                   <p className="stat-label">Tracks played</p>
                   <p className="stat-detail">+23% from last month • 196 skipped</p>
                 </div>
@@ -69,25 +86,25 @@ function App() {
               <div className="stat-card silver">
                 <div className="stat-icon">⏱️</div>
                 <div className="stat-content">
-                  <h3 className="stat-value">43hrs</h3>
+                  <h3 className="stat-value">{data.stats.listeningHours}hrs</h3>
                   <p className="stat-label">Listening time</p>
-                  <p className="stat-detail">86 min/day • Longest: 3.5hrs on Jan 15</p>
+                  <p className="stat-detail">{Math.round(data.stats.listeningHours * 60 / 30)} min/day • Longest: 3.5hrs on Jan 15</p>
                 </div>
               </div>
 
               <div className="stat-card green">
                 <div className="stat-icon">🎤</div>
                 <div className="stat-content">
-                  <h3 className="stat-value">156</h3>
+                  <h3 className="stat-value">{data.stats.uniqueArtists}</h3>
                   <p className="stat-label">Unique artists</p>
-                  <p className="stat-detail">Top: Radiohead (47) • New: 12 discoveries</p>
+                  <p className="stat-detail">Top: {data.stats.topArtist} • New: 12 discoveries</p>
                 </div>
               </div>
 
               <div className="stat-card dark">
                 <div className="stat-icon">📊</div>
                 <div className="stat-content">
-                  <h3 className="stat-value">28/day</h3>
+                  <h3 className="stat-value">{data.stats.dailyAverage}/day</h3>
                   <p className="stat-label">Daily average</p>
                   <p className="stat-detail">Peak: Fridays (42 tracks) • Low: Tuesdays</p>
                 </div>
@@ -96,16 +113,16 @@ function App() {
               <div className="stat-card purple-alt">
                 <div className="stat-icon">🔁</div>
                 <div className="stat-content">
-                  <h3 className="stat-value">73%</h3>
+                  <h3 className="stat-value">{data.stats.repeatRate}%</h3>
                   <p className="stat-label">Repeat rate</p>
-                  <p className="stat-detail">Most played: "Fake Plastic Trees" (8x)</p>
+                  <p className="stat-detail">Most played: "{data.stats.mostPlayedTrack}" ({data.stats.mostPlayedCount}x)</p>
                 </div>
               </div>
 
               <div className="stat-card green-alt">
                 <div className="stat-icon">🌙</div>
                 <div className="stat-content">
-                  <h3 className="stat-value">3pm PST</h3>
+                  <h3 className="stat-value">{data.stats.peakHour} PST</h3>
                   <p className="stat-label">Peak hour</p>
                   <p className="stat-detail">Afternoon listener • Quiet mornings</p>
                 </div>
