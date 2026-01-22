@@ -62,6 +62,7 @@ function App() {
                 <div className="stat-content">
                   <h3 className="stat-value">847</h3>
                   <p className="stat-label">Tracks Played</p>
+                  <p className="stat-detail">+23% from last month</p>
                 </div>
               </div>
 
@@ -70,6 +71,7 @@ function App() {
                 <div className="stat-content">
                   <h3 className="stat-value">43hrs</h3>
                   <p className="stat-label">Listening Time</p>
+                  <p className="stat-detail">86 min/day average</p>
                 </div>
               </div>
 
@@ -78,6 +80,7 @@ function App() {
                 <div className="stat-content">
                   <h3 className="stat-value">156</h3>
                   <p className="stat-label">Unique Artists</p>
+                  <p className="stat-detail">Top: Radiohead (47 plays)</p>
                 </div>
               </div>
 
@@ -86,6 +89,7 @@ function App() {
                 <div className="stat-content">
                   <h3 className="stat-value">28/day</h3>
                   <p className="stat-label">Daily Average</p>
+                  <p className="stat-detail">Most active: Fridays</p>
                 </div>
               </div>
 
@@ -94,14 +98,16 @@ function App() {
                 <div className="stat-content">
                   <h3 className="stat-value">73%</h3>
                   <p className="stat-label">Repeat Rate</p>
+                  <p className="stat-detail">You love your favorites</p>
                 </div>
               </div>
 
               <div className="stat-card green-alt">
                 <div className="stat-icon">🌙</div>
                 <div className="stat-content">
-                  <h3 className="stat-value">11pm</h3>
+                  <h3 className="stat-value">3pm PST</h3>
                   <p className="stat-label">Peak Hour</p>
+                  <p className="stat-detail">Afternoon listener</p>
                 </div>
               </div>
             </div>
