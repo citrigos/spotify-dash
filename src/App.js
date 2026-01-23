@@ -31,15 +31,16 @@ function App() {
       const response = await axios.post(`${apiUrl}/api/refresh-spotify-data`);
       setRefreshMessage('Refresh started! Data will update in 1-2 minutes.');
 
-      // Optionally reload the page after a delay to get fresh data
+      // Keep button disabled and reload after workflow completes
       setTimeout(() => {
         window.location.reload();
       }, 90000); // Reload after 90 seconds
+
+      // Note: isRefreshing stays true until page reloads to prevent multiple clicks
     } catch (error) {
       console.error('Error refreshing data:', error);
       setRefreshMessage('Failed to refresh. Make sure the server is running.');
-    } finally {
-      setIsRefreshing(false);
+      setIsRefreshing(false); // Only re-enable on error
     }
   };
 
