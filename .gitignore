@@ -19,9 +19,6 @@
 .env.test.local
 .env.production.local
 
-# spotify data cache
-src/data/spotify-data.json
-
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
