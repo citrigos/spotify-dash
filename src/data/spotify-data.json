@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-01-22T00:00:00.000Z",
+  "lastUpdated": "2026-01-23T00:23:50.012Z",
   "recentTrack": {
-    "name": "Lover, You Should've Come Over",
-    "artist": "Jeff Buckley",
-    "playedAt": "2026-01-22T10:00:00.000Z",
-    "url": "https://open.spotify.com/search/Lover%2C%20You%20Should%27ve%20Come%20Over%20Jeff%20Buckley"
+    "name": "Fake Plastic Trees",
+    "artist": "Radiohead",
+    "playedAt": "2026-01-22T23:48:49.421Z",
+    "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
   },
   "stats": {
-    "tracksPlayed": 847,
-    "listeningHours": 43,
-    "uniqueArtists": 156,
-    "topArtist": "Radiohead",
-    "dailyAverage": 28,
-    "repeatRate": 73,
-    "mostPlayedTrack": "Fake Plastic Trees",
-    "mostPlayedCount": 8,
-    "peakHour": "3pm"
+    "tracksPlayed": 50,
+    "listeningHours": 3,
+    "uniqueArtists": 11,
+    "topArtist": "A$AP Rocky",
+    "dailyAverage": 2,
+    "repeatRate": 4,
+    "mostPlayedTrack": "I'm Your Man",
+    "mostPlayedCount": 2,
+    "peakHour": "9pm"
   }
 }
