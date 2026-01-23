@@ -13,18 +13,14 @@ This dashboard automatically fetches your Spotify data using GitHub Actions and 
 
 You need to get a refresh token that GitHub Actions can use to fetch your data without requiring login.
 
-1. Install the Spotify authorization helper:
+1. Run the refresh token generator script:
 ```bash
-npm install -g spotify-personal-auth
+SPOTIFY_CLIENT_ID=your_client_id SPOTIFY_CLIENT_SECRET=your_client_secret node scripts/get-refresh-token.js
 ```
 
-2. Run the authorization flow:
-```bash
-spotify-personal-auth --clientId YOUR_CLIENT_ID --clientSecret YOUR_CLIENT_SECRET --scope "user-read-recently-played user-top-read"
-```
-
-3. This will open your browser - authorize the app
-4. Copy the **refresh_token** from the terminal output
+2. This will open your browser - authorize the app
+3. The refresh token will be displayed in your terminal
+4. Copy the **refresh_token** for the next step
 
 ## Step 3: Add GitHub Secrets
 
