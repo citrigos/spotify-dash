@@ -1,43 +1,9 @@
 # 🎵 Spotify Dashboard
 
-A sleek, modern analytics dashboard for Spotify with a stunning silver, purple, and green color palette.
+This is a fun project displaying my spotify stats using [React](https://react.dev/), the [Spotify API](https://developer.spotify.com/documentation/web-api), and [github actions](https://github.com/features/actions). 
 
-## ✨ Features
-
-- Clean and minimalist design
-- Responsive layout
-- Modern color scheme inspired by Spotify
-- Built with React
-
-## 🎨 Color Palette
-
-- **Silver**: `#C0C0C0` - Metallic accents
-- **Purple**: `#8B5CF6` - Primary highlights
-- **Spotify Green**: `#1DB954` - Action elements
-- **Dark Background**: `#121212` - Base layer
-
-## 🚀 Quick Start
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-
-# Build for production
-npm run build
-```
-
-## 📦 Built With
-
-- React 19
-- Create React App
-- Modern CSS3
-
-## 🔗 Links
-
-- [GitHub Repository](https://github.com/citrigos/spotify-dash)
+- Every 6 hours, Github actions enables fetching new data from the Spotify API, refreshing the data saved in this repository. 
+- The _static_ project is then re-deployed onto github pages, accessible [here](https://citrigos.github.io/spotify-dash/)
 
 ---
 
