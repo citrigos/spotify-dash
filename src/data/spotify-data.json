@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-01-23T20:17:54.438Z",
+  "lastUpdated": "2026-01-23T21:27:22.213Z",
   "recentTrack": {
-    "name": "The Beast - includes Chinese restaurant skit",
-    "artist": "Fugees",
-    "playedAt": "2026-01-23T20:17:33.331Z",
-    "url": "https://open.spotify.com/track/3FFDBbDxnHNZKdQwx2HPjE"
+    "name": "Doo Wop (That Thing)",
+    "artist": "Ms. Lauryn Hill",
+    "playedAt": "2026-01-23T21:24:25.622Z",
+    "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
   },
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 13,
+    "uniqueArtists": 9,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 8,
     "mostPlayedTrack": "Mahè",
     "mostPlayedCount": 4,
-    "peakHour": "11pm"
+    "peakHour": "8pm"
   }
 }
