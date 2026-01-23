@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-01-23T19:55:15.061Z",
+  "lastUpdated": "2026-01-23T20:05:40.526Z",
   "recentTrack": {
-    "name": "Mahè",
-    "artist": "Piero Umiliani",
-    "playedAt": "2026-01-23T17:53:28.557Z",
-    "url": "https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq"
+    "name": "How Many Mics",
+    "artist": "Fugees",
+    "playedAt": "2026-01-23T20:03:48.802Z",
+    "url": "https://open.spotify.com/track/2lOnbK3gm1N6keYkUD3mis"
   },
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 12,
+    "uniqueArtists": 13,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 8,
     "mostPlayedTrack": "Mahè",
     "mostPlayedCount": 4,
-    "peakHour": "10pm"
+    "peakHour": "11pm"
   }
 }
