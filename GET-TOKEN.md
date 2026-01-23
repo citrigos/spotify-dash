@@ -11,7 +11,7 @@ You already have:
 
 1. Go to your [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/31f2bf04985b4181b630545ae8cdef29)
 2. Click "Edit Settings"
-3. Under "Redirect URIs", add: `http://localhost:8888/callback`
+3. Under "Redirect URIs", add: `http://127.0.0.1:3001/callback`
 4. Click "Add" then "Save"
 
 ### 2. Get Your Client Secret
@@ -92,4 +92,4 @@ The data will automatically update every 6 hours!
 
 **No refresh token appears?**
 - Make sure you clicked "Agree" in the browser
-- Check that the redirect URI `http://localhost:8888/callback` is added to your Spotify app settings
+- Check that the redirect URI `http://127.0.0.1:3001/callback` is added to your Spotify app settings

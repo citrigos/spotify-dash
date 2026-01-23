@@ -5,8 +5,8 @@ const { exec } = require('child_process');
 // You'll need to update these with your actual values
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID || 'YOUR_CLIENT_ID';
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET || 'YOUR_CLIENT_SECRET';
-const REDIRECT_URI = 'http://localhost:8888/callback';
-const PORT = 8888;
+const REDIRECT_URI = 'http://127.0.0.1:3001/callback';
+const PORT = 3001;
 
 const scopes = [
   'user-read-recently-played',

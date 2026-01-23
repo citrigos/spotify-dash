@@ -7,7 +7,7 @@ This dashboard automatically fetches your Spotify data using GitHub Actions and 
 1. Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
 2. Create a new app (or use your existing app)
 3. Note your **Client ID** and **Client Secret**
-4. Add `http://localhost:8888/callback` to the Redirect URIs in your app settings
+4. Add `http://127.0.0.1:3001/callback` to the Redirect URIs in your app settings
 
 ## Step 2: Get Your Refresh Token
 
