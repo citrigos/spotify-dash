@@ -38,3 +38,10 @@ jobs:
           git config --global user.email 'action@github.com'
           git add src/data/spotify-data.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Spotify data" && git push)
+
+      - name: Trigger deployment
+        if: success()
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: deploy-trigger
