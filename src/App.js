@@ -1,9 +1,12 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 import spotifyData from './data/spotify-data.json';
+import axios from 'axios';
 
 function App() {
   const [data, setData] = useState(spotifyData);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+  const [refreshMessage, setRefreshMessage] = useState('');
 
   const getTimeAgo = (timestamp) => {
     const now = new Date();
@@ -16,6 +19,28 @@ function App() {
     if (diffMins < 60) return `${diffMins} min${diffMins !== 1 ? 's' : ''} ago`;
     if (diffHours < 24) return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
     return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
+  };
+
+  const handleRefresh = async () => {
+    setIsRefreshing(true);
+    setRefreshMessage('');
+
+    try {
+      // Use environment variable for API URL, fallback to localhost for development
+      const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
+      const response = await axios.post(`${apiUrl}/api/refresh-spotify-data`);
+      setRefreshMessage('Refresh started! Data will update in 1-2 minutes.');
+
+      // Optionally reload the page after a delay to get fresh data
+      setTimeout(() => {
+        window.location.reload();
+      }, 90000); // Reload after 90 seconds
+    } catch (error) {
+      console.error('Error refreshing data:', error);
+      setRefreshMessage('Failed to refresh. Make sure the server is running.');
+    } finally {
+      setIsRefreshing(false);
+    }
   };
 
   return (
@@ -39,6 +64,24 @@ function App() {
             </div>
           </div>
           <div className="header-right">
+            <button
+              onClick={handleRefresh}
+              disabled={isRefreshing}
+              className="refresh-button"
+              aria-label="Refresh Spotify data"
+              title="Refresh Spotify data"
+            >
+              <svg
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                className={isRefreshing ? 'spinning' : ''}
+              >
+                <path d="M4 12C4 16.4183 7.58172 20 12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
+                <path d="M4 12L7 9M4 12L7 15" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              </svg>
+            </button>
             <a
               href="https://github.com/citrigos/spotify-dash"
               target="_blank"
@@ -52,6 +95,12 @@ function App() {
             </a>
           </div>
         </header>
+
+        {refreshMessage && (
+          <div className="refresh-message">
+            {refreshMessage}
+          </div>
+        )}
 
         <main className="dashboard-main">
           <a
