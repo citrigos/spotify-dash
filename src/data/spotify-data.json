@@ -1,11 +1,31 @@
 {
   "lastUpdated": "2026-01-23T21:27:22.213Z",
-  "recentTrack": {
-    "name": "Doo Wop (That Thing)",
-    "artist": "Ms. Lauryn Hill",
-    "playedAt": "2026-01-23T21:24:25.622Z",
-    "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-  },
+  "recentTracks": [
+    {
+      "name": "Doo Wop (That Thing)",
+      "artist": "Ms. Lauryn Hill",
+      "playedAt": "2026-01-23T21:24:25.622Z",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "name": "Mahè",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-01-23T20:54:12.345Z",
+      "url": "https://open.spotify.com/track/1234567890abcdefghij"
+    },
+    {
+      "name": "Everything in Its Right Place",
+      "artist": "Radiohead",
+      "playedAt": "2026-01-23T20:30:45.123Z",
+      "url": "https://open.spotify.com/track/abcdefghij1234567890"
+    },
+    {
+      "name": "Golden Brown",
+      "artist": "The Stranglers",
+      "playedAt": "2026-01-23T20:00:15.456Z",
+      "url": "https://open.spotify.com/track/xyz123abc456def789"
+    }
+  ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,

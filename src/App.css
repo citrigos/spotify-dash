@@ -188,13 +188,62 @@
   opacity: 1;
 }
 
+.recent-track-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
 .recent-track-label {
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: rgba(255, 255, 255, 0.5);
-  margin-bottom: 0.75rem;
   font-weight: 600;
+  margin: 0;
+}
+
+.track-navigation {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nav-arrow {
+  background: rgba(139, 92, 246, 0.2);
+  border: 1px solid rgba(139, 92, 246, 0.4);
+  border-radius: 6px;
+  color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 28px;
+  height: 28px;
+}
+
+.nav-arrow:hover {
+  background: rgba(139, 92, 246, 0.3);
+  border-color: rgba(29, 185, 84, 0.5);
+  color: #1DB954;
+  transform: scale(1.1);
+}
+
+.nav-arrow:active {
+  transform: scale(0.95);
+}
+
+.track-indicator {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 500;
+  min-width: 35px;
+  text-align: center;
 }
 
 .recent-track-info {
@@ -378,9 +427,24 @@
     margin-bottom: 1rem;
   }
 
+  .recent-track-header {
+    margin-bottom: 0.5rem;
+  }
+
   .recent-track-label {
     font-size: 0.688rem;
-    margin-bottom: 0.5rem;
+  }
+
+  .nav-arrow {
+    min-width: 24px;
+    height: 24px;
+    font-size: 1rem;
+    padding: 0.2rem 0.4rem;
+  }
+
+  .track-indicator {
+    font-size: 0.688rem;
+    min-width: 30px;
   }
 
   .recent-track-name {
