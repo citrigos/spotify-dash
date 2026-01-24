@@ -48,16 +48,17 @@ async function fetchSpotifyData(accessToken) {
       { headers }
     );
 
-    // Process the data
-    const recentTrack = recentlyPlayed.data.items[0];
+    // Process the data - get last 4 tracks
+    const recentTracks = recentlyPlayed.data.items.slice(0, 4).map(item => ({
+      name: item.track.name,
+      artist: item.track.artists[0].name,
+      playedAt: item.played_at,
+      url: item.track.external_urls.spotify,
+    }));
+
     const data = {
       lastUpdated: new Date().toISOString(),
-      recentTrack: {
-        name: recentTrack.track.name,
-        artist: recentTrack.track.artists[0].name,
-        playedAt: recentTrack.played_at,
-        url: recentTrack.track.external_urls.spotify,
-      },
+      recentTracks: recentTracks,
       stats: calculateStats(recentlyPlayed.data.items, topArtists.data.items, topTracks.data.items),
     };
 
@@ -142,7 +143,7 @@ async function main() {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 
     console.log('Spotify data saved successfully!');
-    console.log(`Last track: ${data.recentTrack.name} by ${data.recentTrack.artist}`);
+    console.log(`Last ${data.recentTracks.length} tracks saved. Most recent: ${data.recentTracks[0].name} by ${data.recentTracks[0].artist}`);
   } catch (error) {
     console.error('Failed to fetch Spotify data:', error.message);
     process.exit(1);

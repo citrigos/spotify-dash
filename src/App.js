@@ -1,12 +1,13 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import './App.css';
 import spotifyData from './data/spotify-data.json';
 import axios from 'axios';
 
 function App() {
-  const [data, setData] = useState(spotifyData);
+  const [data] = useState(spotifyData);
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [refreshMessage, setRefreshMessage] = useState('');
+  const [currentTrackIndex, setCurrentTrackIndex] = useState(0);
 
   const getTimeAgo = (timestamp) => {
     const now = new Date();
@@ -21,6 +22,24 @@ function App() {
     return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
   };
 
+  const formatLastUpdated = (timestamp) => {
+    const date = new Date(timestamp);
+    const options = { month: 'short', day: 'numeric', year: 'numeric' };
+    return date.toLocaleDateString('en-US', options);
+  };
+
+  const handlePreviousTrack = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setCurrentTrackIndex((prev) => (prev > 0 ? prev - 1 : data.recentTracks.length - 1));
+  };
+
+  const handleNextTrack = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setCurrentTrackIndex((prev) => (prev < data.recentTracks.length - 1 ? prev + 1 : 0));
+  };
+
   const handleRefresh = async () => {
     setIsRefreshing(true);
     setRefreshMessage('');
@@ -28,7 +47,7 @@ function App() {
     try {
       // Use environment variable for API URL, fallback to localhost for development
       const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
-      const response = await axios.post(`${apiUrl}/api/refresh-spotify-data`);
+      await axios.post(`${apiUrl}/api/refresh-spotify-data`);
       setRefreshMessage('Refresh started! Data will update in 1-2 minutes.');
 
       // Keep button disabled and reload after workflow completes
@@ -59,7 +78,7 @@ function App() {
               <div className="logo-text-group">
                 <h1 className="logo-text">Lali's Spotify Dash</h1>
                 <p className="header-subtitle">
-                  UI built with <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" className="inline-link">React</a> • Data from <a href="https://developer.spotify.com/documentation/web-api" target="_blank" rel="noopener noreferrer" className="inline-link">Spotify API</a> • Last updated: Jan 22, 2026
+                  UI built with <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" className="inline-link">React</a> • Data from <a href="https://developer.spotify.com/documentation/web-api" target="_blank" rel="noopener noreferrer" className="inline-link">Spotify API</a> • Last updated: {formatLastUpdated(data.lastUpdated)}
                 </p>
               </div>
             </div>
@@ -105,18 +124,39 @@ function App() {
 
         <main className="dashboard-main">
           <a
-            href={data.recentTrack.url}
+            href={data.recentTracks[currentTrackIndex].url}
             target="_blank"
             rel="noopener noreferrer"
             className="recent-track"
           >
-            <div className="recent-track-label">Last played</div>
+            <div className="recent-track-header">
+              <div className="recent-track-label">
+                {currentTrackIndex === 0 ? 'Last played' : `${currentTrackIndex + 1}${currentTrackIndex === 1 ? 'nd' : currentTrackIndex === 2 ? 'rd' : 'th'} last played`}
+              </div>
+              <div className="track-navigation">
+                <button
+                  className="nav-arrow prev"
+                  onClick={handlePreviousTrack}
+                  aria-label="Previous track"
+                >
+                  ‹
+                </button>
+                <span className="track-indicator">{currentTrackIndex + 1} / {data.recentTracks.length}</span>
+                <button
+                  className="nav-arrow next"
+                  onClick={handleNextTrack}
+                  aria-label="Next track"
+                >
+                  ›
+                </button>
+              </div>
+            </div>
             <div className="recent-track-info">
               <div className="recent-track-details">
-                <div className="recent-track-name">{data.recentTrack.name}</div>
-                <div className="recent-track-artist">{data.recentTrack.artist}</div>
+                <div className="recent-track-name">{data.recentTracks[currentTrackIndex].name}</div>
+                <div className="recent-track-artist">{data.recentTracks[currentTrackIndex].artist}</div>
               </div>
-              <div className="recent-track-time">{getTimeAgo(data.recentTrack.playedAt)}</div>
+              <div className="recent-track-time">{getTimeAgo(data.recentTracks[currentTrackIndex].playedAt)}</div>
             </div>
             <div className="play-hint">Click to play on Spotify</div>
           </a>
