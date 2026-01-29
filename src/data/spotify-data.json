@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-01-23T21:27:22.213Z",
+  "lastUpdated": "2026-01-29T14:53:55.262Z",
   "recentTracks": [
     {
-      "name": "Doo Wop (That Thing)",
-      "artist": "Ms. Lauryn Hill",
-      "playedAt": "2026-01-23T21:24:25.622Z",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "name": "Mahè",
+      "name": "Stella del sud",
       "artist": "Piero Umiliani",
-      "playedAt": "2026-01-23T20:54:12.345Z",
-      "url": "https://open.spotify.com/track/1234567890abcdefghij"
+      "playedAt": "2026-01-27T06:38:57.646Z",
+      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
     },
     {
-      "name": "Everything in Its Right Place",
-      "artist": "Radiohead",
-      "playedAt": "2026-01-23T20:30:45.123Z",
-      "url": "https://open.spotify.com/track/abcdefghij1234567890"
+      "name": "Tanto tempo fa - Trumpet Version",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-01-27T00:58:02.693Z",
+      "url": "https://open.spotify.com/track/43cUOas7jWlbAuN0AIjd7Z"
     },
     {
-      "name": "Golden Brown",
-      "artist": "The Stranglers",
-      "playedAt": "2026-01-23T20:00:15.456Z",
-      "url": "https://open.spotify.com/track/xyz123abc456def789"
+      "name": "Un' isola felice - Extended Version",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-01-27T00:55:48.913Z",
+      "url": "https://open.spotify.com/track/42Lo6OMNb2uZfU27uYpxgL"
+    },
+    {
+      "name": "Pelle di luna - Hammond & Percussion Version",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-01-27T00:51:28.004Z",
+      "url": "https://open.spotify.com/track/5MlR5f43dKuBkGQ7fhEfp4"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 9,
+    "uniqueArtists": 5,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 8,
     "mostPlayedTrack": "Mahè",
     "mostPlayedCount": 4,
-    "peakHour": "8pm"
+    "peakHour": "0am"
   }
 }
