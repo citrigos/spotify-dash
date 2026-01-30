@@ -1,13 +1,34 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css';
-import spotifyData from './data/spotify-data.json';
-import axios from 'axios';
 
 function App() {
-  const [data] = useState(spotifyData);
-  const [isRefreshing, setIsRefreshing] = useState(false);
-  const [refreshMessage, setRefreshMessage] = useState('');
+  const [data, setData] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
   const [currentTrackIndex, setCurrentTrackIndex] = useState(0);
+
+  // Fetch fresh data from API on every page load
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setIsLoading(true);
+        const response = await fetch('/api/spotify');
+        if (!response.ok) {
+          throw new Error('Failed to fetch data');
+        }
+        const freshData = await response.json();
+        setData(freshData);
+        setError(null);
+      } catch (err) {
+        console.error('Error fetching Spotify data:', err);
+        setError('Failed to load data. Please refresh the page.');
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    fetchData();
+  }, []);
 
   const getTimeAgo = (timestamp) => {
     const now = new Date();
@@ -22,12 +43,6 @@ function App() {
     return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
   };
 
-  const formatLastUpdated = (timestamp) => {
-    const date = new Date(timestamp);
-    const options = { month: 'short', day: 'numeric', year: 'numeric' };
-    return date.toLocaleDateString('en-US', options);
-  };
-
   const handlePreviousTrack = (e) => {
     e.preventDefault();
     e.stopPropagation();
@@ -40,28 +55,35 @@ function App() {
     setCurrentTrackIndex((prev) => (prev < data.recentTracks.length - 1 ? prev + 1 : 0));
   };
 
-  const handleRefresh = async () => {
-    setIsRefreshing(true);
-    setRefreshMessage('');
+  // Show loading state
+  if (isLoading) {
+    return (
+      <div className="App">
+        <div className="dashboard-container">
+          <div className="loading-state">
+            <div className="loading-spinner"></div>
+            <p>Loading your Spotify data...</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
-    try {
-      // Use environment variable for API URL, fallback to localhost for development
-      const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
-      await axios.post(`${apiUrl}/api/refresh-spotify-data`);
-      setRefreshMessage('Refresh started! Data will update in 1-2 minutes.');
-
-      // Keep button disabled and reload after workflow completes
-      setTimeout(() => {
-        window.location.reload();
-      }, 90000); // Reload after 90 seconds
-
-      // Note: isRefreshing stays true until page reloads to prevent multiple clicks
-    } catch (error) {
-      console.error('Error refreshing data:', error);
-      setRefreshMessage('Failed to refresh. Make sure the server is running.');
-      setIsRefreshing(false); // Only re-enable on error
-    }
-  };
+  // Show error state
+  if (error || !data) {
+    return (
+      <div className="App">
+        <div className="dashboard-container">
+          <div className="error-state">
+            <p>{error || 'Something went wrong'}</p>
+            <button onClick={() => window.location.reload()} className="retry-button">
+              Try Again
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="App">
@@ -78,30 +100,12 @@ function App() {
               <div className="logo-text-group">
                 <h1 className="logo-text">Lali's Spotify Dash</h1>
                 <p className="header-subtitle">
-                  UI built with <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" className="inline-link">React</a> • Data from <a href="https://developer.spotify.com/documentation/web-api" target="_blank" rel="noopener noreferrer" className="inline-link">Spotify API</a> • Last updated: {formatLastUpdated(data.lastUpdated)}
+                  UI built with <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" className="inline-link">React</a> • Data from <a href="https://developer.spotify.com/documentation/web-api" target="_blank" rel="noopener noreferrer" className="inline-link">Spotify API</a> • Live data
                 </p>
               </div>
             </div>
           </div>
           <div className="header-right">
-            <button
-              onClick={handleRefresh}
-              disabled={isRefreshing}
-              className="refresh-button"
-              aria-label="Refresh Spotify data"
-              title="Refresh Spotify data"
-            >
-              <svg
-                width="20"
-                height="20"
-                viewBox="0 0 24 24"
-                fill="none"
-                className={isRefreshing ? 'spinning' : ''}
-              >
-                <path d="M4 12C4 16.4183 7.58172 20 12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
-                <path d="M4 12L7 9M4 12L7 15" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
-            </button>
             <a
               href="https://github.com/citrigos/spotify-dash"
               target="_blank"
@@ -115,12 +119,6 @@ function App() {
             </a>
           </div>
         </header>
-
-        {refreshMessage && (
-          <div className="refresh-message">
-            {refreshMessage}
-          </div>
-        )}
 
         <main className="dashboard-main">
           <a
