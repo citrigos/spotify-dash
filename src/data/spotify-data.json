@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-10T03:17:05.244Z",
+  "lastUpdated": "2026-02-10T07:16:59.734Z",
   "recentTracks": [
+    {
+      "name": "Only You",
+      "artist": "Steve Monite",
+      "playedAt": "2026-02-10T05:05:54.356Z",
+      "url": "https://open.spotify.com/track/0emBnGnUN9E3jT9gSIkr7w"
+    },
     {
       "name": "One More Time",
       "artist": "Daft Punk",
@@ -18,18 +24,12 @@
       "artist": "Mac Miller",
       "playedAt": "2026-02-08T05:48:05.768Z",
       "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
-    },
-    {
-      "name": "Lovely Day",
-      "artist": "Bill Withers",
-      "playedAt": "2026-02-08T05:43:16.946Z",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 10,
+    "uniqueArtists": 11,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 4,
