@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-02-10T13:42:29.747Z",
+  "lastUpdated": "2026-02-10T19:18:01.671Z",
   "recentTracks": [
     {
-      "name": "Only You",
-      "artist": "Steve Monite",
-      "playedAt": "2026-02-10T05:05:54.356Z",
-      "url": "https://open.spotify.com/track/0emBnGnUN9E3jT9gSIkr7w"
+      "name": "Crazy",
+      "artist": "Gnarls Barkley",
+      "playedAt": "2026-02-10T15:20:42.485Z",
+      "url": "https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ"
     },
     {
-      "name": "One More Time",
-      "artist": "Daft Punk",
-      "playedAt": "2026-02-08T05:56:54.895Z",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
-    },
-    {
-      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
-      "artist": "Kali Uchis",
-      "playedAt": "2026-02-08T05:51:34.070Z",
-      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
-    },
-    {
-      "name": "What's the Use?",
+      "name": "Dang! (feat. Anderson .Paak)",
       "artist": "Mac Miller",
-      "playedAt": "2026-02-08T05:48:05.768Z",
-      "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
+      "playedAt": "2026-02-10T15:17:38.345Z",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "name": "Time of the Season - Mono Remastered",
+      "artist": "The Zombies",
+      "playedAt": "2026-02-10T15:12:32.742Z",
+      "url": "https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI"
+    },
+    {
+      "name": "Borderline",
+      "artist": "Tame Impala",
+      "playedAt": "2026-02-10T15:09:01.980Z",
+      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 11,
+    "uniqueArtists": 15,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Mahè",
-    "mostPlayedCount": 2,
+    "repeatRate": 2,
+    "mostPlayedTrack": "Crazy",
+    "mostPlayedCount": 1,
     "peakHour": "0am"
   }
 }
