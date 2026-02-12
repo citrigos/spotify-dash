@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-12T13:26:45.169Z",
+  "lastUpdated": "2026-02-12T19:14:33.117Z",
   "recentTracks": [
+    {
+      "name": "September",
+      "artist": "Earth, Wind & Fire",
+      "playedAt": "2026-02-12T16:45:53.259Z",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
     {
       "name": "Crazy",
       "artist": "Gnarls Barkley",
@@ -18,22 +24,16 @@
       "artist": "The Zombies",
       "playedAt": "2026-02-10T15:12:32.742Z",
       "url": "https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI"
-    },
-    {
-      "name": "Borderline",
-      "artist": "Tame Impala",
-      "playedAt": "2026-02-10T15:09:01.980Z",
-      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 15,
-    "topArtist": "Piero Umiliani",
+    "uniqueArtists": 16,
+    "topArtist": "A$AP Rocky",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Crazy",
+    "mostPlayedTrack": "September",
     "mostPlayedCount": 1,
     "peakHour": "0am"
   }
