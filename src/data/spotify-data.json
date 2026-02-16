@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-15T18:49:04.178Z",
+  "lastUpdated": "2026-02-16T02:50:59.346Z",
   "recentTracks": [
+    {
+      "name": "ME JALO",
+      "artist": "Fuerza Regida",
+      "playedAt": "2026-02-16T00:45:39.090Z",
+      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
     {
       "name": "September",
       "artist": "Earth, Wind & Fire",
@@ -18,22 +24,16 @@
       "artist": "Mac Miller",
       "playedAt": "2026-02-10T15:17:38.345Z",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
-    },
-    {
-      "name": "Time of the Season - Mono Remastered",
-      "artist": "The Zombies",
-      "playedAt": "2026-02-10T15:12:32.742Z",
-      "url": "https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 16,
-    "topArtist": "A$AP Rocky",
+    "uniqueArtists": 17,
+    "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "September",
+    "mostPlayedTrack": "ME JALO",
     "mostPlayedCount": 1,
     "peakHour": "0am"
   }
