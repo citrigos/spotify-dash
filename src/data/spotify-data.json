@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-02-16T18:56:23.456Z",
+  "lastUpdated": "2026-02-17T02:47:27.938Z",
   "recentTracks": [
     {
-      "name": "ME JALO",
-      "artist": "Fuerza Regida",
-      "playedAt": "2026-02-16T00:45:39.090Z",
-      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+      "name": "Comparisons",
+      "artist": "Rick Bars",
+      "playedAt": "2026-02-16T21:35:00.434Z",
+      "url": "https://open.spotify.com/track/4KKSP0kvUaMBC05i1dw2xO"
     },
     {
-      "name": "September",
-      "artist": "Earth, Wind & Fire",
-      "playedAt": "2026-02-12T16:45:53.259Z",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+      "name": "Ricordandoti",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-02-16T21:33:28.635Z",
+      "url": "https://open.spotify.com/track/4acYM2ql5qiU7yXtz9KM1n"
     },
     {
-      "name": "Crazy",
-      "artist": "Gnarls Barkley",
-      "playedAt": "2026-02-10T15:20:42.485Z",
-      "url": "https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ"
+      "name": "Stella del sud",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-02-16T20:49:13.729Z",
+      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
     },
     {
-      "name": "Dang! (feat. Anderson .Paak)",
-      "artist": "Mac Miller",
-      "playedAt": "2026-02-10T15:17:38.345Z",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+      "name": "Tanto tempo fa - Trumpet Version",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-02-16T20:46:18.678Z",
+      "url": "https://open.spotify.com/track/43cUOas7jWlbAuN0AIjd7Z"
     }
   ],
   "stats": {
@@ -32,9 +32,9 @@
     "uniqueArtists": 17,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "ME JALO",
-    "mostPlayedCount": 1,
+    "repeatRate": 4,
+    "mostPlayedTrack": "Stella del sud",
+    "mostPlayedCount": 2,
     "peakHour": "0am"
   }
 }
