@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-17T07:09:18.399Z",
+  "lastUpdated": "2026-02-17T13:21:28.995Z",
   "recentTracks": [
+    {
+      "name": "paybacc",
+      "artist": "Westside Webb",
+      "playedAt": "2026-02-17T07:56:35.414Z",
+      "url": "https://open.spotify.com/track/6c3kWWG5OV1hZh8ZSE2AHs"
+    },
     {
       "name": "Comparisons",
       "artist": "Rick Bars",
@@ -18,18 +24,12 @@
       "artist": "Piero Umiliani",
       "playedAt": "2026-02-16T20:49:13.729Z",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
-    },
-    {
-      "name": "Tanto tempo fa - Trumpet Version",
-      "artist": "Piero Umiliani",
-      "playedAt": "2026-02-16T20:46:18.678Z",
-      "url": "https://open.spotify.com/track/43cUOas7jWlbAuN0AIjd7Z"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 17,
+    "uniqueArtists": 18,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 4,
