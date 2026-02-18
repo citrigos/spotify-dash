@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-18T02:50:27.748Z",
+  "lastUpdated": "2026-02-18T07:11:38.461Z",
   "recentTracks": [
+    {
+      "name": "paybacc",
+      "artist": "Westside Webb",
+      "playedAt": "2026-02-18T06:46:13.729Z",
+      "url": "https://open.spotify.com/track/6c3kWWG5OV1hZh8ZSE2AHs"
+    },
     {
       "name": "paybacc",
       "artist": "Westside Webb",
@@ -18,12 +24,6 @@
       "artist": "Piero Umiliani",
       "playedAt": "2026-02-16T21:33:28.635Z",
       "url": "https://open.spotify.com/track/4acYM2ql5qiU7yXtz9KM1n"
-    },
-    {
-      "name": "Stella del sud",
-      "artist": "Piero Umiliani",
-      "playedAt": "2026-02-16T20:49:13.729Z",
-      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Stella del sud",
+    "mostPlayedTrack": "paybacc",
     "mostPlayedCount": 2,
     "peakHour": "0am"
   }
