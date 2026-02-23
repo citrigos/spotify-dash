@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-23T02:51:07.148Z",
+  "lastUpdated": "2026-02-23T07:16:44.956Z",
   "recentTracks": [
+    {
+      "name": "paybacc",
+      "artist": "Westside Webb",
+      "playedAt": "2026-02-23T04:37:14.399Z",
+      "url": "https://open.spotify.com/track/6c3kWWG5OV1hZh8ZSE2AHs"
+    },
     {
       "name": "paybacc",
       "artist": "Westside Webb",
@@ -18,23 +24,17 @@
       "artist": "Rick Bars",
       "playedAt": "2026-02-16T21:35:00.434Z",
       "url": "https://open.spotify.com/track/4KKSP0kvUaMBC05i1dw2xO"
-    },
-    {
-      "name": "Ricordandoti",
-      "artist": "Piero Umiliani",
-      "playedAt": "2026-02-16T21:33:28.635Z",
-      "url": "https://open.spotify.com/track/4acYM2ql5qiU7yXtz9KM1n"
     }
   ],
   "stats": {
     "tracksPlayed": 38,
     "listeningHours": 2,
-    "uniqueArtists": 17,
+    "uniqueArtists": 16,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 1,
-    "repeatRate": 5,
+    "repeatRate": 8,
     "mostPlayedTrack": "paybacc",
-    "mostPlayedCount": 2,
+    "mostPlayedCount": 3,
     "peakHour": "8pm"
   }
 }
