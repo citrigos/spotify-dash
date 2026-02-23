@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T18:48:16.584Z",
+  "lastUpdated": "2026-02-23T02:51:07.148Z",
   "recentTracks": [
     {
       "name": "paybacc",
@@ -27,14 +27,14 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 50,
-    "listeningHours": 3,
-    "uniqueArtists": 18,
+    "tracksPlayed": 38,
+    "listeningHours": 2,
+    "uniqueArtists": 17,
     "topArtist": "Piero Umiliani",
-    "dailyAverage": 2,
-    "repeatRate": 4,
+    "dailyAverage": 1,
+    "repeatRate": 5,
     "mostPlayedTrack": "paybacc",
     "mostPlayedCount": 2,
-    "peakHour": "0am"
+    "peakHour": "8pm"
   }
 }
