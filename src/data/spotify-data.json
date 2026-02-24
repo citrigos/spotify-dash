@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-24T07:11:20.361Z",
+  "lastUpdated": "2026-02-24T13:24:28.241Z",
   "recentTracks": [
+    {
+      "name": "Nunca Es Suficiente",
+      "artist": "Los Ángeles Azules",
+      "playedAt": "2026-02-24T11:07:36.864Z",
+      "url": "https://open.spotify.com/track/3Tujryc6a2kCgiShoXNTWE"
+    },
     {
       "name": "paybacc",
       "artist": "Westside Webb",
@@ -18,18 +24,12 @@
       "artist": "Westside Webb",
       "playedAt": "2026-02-17T07:56:35.414Z",
       "url": "https://open.spotify.com/track/6c3kWWG5OV1hZh8ZSE2AHs"
-    },
-    {
-      "name": "Comparisons",
-      "artist": "Rick Bars",
-      "playedAt": "2026-02-16T21:35:00.434Z",
-      "url": "https://open.spotify.com/track/4KKSP0kvUaMBC05i1dw2xO"
     }
   ],
   "stats": {
-    "tracksPlayed": 38,
+    "tracksPlayed": 39,
     "listeningHours": 2,
-    "uniqueArtists": 16,
+    "uniqueArtists": 17,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 1,
     "repeatRate": 8,
