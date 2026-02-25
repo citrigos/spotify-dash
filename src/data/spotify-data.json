@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-25T02:49:06.455Z",
+  "lastUpdated": "2026-02-25T07:11:51.136Z",
   "recentTracks": [
+    {
+      "name": "テレフォン・ナンバー",
+      "artist": "Junko Ohashi",
+      "playedAt": "2026-02-25T05:52:57.184Z",
+      "url": "https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1"
+    },
     {
       "name": "Ode to an African Violet",
       "artist": "Mort Garson",
@@ -18,18 +24,12 @@
       "artist": "Piero Umiliani",
       "playedAt": "2026-02-25T00:12:07.715Z",
       "url": "https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq"
-    },
-    {
-      "name": "Oh! Lord",
-      "artist": "Cortex",
-      "playedAt": "2026-02-25T00:09:25.067Z",
-      "url": "https://open.spotify.com/track/6eOakRQ7XEMnHooLJ6LzJ4"
     }
   ],
   "stats": {
-    "tracksPlayed": 47,
+    "tracksPlayed": 48,
     "listeningHours": 3,
-    "uniqueArtists": 24,
+    "uniqueArtists": 25,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 2,
     "repeatRate": 6,
