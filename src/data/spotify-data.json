@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T13:23:33.808Z",
+  "lastUpdated": "2026-02-25T19:15:42.736Z",
   "recentTracks": [
     {
       "name": "テレフォン・ナンバー",
@@ -27,14 +27,14 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 48,
-    "listeningHours": 3,
+    "tracksPlayed": 40,
+    "listeningHours": 2,
     "uniqueArtists": 25,
     "topArtist": "Piero Umiliani",
-    "dailyAverage": 2,
-    "repeatRate": 6,
-    "mostPlayedTrack": "Mahè",
+    "dailyAverage": 1,
+    "repeatRate": 8,
+    "mostPlayedTrack": "paybacc",
     "mostPlayedCount": 3,
-    "peakHour": "0am"
+    "peakHour": "8pm"
   }
 }
