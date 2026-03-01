@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-02-28T18:43:23.748Z",
+  "lastUpdated": "2026-03-01T03:14:33.863Z",
   "recentTracks": [
     {
-      "name": "Ladders",
-      "artist": "Mac Miller",
-      "playedAt": "2026-02-28T17:15:26.914Z",
-      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+      "name": "You Make Loving Fun - 2004 Remaster",
+      "artist": "Fleetwood Mac",
+      "playedAt": "2026-03-01T00:52:34.251Z",
+      "url": "https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j"
     },
     {
-      "name": "10% (feat. Kali Uchis)",
-      "artist": "KAYTRANADA",
-      "playedAt": "2026-02-28T17:10:42.552Z",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
+      "name": "Ventura Highway",
+      "artist": "America",
+      "playedAt": "2026-03-01T00:49:00.612Z",
+      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
     },
     {
-      "name": "Best of My Love",
-      "artist": "The Emotions",
-      "playedAt": "2026-02-28T17:07:42.684Z",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+      "name": "Time of the Season - Mono Remastered",
+      "artist": "The Zombies",
+      "playedAt": "2026-03-01T00:45:27.961Z",
+      "url": "https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI"
     },
     {
-      "name": "Wouldn't It Be Nice",
-      "artist": "The Beach Boys",
-      "playedAt": "2026-02-28T17:04:01.464Z",
-      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc"
+      "name": "All You Need Is Love - Remastered 2009",
+      "artist": "The Beatles",
+      "playedAt": "2026-03-01T00:41:56.843Z",
+      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
     }
   ],
   "stats": {
-    "tracksPlayed": 40,
+    "tracksPlayed": 39,
     "listeningHours": 2,
-    "uniqueArtists": 25,
+    "uniqueArtists": 26,
     "topArtist": "Piero Umiliani",
     "dailyAverage": 1,
     "repeatRate": 8,
     "mostPlayedTrack": "paybacc",
     "mostPlayedCount": 3,
-    "peakHour": "8pm"
+    "peakHour": "0am"
   }
 }
