@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-01T18:45:16.653Z",
+  "lastUpdated": "2026-03-02T02:45:21.675Z",
   "recentTracks": [
     {
-      "name": "Mary Jane (All Night Long)",
-      "artist": "Mary J. Blige",
-      "playedAt": "2026-03-01T06:36:48.001Z",
-      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
+      "name": "You Make My Dreams (Come True)",
+      "artist": "Daryl Hall & John Oates",
+      "playedAt": "2026-03-01T23:23:04.231Z",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
-      "name": "You Make Loving Fun - 2004 Remaster",
-      "artist": "Fleetwood Mac",
-      "playedAt": "2026-03-01T00:52:34.251Z",
-      "url": "https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j"
+      "name": "Stumblin' In - 2017 Remaster",
+      "artist": "Chris Norman",
+      "playedAt": "2026-03-01T23:19:52.895Z",
+      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
     },
     {
-      "name": "Ventura Highway",
-      "artist": "America",
-      "playedAt": "2026-03-01T00:49:00.612Z",
-      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+      "name": "Boogie Wonderland (with The Emotions)",
+      "artist": "Earth, Wind & Fire",
+      "playedAt": "2026-03-01T23:15:54.097Z",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
-      "name": "Time of the Season - Mono Remastered",
-      "artist": "The Zombies",
-      "playedAt": "2026-03-01T00:45:27.961Z",
-      "url": "https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI"
+      "name": "Twist And Shout - Remastered 2009",
+      "artist": "The Beatles",
+      "playedAt": "2026-03-01T23:11:03.877Z",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     }
   ],
   "stats": {
-    "tracksPlayed": 39,
-    "listeningHours": 2,
-    "uniqueArtists": 27,
-    "topArtist": "Piero Umiliani",
-    "dailyAverage": 1,
-    "repeatRate": 8,
-    "mostPlayedTrack": "paybacc",
-    "mostPlayedCount": 3,
-    "peakHour": "0am"
+    "tracksPlayed": 49,
+    "listeningHours": 3,
+    "uniqueArtists": 21,
+    "topArtist": "The Beatles",
+    "dailyAverage": 2,
+    "repeatRate": 2,
+    "mostPlayedTrack": "You Make My Dreams (Come True)",
+    "mostPlayedCount": 1,
+    "peakHour": "10pm"
   }
 }
