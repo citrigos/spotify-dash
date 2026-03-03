@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-02T18:59:45.007Z",
+  "lastUpdated": "2026-03-03T02:48:22.908Z",
   "recentTracks": [
     {
-      "name": "You Make My Dreams (Come True)",
-      "artist": "Daryl Hall & John Oates",
-      "playedAt": "2026-03-01T23:23:04.231Z",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+      "name": "True Colors",
+      "artist": "The Weeknd",
+      "playedAt": "2026-03-02T21:41:36.902Z",
+      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
     },
     {
-      "name": "Stumblin' In - 2017 Remaster",
-      "artist": "Chris Norman",
-      "playedAt": "2026-03-01T23:19:52.895Z",
-      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
+      "name": "Mi O Ni Gba",
+      "artist": "Burna Boy",
+      "playedAt": "2026-03-02T21:38:07.105Z",
+      "url": "https://open.spotify.com/track/6hlNjPxi0EuQFE9U6jzUcX"
     },
     {
-      "name": "Boogie Wonderland (with The Emotions)",
-      "artist": "Earth, Wind & Fire",
-      "playedAt": "2026-03-01T23:15:54.097Z",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+      "name": "Gyöngyhajú lány",
+      "artist": "Omega",
+      "playedAt": "2026-03-02T21:35:08.215Z",
+      "url": "https://open.spotify.com/track/0a8GdGZ0QrwdLOzPoLo9Em"
     },
     {
-      "name": "Twist And Shout - Remastered 2009",
-      "artist": "The Beatles",
-      "playedAt": "2026-03-01T23:11:03.877Z",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+      "name": "Tema di Susie",
+      "artist": "Alessandro Alessandroni",
+      "playedAt": "2026-03-02T21:23:22.206Z",
+      "url": "https://open.spotify.com/track/1YOOCK06gvytuk1jPk5XdN"
     }
   ],
   "stats": {
-    "tracksPlayed": 49,
+    "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 21,
+    "uniqueArtists": 23,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "You Make My Dreams (Come True)",
-    "mostPlayedCount": 1,
-    "peakHour": "10pm"
+    "repeatRate": 4,
+    "mostPlayedTrack": "Poxa",
+    "mostPlayedCount": 2,
+    "peakHour": "9pm"
   }
 }
