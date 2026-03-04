@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-04T02:41:15.264Z",
+  "lastUpdated": "2026-03-04T06:59:53.921Z",
   "recentTracks": [
+    {
+      "name": "Perfect Day",
+      "artist": "Lou Reed",
+      "playedAt": "2026-03-04T05:20:29.806Z",
+      "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
+    },
     {
       "name": "Cold War",
       "artist": "Cautious Clay",
@@ -18,18 +24,12 @@
       "artist": "SZA",
       "playedAt": "2026-03-03T17:26:17.899Z",
       "url": "https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU"
-    },
-    {
-      "name": "Eyes Like Yours (Ojos Así)",
-      "artist": "Shakira",
-      "playedAt": "2026-03-03T17:22:45.777Z",
-      "url": "https://open.spotify.com/track/5I2VapAoss9eQHmuwXfoMt"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 29,
+    "uniqueArtists": 30,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
