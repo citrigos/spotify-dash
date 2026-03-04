@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-04T13:14:20.270Z",
+  "lastUpdated": "2026-03-04T19:01:52.780Z",
   "recentTracks": [
+    {
+      "name": "My Sweet Lord - 2014 Remaster",
+      "artist": "George Harrison",
+      "playedAt": "2026-03-04T16:10:58.832Z",
+      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
+    },
+    {
+      "name": "Old Man",
+      "artist": "Neil Young",
+      "playedAt": "2026-03-04T16:06:16.262Z",
+      "url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8"
+    },
     {
       "name": "Perfect Day",
       "artist": "Lou Reed",
-      "playedAt": "2026-03-04T05:20:29.806Z",
+      "playedAt": "2026-03-04T16:02:52.619Z",
       "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
     },
     {
-      "name": "Cold War",
-      "artist": "Cautious Clay",
-      "playedAt": "2026-03-03T17:32:23.890Z",
-      "url": "https://open.spotify.com/track/2GnmsSi16I8TcBMYejR7Mb"
-    },
-    {
-      "name": "Alien Boy",
-      "artist": "Oliver Tree",
-      "playedAt": "2026-03-03T17:29:00.529Z",
-      "url": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
-    },
-    {
-      "name": "Supermodel",
-      "artist": "SZA",
-      "playedAt": "2026-03-03T17:26:17.899Z",
-      "url": "https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU"
+      "name": "Let Go",
+      "artist": "Ark Patrol",
+      "playedAt": "2026-03-04T15:57:07.092Z",
+      "url": "https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 30,
+    "uniqueArtists": 34,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Poxa",
+    "mostPlayedTrack": "Perfect Day",
     "mostPlayedCount": 2,
-    "peakHour": "9pm"
+    "peakHour": "10pm"
   }
 }
