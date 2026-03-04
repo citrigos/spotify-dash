@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-03-03T13:15:08.127Z",
+  "lastUpdated": "2026-03-04T02:41:15.264Z",
   "recentTracks": [
     {
-      "name": "True Colors",
-      "artist": "The Weeknd",
-      "playedAt": "2026-03-02T21:41:36.902Z",
-      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
+      "name": "Cold War",
+      "artist": "Cautious Clay",
+      "playedAt": "2026-03-03T17:32:23.890Z",
+      "url": "https://open.spotify.com/track/2GnmsSi16I8TcBMYejR7Mb"
     },
     {
-      "name": "Mi O Ni Gba",
-      "artist": "Burna Boy",
-      "playedAt": "2026-03-02T21:38:07.105Z",
-      "url": "https://open.spotify.com/track/6hlNjPxi0EuQFE9U6jzUcX"
+      "name": "Alien Boy",
+      "artist": "Oliver Tree",
+      "playedAt": "2026-03-03T17:29:00.529Z",
+      "url": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
     },
     {
-      "name": "Gyöngyhajú lány",
-      "artist": "Omega",
-      "playedAt": "2026-03-02T21:35:08.215Z",
-      "url": "https://open.spotify.com/track/0a8GdGZ0QrwdLOzPoLo9Em"
+      "name": "Supermodel",
+      "artist": "SZA",
+      "playedAt": "2026-03-03T17:26:17.899Z",
+      "url": "https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU"
     },
     {
-      "name": "Tema di Susie",
-      "artist": "Alessandro Alessandroni",
-      "playedAt": "2026-03-02T21:23:22.206Z",
-      "url": "https://open.spotify.com/track/1YOOCK06gvytuk1jPk5XdN"
+      "name": "Eyes Like Yours (Ojos Así)",
+      "artist": "Shakira",
+      "playedAt": "2026-03-03T17:22:45.777Z",
+      "url": "https://open.spotify.com/track/5I2VapAoss9eQHmuwXfoMt"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 23,
+    "uniqueArtists": 29,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
