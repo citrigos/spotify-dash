@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-03-05T13:18:06.119Z",
+  "lastUpdated": "2026-03-05T19:22:21.725Z",
   "recentTracks": [
     {
-      "name": "Ballad of Sir Frankie Crisp (Let It Roll) - 2014 Remaster",
+      "name": "I Live for You - 2014 Remaster",
       "artist": "George Harrison",
-      "playedAt": "2026-03-05T01:02:19.412Z",
-      "url": "https://open.spotify.com/track/6tV34f3JK3le2YIQMo9ECt"
+      "playedAt": "2026-03-05T18:33:22.333Z",
+      "url": "https://open.spotify.com/track/6YU1CWbu43zkv21W0FyN10"
     },
     {
-      "name": "Ain't No Mountain High Enough",
-      "artist": "Marvin Gaye",
-      "playedAt": "2026-03-05T00:55:37.552Z",
-      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
+      "name": "トーキョーレギー",
+      "artist": "Masayoshi Takanaka",
+      "playedAt": "2026-03-05T18:29:44.962Z",
+      "url": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW"
     },
     {
-      "name": "Olson",
-      "artist": "Boards of Canada",
-      "playedAt": "2026-03-05T00:53:05.452Z",
-      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
+      "name": "Let Her Go",
+      "artist": "Mac DeMarco",
+      "playedAt": "2026-03-05T18:25:48.472Z",
+      "url": "https://open.spotify.com/track/2JPlAh94PTtjZmCs2dY0P7"
     },
     {
-      "name": "Violent Crimes",
-      "artist": "Kanye West",
-      "playedAt": "2026-03-05T00:45:39.734Z",
-      "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+      "name": "If Not for You - 2014 Remaster",
+      "artist": "George Harrison",
+      "playedAt": "2026-03-05T18:12:53.414Z",
+      "url": "https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 44,
+    "uniqueArtists": 41,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
