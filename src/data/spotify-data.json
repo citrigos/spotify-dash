@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-04T19:01:52.780Z",
+  "lastUpdated": "2026-03-05T02:43:47.412Z",
   "recentTracks": [
     {
-      "name": "My Sweet Lord - 2014 Remaster",
+      "name": "Ballad of Sir Frankie Crisp (Let It Roll) - 2014 Remaster",
       "artist": "George Harrison",
-      "playedAt": "2026-03-04T16:10:58.832Z",
-      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
+      "playedAt": "2026-03-05T01:02:19.412Z",
+      "url": "https://open.spotify.com/track/6tV34f3JK3le2YIQMo9ECt"
     },
     {
-      "name": "Old Man",
-      "artist": "Neil Young",
-      "playedAt": "2026-03-04T16:06:16.262Z",
-      "url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8"
+      "name": "Ain't No Mountain High Enough",
+      "artist": "Marvin Gaye",
+      "playedAt": "2026-03-05T00:55:37.552Z",
+      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
     },
     {
-      "name": "Perfect Day",
-      "artist": "Lou Reed",
-      "playedAt": "2026-03-04T16:02:52.619Z",
-      "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
+      "name": "Olson",
+      "artist": "Boards of Canada",
+      "playedAt": "2026-03-05T00:53:05.452Z",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
     },
     {
-      "name": "Let Go",
-      "artist": "Ark Patrol",
-      "playedAt": "2026-03-04T15:57:07.092Z",
-      "url": "https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe"
+      "name": "Violent Crimes",
+      "artist": "Kanye West",
+      "playedAt": "2026-03-05T00:45:39.734Z",
+      "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 34,
+    "uniqueArtists": 44,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
     "mostPlayedTrack": "Perfect Day",
     "mostPlayedCount": 2,
-    "peakHour": "10pm"
+    "peakHour": "9pm"
   }
 }
