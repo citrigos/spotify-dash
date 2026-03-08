@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-07T18:44:52.166Z",
+  "lastUpdated": "2026-03-08T02:47:48.961Z",
   "recentTracks": [
+    {
+      "name": "Plantasia",
+      "artist": "Mort Garson",
+      "playedAt": "2026-03-07T20:16:05.203Z",
+      "url": "https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f"
+    },
     {
       "name": "I Can't Go for That (No Can Do)",
       "artist": "Daryl Hall & John Oates",
@@ -18,12 +24,6 @@
       "artist": "Masayoshi Takanaka",
       "playedAt": "2026-03-05T18:29:44.962Z",
       "url": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW"
-    },
-    {
-      "name": "Let Her Go",
-      "artist": "Mac DeMarco",
-      "playedAt": "2026-03-05T18:25:48.472Z",
-      "url": "https://open.spotify.com/track/2JPlAh94PTtjZmCs2dY0P7"
     }
   ],
   "stats": {
