@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-08T06:55:26.554Z",
+  "lastUpdated": "2026-03-08T13:04:45.615Z",
   "recentTracks": [
     {
-      "name": "Plantasia",
-      "artist": "Mort Garson",
-      "playedAt": "2026-03-07T20:16:05.203Z",
-      "url": "https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f"
+      "name": "Bless the Telephone",
+      "artist": "Labi Siffre",
+      "playedAt": "2026-03-08T09:45:04.592Z",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     },
     {
-      "name": "I Can't Go for That (No Can Do)",
-      "artist": "Daryl Hall & John Oates",
-      "playedAt": "2026-03-07T17:19:38.816Z",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+      "name": "Plastic Jesus",
+      "artist": "Tia Blake",
+      "playedAt": "2026-03-08T09:37:19.698Z",
+      "url": "https://open.spotify.com/track/5WNfllr5vx9PWc3e5B4eYi"
     },
     {
-      "name": "I Live for You - 2014 Remaster",
+      "name": "Sunday Morning",
+      "artist": "The Velvet Underground",
+      "playedAt": "2026-03-08T09:28:05.707Z",
+      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
+    },
+    {
+      "name": "Ballad of Sir Frankie Crisp (Let It Roll) - 2014 Remaster",
       "artist": "George Harrison",
-      "playedAt": "2026-03-05T18:33:22.333Z",
-      "url": "https://open.spotify.com/track/6YU1CWbu43zkv21W0FyN10"
-    },
-    {
-      "name": "トーキョーレギー",
-      "artist": "Masayoshi Takanaka",
-      "playedAt": "2026-03-05T18:29:44.962Z",
-      "url": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW"
+      "playedAt": "2026-03-08T09:25:09.210Z",
+      "url": "https://open.spotify.com/track/6tV34f3JK3le2YIQMo9ECt"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 41,
+    "uniqueArtists": 39,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Perfect Day",
+    "mostPlayedTrack": "Sunday Morning",
     "mostPlayedCount": 2,
-    "peakHour": "9pm"
+    "peakHour": "0am"
   }
 }
