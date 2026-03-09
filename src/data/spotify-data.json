@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-09T13:21:39.931Z",
+  "lastUpdated": "2026-03-09T19:03:05.267Z",
   "recentTracks": [
+    {
+      "name": "Waiting for the Sun",
+      "artist": "The Doors",
+      "playedAt": "2026-03-09T15:28:07.700Z",
+      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+    },
     {
       "name": "Sunday Morning",
       "artist": "The Velvet Underground",
@@ -18,12 +24,6 @@
       "artist": "Labi Siffre",
       "playedAt": "2026-03-08T09:45:04.592Z",
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
-    },
-    {
-      "name": "Plastic Jesus",
-      "artist": "Tia Blake",
-      "playedAt": "2026-03-08T09:37:19.698Z",
-      "url": "https://open.spotify.com/track/5WNfllr5vx9PWc3e5B4eYi"
     }
   ],
   "stats": {
