@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-09T07:12:29.352Z",
+  "lastUpdated": "2026-03-09T13:21:39.931Z",
   "recentTracks": [
+    {
+      "name": "Sunday Morning",
+      "artist": "The Velvet Underground",
+      "playedAt": "2026-03-09T08:01:51.241Z",
+      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
+    },
     {
       "name": "You And Me",
       "artist": "Penny & The Quarters",
@@ -18,23 +24,17 @@
       "artist": "Tia Blake",
       "playedAt": "2026-03-08T09:37:19.698Z",
       "url": "https://open.spotify.com/track/5WNfllr5vx9PWc3e5B4eYi"
-    },
-    {
-      "name": "Sunday Morning",
-      "artist": "The Velvet Underground",
-      "playedAt": "2026-03-08T09:28:05.707Z",
-      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 39,
+    "uniqueArtists": 38,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 4,
+    "repeatRate": 6,
     "mostPlayedTrack": "Sunday Morning",
-    "mostPlayedCount": 2,
+    "mostPlayedCount": 3,
     "peakHour": "0am"
   }
 }
