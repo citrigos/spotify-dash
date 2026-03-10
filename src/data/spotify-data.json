@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-10T07:02:06.330Z",
+  "lastUpdated": "2026-03-10T13:19:13.199Z",
   "recentTracks": [
+    {
+      "name": "Plastic Jesus",
+      "artist": "Tia Blake",
+      "playedAt": "2026-03-10T07:49:58.950Z",
+      "url": "https://open.spotify.com/track/5WNfllr5vx9PWc3e5B4eYi"
+    },
     {
       "name": "Waiting for the Sun",
       "artist": "The Doors",
@@ -18,18 +24,12 @@
       "artist": "Penny & The Quarters",
       "playedAt": "2026-03-08T19:43:57.148Z",
       "url": "https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec"
-    },
-    {
-      "name": "Bless the Telephone",
-      "artist": "Labi Siffre",
-      "playedAt": "2026-03-08T09:45:04.592Z",
-      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 38,
+    "uniqueArtists": 37,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 6,
