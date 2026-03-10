@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-03-10T13:19:13.199Z",
+  "lastUpdated": "2026-03-10T19:00:51.874Z",
   "recentTracks": [
     {
-      "name": "Plastic Jesus",
-      "artist": "Tia Blake",
-      "playedAt": "2026-03-10T07:49:58.950Z",
-      "url": "https://open.spotify.com/track/5WNfllr5vx9PWc3e5B4eYi"
+      "name": "Isn't It a Pity - 2014 Remaster",
+      "artist": "George Harrison",
+      "playedAt": "2026-03-10T15:30:54.885Z",
+      "url": "https://open.spotify.com/track/0vTvkf24wkCG3DTKgoNnih"
     },
     {
-      "name": "Waiting for the Sun",
-      "artist": "The Doors",
-      "playedAt": "2026-03-09T15:28:07.700Z",
-      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+      "name": "Ghost Song",
+      "artist": "Jim Morrison",
+      "playedAt": "2026-03-10T15:23:42.962Z",
+      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
     },
     {
-      "name": "Sunday Morning",
+      "name": "For What It's Worth",
+      "artist": "Buffalo Springfield",
+      "playedAt": "2026-03-10T15:20:52.419Z",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
+    },
+    {
+      "name": "Oh! Sweet Nuthin' - 2015 Remaster",
       "artist": "The Velvet Underground",
-      "playedAt": "2026-03-09T08:01:51.241Z",
-      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
-    },
-    {
-      "name": "You And Me",
-      "artist": "Penny & The Quarters",
-      "playedAt": "2026-03-08T19:43:57.148Z",
-      "url": "https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec"
+      "playedAt": "2026-03-10T15:18:17.923Z",
+      "url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 37,
+    "uniqueArtists": 33,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 6,
-    "mostPlayedTrack": "Sunday Morning",
+    "mostPlayedTrack": "Plastic Jesus",
     "mostPlayedCount": 3,
     "peakHour": "0am"
   }
