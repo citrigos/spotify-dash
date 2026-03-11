@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-11T13:18:41.337Z",
+  "lastUpdated": "2026-03-11T19:03:26.185Z",
   "recentTracks": [
     {
-      "name": "Hello, Goodbye - Remastered 2009",
-      "artist": "The Beatles",
-      "playedAt": "2026-03-11T09:02:07.464Z",
-      "url": "https://open.spotify.com/track/0vZ97gHhemKm6c64hTfJNA"
+      "name": "To Zion (feat. Carlos Santana)",
+      "artist": "Ms. Lauryn Hill",
+      "playedAt": "2026-03-11T18:55:30.966Z",
+      "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
     },
     {
-      "name": "Ready or Not",
-      "artist": "Fugees",
-      "playedAt": "2026-03-11T08:31:03.285Z",
-      "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
+      "name": "Ex-Factor",
+      "artist": "Ms. Lauryn Hill",
+      "playedAt": "2026-03-11T18:54:31.830Z",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
     },
     {
-      "name": "How Many Mics",
+      "name": "The Mask",
       "artist": "Fugees",
-      "playedAt": "2026-03-11T08:27:16.534Z",
-      "url": "https://open.spotify.com/track/2lOnbK3gm1N6keYkUD3mis"
+      "playedAt": "2026-03-11T17:33:46.600Z",
+      "url": "https://open.spotify.com/track/6T1FGOC96wa0vaZ6qIz8VK"
     },
     {
-      "name": "Red Intro",
-      "artist": "Fugees",
-      "playedAt": "2026-03-11T08:22:47.498Z",
-      "url": "https://open.spotify.com/track/5Amv02LQjNrMSoOT2L2WmQ"
+      "name": "Hey Nineteen",
+      "artist": "Steely Dan",
+      "playedAt": "2026-03-11T17:31:34.664Z",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 31,
+    "uniqueArtists": 25,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 6,
     "mostPlayedTrack": "Plastic Jesus",
     "mostPlayedCount": 3,
-    "peakHour": "0am"
+    "peakHour": "2pm"
   }
 }
