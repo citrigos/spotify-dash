@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-03-11T07:05:02.435Z",
+  "lastUpdated": "2026-03-11T13:18:41.337Z",
   "recentTracks": [
     {
-      "name": "Isn't It a Pity - 2014 Remaster",
-      "artist": "George Harrison",
-      "playedAt": "2026-03-10T15:30:54.885Z",
-      "url": "https://open.spotify.com/track/0vTvkf24wkCG3DTKgoNnih"
+      "name": "Hello, Goodbye - Remastered 2009",
+      "artist": "The Beatles",
+      "playedAt": "2026-03-11T09:02:07.464Z",
+      "url": "https://open.spotify.com/track/0vZ97gHhemKm6c64hTfJNA"
     },
     {
-      "name": "Ghost Song",
-      "artist": "Jim Morrison",
-      "playedAt": "2026-03-10T15:23:42.962Z",
-      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
+      "name": "Ready or Not",
+      "artist": "Fugees",
+      "playedAt": "2026-03-11T08:31:03.285Z",
+      "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
     },
     {
-      "name": "For What It's Worth",
-      "artist": "Buffalo Springfield",
-      "playedAt": "2026-03-10T15:20:52.419Z",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
+      "name": "How Many Mics",
+      "artist": "Fugees",
+      "playedAt": "2026-03-11T08:27:16.534Z",
+      "url": "https://open.spotify.com/track/2lOnbK3gm1N6keYkUD3mis"
     },
     {
-      "name": "Oh! Sweet Nuthin' - 2015 Remaster",
-      "artist": "The Velvet Underground",
-      "playedAt": "2026-03-10T15:18:17.923Z",
-      "url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
+      "name": "Red Intro",
+      "artist": "Fugees",
+      "playedAt": "2026-03-11T08:22:47.498Z",
+      "url": "https://open.spotify.com/track/5Amv02LQjNrMSoOT2L2WmQ"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 33,
+    "uniqueArtists": 31,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 6,
