@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-13T07:05:35.985Z",
+  "lastUpdated": "2026-03-13T13:16:45.993Z",
   "recentTracks": [
     {
-      "name": "Doo Wop (That Thing)",
-      "artist": "Ms. Lauryn Hill",
-      "playedAt": "2026-03-13T01:14:08.469Z",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+      "name": "Jukebox Songs and Barstool Beers",
+      "artist": "Drake Milligan",
+      "playedAt": "2026-03-13T13:08:45.130Z",
+      "url": "https://open.spotify.com/track/3b5Nwa1602MIuh3sU0qlv9"
     },
     {
-      "name": "Cowboy Take Me Away",
-      "artist": "The Chicks",
-      "playedAt": "2026-03-12T13:00:05.655Z",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+      "name": "Kiss Goodbye All Night",
+      "artist": "Drake Milligan",
+      "playedAt": "2026-03-13T13:05:27.722Z",
+      "url": "https://open.spotify.com/track/2PjLRDmHtURyQfTna5sfaU"
     },
     {
-      "name": "Islands In the Stream",
-      "artist": "Dolly Parton",
-      "playedAt": "2026-03-12T12:55:14.082Z",
-      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+      "name": "Bad Day To Be A Beer",
+      "artist": "Drake Milligan",
+      "playedAt": "2026-03-13T13:03:53.685Z",
+      "url": "https://open.spotify.com/track/3z92rSlYhxUZrrn0BjVBN4"
     },
     {
-      "name": "Cruise",
-      "artist": "Florida Georgia Line",
-      "playedAt": "2026-03-12T12:51:04.151Z",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+      "name": "Gettin' You Home",
+      "artist": "Chris Young",
+      "playedAt": "2026-03-13T13:00:05.006Z",
+      "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 22,
+    "uniqueArtists": 25,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Doo Wop (That Thing)",
+    "mostPlayedTrack": "Our Song",
     "mostPlayedCount": 2,
-    "peakHour": "2pm"
+    "peakHour": "7am"
   }
 }
