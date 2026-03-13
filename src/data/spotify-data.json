@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-12T19:04:06.258Z",
+  "lastUpdated": "2026-03-13T02:43:15.547Z",
   "recentTracks": [
+    {
+      "name": "Doo Wop (That Thing)",
+      "artist": "Ms. Lauryn Hill",
+      "playedAt": "2026-03-13T01:14:08.469Z",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
     {
       "name": "Cowboy Take Me Away",
       "artist": "The Chicks",
@@ -18,22 +24,16 @@
       "artist": "Florida Georgia Line",
       "playedAt": "2026-03-12T12:51:04.151Z",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
-    },
-    {
-      "name": "Just Got Started Lovin' You",
-      "artist": "James Otto",
-      "playedAt": "2026-03-12T12:47:34.825Z",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 23,
+    "uniqueArtists": 22,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Just Got Started Lovin' You",
+    "mostPlayedTrack": "Doo Wop (That Thing)",
     "mostPlayedCount": 2,
     "peakHour": "2pm"
   }
