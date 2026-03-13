@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-13T13:16:45.993Z",
+  "lastUpdated": "2026-03-13T18:54:39.180Z",
   "recentTracks": [
     {
-      "name": "Jukebox Songs and Barstool Beers",
-      "artist": "Drake Milligan",
-      "playedAt": "2026-03-13T13:08:45.130Z",
-      "url": "https://open.spotify.com/track/3b5Nwa1602MIuh3sU0qlv9"
+      "name": "Just Got Started Lovin' You",
+      "artist": "James Otto",
+      "playedAt": "2026-03-13T15:18:56.178Z",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
-      "name": "Kiss Goodbye All Night",
-      "artist": "Drake Milligan",
-      "playedAt": "2026-03-13T13:05:27.722Z",
-      "url": "https://open.spotify.com/track/2PjLRDmHtURyQfTna5sfaU"
+      "name": "As Good As I Once Was",
+      "artist": "Toby Keith",
+      "playedAt": "2026-03-13T15:02:10.605Z",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
-      "name": "Bad Day To Be A Beer",
-      "artist": "Drake Milligan",
-      "playedAt": "2026-03-13T13:03:53.685Z",
-      "url": "https://open.spotify.com/track/3z92rSlYhxUZrrn0BjVBN4"
+      "name": "you look like you love me (feat. Riley Green)",
+      "artist": "Ella Langley",
+      "playedAt": "2026-03-13T15:02:10.407Z",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
     },
     {
-      "name": "Gettin' You Home",
-      "artist": "Chris Young",
-      "playedAt": "2026-03-13T13:00:05.006Z",
-      "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
+      "name": "Clementine",
+      "artist": "Yung Gravy",
+      "playedAt": "2026-03-13T15:02:10.341Z",
+      "url": "https://open.spotify.com/track/06ZVdd9hNVlNv9fAd5NUok"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 25,
+    "uniqueArtists": 21,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Our Song",
-    "mostPlayedCount": 2,
+    "repeatRate": 6,
+    "mostPlayedTrack": "Just Got Started Lovin' You",
+    "mostPlayedCount": 3,
     "peakHour": "7am"
   }
 }
