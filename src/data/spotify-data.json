@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-14T13:09:05.402Z",
+  "lastUpdated": "2026-03-14T18:51:23.130Z",
   "recentTracks": [
     {
-      "name": "100 Grandkids",
-      "artist": "Mac Miller",
-      "playedAt": "2026-03-13T20:51:07.044Z",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+      "name": "Arriadin por Tu",
+      "artist": "João Gomes",
+      "playedAt": "2026-03-14T15:25:31.432Z",
+      "url": "https://open.spotify.com/track/4aoMC7qTsWjWMgV8s7WLBB"
     },
     {
-      "name": "Just Got Started Lovin' You",
-      "artist": "James Otto",
-      "playedAt": "2026-03-13T15:18:56.178Z",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
+      "name": "Death Cup",
+      "artist": "Mom Jeans.",
+      "playedAt": "2026-03-14T15:25:16.608Z",
+      "url": "https://open.spotify.com/track/19aUuDd6udp1ACNo9t3IuZ"
     },
     {
-      "name": "As Good As I Once Was",
-      "artist": "Toby Keith",
-      "playedAt": "2026-03-13T15:02:10.605Z",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+      "name": "Beija Flor",
+      "artist": "João Gomes",
+      "playedAt": "2026-03-14T15:25:16.102Z",
+      "url": "https://open.spotify.com/track/6c6brFif6MTMSq0sVwgMAT"
     },
     {
-      "name": "you look like you love me (feat. Riley Green)",
-      "artist": "Ella Langley",
-      "playedAt": "2026-03-13T15:02:10.407Z",
-      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+      "name": "Flor de Flamboyant",
+      "artist": "João Gomes",
+      "playedAt": "2026-03-14T15:25:15.303Z",
+      "url": "https://open.spotify.com/track/4zXGcDCQAFqxPZZjiNaJsN"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 21,
+    "uniqueArtists": 23,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 6,
     "mostPlayedTrack": "Just Got Started Lovin' You",
     "mostPlayedCount": 3,
-    "peakHour": "7am"
+    "peakHour": "3pm"
   }
 }
