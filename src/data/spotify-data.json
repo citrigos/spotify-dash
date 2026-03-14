@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-13T18:54:39.180Z",
+  "lastUpdated": "2026-03-14T02:41:47.747Z",
   "recentTracks": [
+    {
+      "name": "100 Grandkids",
+      "artist": "Mac Miller",
+      "playedAt": "2026-03-13T20:51:07.044Z",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+    },
     {
       "name": "Just Got Started Lovin' You",
       "artist": "James Otto",
@@ -18,12 +24,6 @@
       "artist": "Ella Langley",
       "playedAt": "2026-03-13T15:02:10.407Z",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
-      "name": "Clementine",
-      "artist": "Yung Gravy",
-      "playedAt": "2026-03-13T15:02:10.341Z",
-      "url": "https://open.spotify.com/track/06ZVdd9hNVlNv9fAd5NUok"
     }
   ],
   "stats": {
