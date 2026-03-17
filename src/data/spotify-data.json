@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-17T13:41:41.038Z",
+  "lastUpdated": "2026-03-17T19:14:05.082Z",
   "recentTracks": [
+    {
+      "name": "I Sip",
+      "artist": "Tory Lanez",
+      "playedAt": "2026-03-17T15:50:51.779Z",
+      "url": "https://open.spotify.com/track/5A8EYS9Z4hz4EmtU8W8kI3"
+    },
     {
       "name": "Ambitionz Az A Ridah",
       "artist": "2Pac",
@@ -18,22 +24,16 @@
       "artist": "Vulfpeck",
       "playedAt": "2026-03-16T21:15:38.882Z",
       "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2"
-    },
-    {
-      "name": "In My Room - Remastered",
-      "artist": "The Beach Boys",
-      "playedAt": "2026-03-16T21:14:20.381Z",
-      "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 31,
+    "uniqueArtists": 32,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Ambitionz Az A Ridah",
+    "mostPlayedTrack": "I Sip",
     "mostPlayedCount": 1,
     "peakHour": "3pm"
   }
