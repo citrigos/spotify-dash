@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-16T19:15:18.513Z",
+  "lastUpdated": "2026-03-17T02:45:44.989Z",
   "recentTracks": [
     {
-      "name": "Arriadin por Tu",
-      "artist": "João Gomes",
-      "playedAt": "2026-03-14T15:25:31.432Z",
-      "url": "https://open.spotify.com/track/4aoMC7qTsWjWMgV8s7WLBB"
+      "name": "Ambitionz Az A Ridah",
+      "artist": "2Pac",
+      "playedAt": "2026-03-16T21:28:21.797Z",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
     },
     {
-      "name": "Death Cup",
-      "artist": "Mom Jeans.",
-      "playedAt": "2026-03-14T15:25:16.608Z",
-      "url": "https://open.spotify.com/track/19aUuDd6udp1ACNo9t3IuZ"
+      "name": "The World (Is Going Up in Flames)",
+      "artist": "Charles Bradley",
+      "playedAt": "2026-03-16T21:19:13.015Z",
+      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
     },
     {
-      "name": "Beija Flor",
-      "artist": "João Gomes",
-      "playedAt": "2026-03-14T15:25:16.102Z",
-      "url": "https://open.spotify.com/track/6c6brFif6MTMSq0sVwgMAT"
+      "name": "Back Pocket",
+      "artist": "Vulfpeck",
+      "playedAt": "2026-03-16T21:15:38.882Z",
+      "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2"
     },
     {
-      "name": "Flor de Flamboyant",
-      "artist": "João Gomes",
-      "playedAt": "2026-03-14T15:25:15.303Z",
-      "url": "https://open.spotify.com/track/4zXGcDCQAFqxPZZjiNaJsN"
+      "name": "In My Room - Remastered",
+      "artist": "The Beach Boys",
+      "playedAt": "2026-03-16T21:14:20.381Z",
+      "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 23,
+    "uniqueArtists": 31,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 6,
-    "mostPlayedTrack": "Just Got Started Lovin' You",
-    "mostPlayedCount": 3,
+    "repeatRate": 2,
+    "mostPlayedTrack": "Ambitionz Az A Ridah",
+    "mostPlayedCount": 1,
     "peakHour": "3pm"
   }
 }
