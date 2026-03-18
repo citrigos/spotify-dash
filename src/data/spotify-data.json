@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-03-17T19:14:05.082Z",
+  "lastUpdated": "2026-03-18T02:52:04.839Z",
   "recentTracks": [
+    {
+      "name": "Break from Toronto",
+      "artist": "PARTYNEXTDOOR",
+      "playedAt": "2026-03-18T00:41:21.942Z",
+      "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
+    },
+    {
+      "name": "Sauce",
+      "artist": "Manwolves",
+      "playedAt": "2026-03-18T00:39:43.868Z",
+      "url": "https://open.spotify.com/track/3EGClTyUMdbeiJU44fIDm4"
+    },
     {
       "name": "I Sip",
       "artist": "Tory Lanez",
@@ -12,29 +24,17 @@
       "artist": "2Pac",
       "playedAt": "2026-03-16T21:28:21.797Z",
       "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
-    },
-    {
-      "name": "The World (Is Going Up in Flames)",
-      "artist": "Charles Bradley",
-      "playedAt": "2026-03-16T21:19:13.015Z",
-      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
-    },
-    {
-      "name": "Back Pocket",
-      "artist": "Vulfpeck",
-      "playedAt": "2026-03-16T21:15:38.882Z",
-      "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2"
     }
   ],
   "stats": {
-    "tracksPlayed": 50,
-    "listeningHours": 3,
-    "uniqueArtists": 32,
+    "tracksPlayed": 19,
+    "listeningHours": 1,
+    "uniqueArtists": 19,
     "topArtist": "The Beatles",
-    "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "I Sip",
+    "dailyAverage": 1,
+    "repeatRate": 5,
+    "mostPlayedTrack": "Break from Toronto",
     "mostPlayedCount": 1,
-    "peakHour": "3pm"
+    "peakHour": "7pm"
   }
 }
