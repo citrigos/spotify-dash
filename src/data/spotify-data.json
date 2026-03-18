@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T07:12:54.081Z",
+  "lastUpdated": "2026-03-18T13:43:13.564Z",
   "recentTracks": [
     {
       "name": "Break from Toronto",
@@ -27,12 +27,12 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 19,
+    "tracksPlayed": 18,
     "listeningHours": 1,
-    "uniqueArtists": 19,
+    "uniqueArtists": 18,
     "topArtist": "The Beatles",
     "dailyAverage": 1,
-    "repeatRate": 5,
+    "repeatRate": 6,
     "mostPlayedTrack": "Break from Toronto",
     "mostPlayedCount": 1,
     "peakHour": "7pm"
