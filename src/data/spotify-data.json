@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-03-18T13:43:13.564Z",
+  "lastUpdated": "2026-03-18T19:13:26.455Z",
   "recentTracks": [
     {
-      "name": "Break from Toronto",
-      "artist": "PARTYNEXTDOOR",
-      "playedAt": "2026-03-18T00:41:21.942Z",
-      "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
+      "name": "Automne - Colchiques",
+      "artist": "Cortex",
+      "playedAt": "2026-03-18T18:38:44.976Z",
+      "url": "https://open.spotify.com/track/5Rt5pomA6CvKTuCllwRY74"
     },
     {
-      "name": "Sauce",
-      "artist": "Manwolves",
-      "playedAt": "2026-03-18T00:39:43.868Z",
-      "url": "https://open.spotify.com/track/3EGClTyUMdbeiJU44fIDm4"
+      "name": "La rue",
+      "artist": "Cortex",
+      "playedAt": "2026-03-18T18:36:04.980Z",
+      "url": "https://open.spotify.com/track/6lzDycd60SJ7H8y6wuESGl"
     },
     {
-      "name": "I Sip",
-      "artist": "Tory Lanez",
-      "playedAt": "2026-03-17T15:50:51.779Z",
-      "url": "https://open.spotify.com/track/5A8EYS9Z4hz4EmtU8W8kI3"
+      "name": "Rainfall (Praise You)",
+      "artist": "Tom Santa",
+      "playedAt": "2026-03-18T15:02:03.984Z",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
-      "name": "Ambitionz Az A Ridah",
-      "artist": "2Pac",
-      "playedAt": "2026-03-16T21:28:21.797Z",
-      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
+      "name": "In Da Getto - Henry Fong Remix",
+      "artist": "J Balvin",
+      "playedAt": "2026-03-18T14:59:16.615Z",
+      "url": "https://open.spotify.com/track/0k4RcppaFqE0a43xxliMyv"
     }
   ],
   "stats": {
     "tracksPlayed": 18,
     "listeningHours": 1,
-    "uniqueArtists": 18,
+    "uniqueArtists": 17,
     "topArtist": "The Beatles",
     "dailyAverage": 1,
     "repeatRate": 6,
-    "mostPlayedTrack": "Break from Toronto",
+    "mostPlayedTrack": "Automne - Colchiques",
     "mostPlayedCount": 1,
     "peakHour": "7pm"
   }
