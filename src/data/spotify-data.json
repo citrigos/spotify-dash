@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-19T07:08:07.947Z",
+  "lastUpdated": "2026-03-19T13:23:42.415Z",
   "recentTracks": [
+    {
+      "name": "Bulletproof",
+      "artist": "La Roux",
+      "playedAt": "2026-03-19T08:44:42.085Z",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
     {
       "name": "Roi - Instrumental Slowed",
       "artist": "Mckyyy",
@@ -18,21 +24,15 @@
       "artist": "Zé Roberto",
       "playedAt": "2026-03-18T21:57:52.344Z",
       "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
-    },
-    {
-      "name": "Predador de Perereca",
-      "artist": "BLOW RECORDS",
-      "playedAt": "2026-03-18T21:40:43.716Z",
-      "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
     }
   ],
   "stats": {
-    "tracksPlayed": 28,
+    "tracksPlayed": 29,
     "listeningHours": 2,
-    "uniqueArtists": 20,
+    "uniqueArtists": 21,
     "topArtist": "The Beatles",
     "dailyAverage": 1,
-    "repeatRate": 11,
+    "repeatRate": 10,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
     "mostPlayedCount": 3,
     "peakHour": "9pm"
