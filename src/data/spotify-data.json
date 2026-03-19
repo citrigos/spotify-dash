@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-18T19:13:26.455Z",
+  "lastUpdated": "2026-03-19T02:53:30.308Z",
   "recentTracks": [
     {
-      "name": "Automne - Colchiques",
-      "artist": "Cortex",
-      "playedAt": "2026-03-18T18:38:44.976Z",
-      "url": "https://open.spotify.com/track/5Rt5pomA6CvKTuCllwRY74"
+      "name": "Roi - Instrumental Slowed",
+      "artist": "Mckyyy",
+      "playedAt": "2026-03-18T22:51:35.530Z",
+      "url": "https://open.spotify.com/track/2Y1kGjAic94r4tEohhSDZ4"
     },
     {
-      "name": "La rue",
-      "artist": "Cortex",
-      "playedAt": "2026-03-18T18:36:04.980Z",
-      "url": "https://open.spotify.com/track/6lzDycd60SJ7H8y6wuESGl"
+      "name": "Questo amore è un motore",
+      "artist": "Pino D'Angiò",
+      "playedAt": "2026-03-18T22:50:03.188Z",
+      "url": "https://open.spotify.com/track/6hob5XGGteZCcJZQoK06Fr"
     },
     {
-      "name": "Rainfall (Praise You)",
-      "artist": "Tom Santa",
-      "playedAt": "2026-03-18T15:02:03.984Z",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+      "name": "Lotus 72 D - Fast Version",
+      "artist": "Zé Roberto",
+      "playedAt": "2026-03-18T21:57:52.344Z",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
-      "name": "In Da Getto - Henry Fong Remix",
-      "artist": "J Balvin",
-      "playedAt": "2026-03-18T14:59:16.615Z",
-      "url": "https://open.spotify.com/track/0k4RcppaFqE0a43xxliMyv"
+      "name": "Predador de Perereca",
+      "artist": "BLOW RECORDS",
+      "playedAt": "2026-03-18T21:40:43.716Z",
+      "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
     }
   ],
   "stats": {
-    "tracksPlayed": 18,
-    "listeningHours": 1,
-    "uniqueArtists": 17,
+    "tracksPlayed": 28,
+    "listeningHours": 2,
+    "uniqueArtists": 20,
     "topArtist": "The Beatles",
     "dailyAverage": 1,
-    "repeatRate": 6,
-    "mostPlayedTrack": "Automne - Colchiques",
-    "mostPlayedCount": 1,
-    "peakHour": "7pm"
+    "repeatRate": 11,
+    "mostPlayedTrack": "Roi - Instrumental Slowed",
+    "mostPlayedCount": 3,
+    "peakHour": "9pm"
   }
 }
