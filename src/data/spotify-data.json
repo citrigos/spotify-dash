@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-19T13:23:42.415Z",
+  "lastUpdated": "2026-03-19T19:09:08.813Z",
   "recentTracks": [
     {
-      "name": "Bulletproof",
-      "artist": "La Roux",
-      "playedAt": "2026-03-19T08:44:42.085Z",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+      "name": "Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "playedAt": "2026-03-19T18:13:44.307Z",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "name": "Baby I'm Yours",
+      "artist": "Breakbot",
+      "playedAt": "2026-03-19T16:24:06.412Z",
+      "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV"
+    },
+    {
+      "name": "10% (feat. Kali Uchis)",
+      "artist": "KAYTRANADA",
+      "playedAt": "2026-03-19T16:18:32.044Z",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "name": "Roi - Instrumental Slowed",
       "artist": "Mckyyy",
-      "playedAt": "2026-03-18T22:51:35.530Z",
+      "playedAt": "2026-03-19T16:15:25.211Z",
       "url": "https://open.spotify.com/track/2Y1kGjAic94r4tEohhSDZ4"
-    },
-    {
-      "name": "Questo amore è un motore",
-      "artist": "Pino D'Angiò",
-      "playedAt": "2026-03-18T22:50:03.188Z",
-      "url": "https://open.spotify.com/track/6hob5XGGteZCcJZQoK06Fr"
-    },
-    {
-      "name": "Lotus 72 D - Fast Version",
-      "artist": "Zé Roberto",
-      "playedAt": "2026-03-18T21:57:52.344Z",
-      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     }
   ],
   "stats": {
-    "tracksPlayed": 29,
+    "tracksPlayed": 40,
     "listeningHours": 2,
-    "uniqueArtists": 21,
+    "uniqueArtists": 27,
     "topArtist": "The Beatles",
     "dailyAverage": 1,
-    "repeatRate": 10,
+    "repeatRate": 20,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
-    "mostPlayedCount": 3,
+    "mostPlayedCount": 8,
     "peakHour": "9pm"
   }
 }
