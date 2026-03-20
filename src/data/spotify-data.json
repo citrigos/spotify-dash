@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-20T07:05:46.881Z",
+  "lastUpdated": "2026-03-20T13:16:58.367Z",
   "recentTracks": [
+    {
+      "name": "In Your Eyes",
+      "artist": "2ink",
+      "playedAt": "2026-03-20T08:11:57.828Z",
+      "url": "https://open.spotify.com/track/49jwmMyqtIAWQ0hXVQ6Csb"
+    },
     {
       "name": "Put Your Records On",
       "artist": "Corinne Bailey Rae",
@@ -18,18 +24,12 @@
       "artist": "KAYTRANADA",
       "playedAt": "2026-03-19T16:18:32.044Z",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
-      "name": "Roi - Instrumental Slowed",
-      "artist": "Mckyyy",
-      "playedAt": "2026-03-19T16:15:25.211Z",
-      "url": "https://open.spotify.com/track/2Y1kGjAic94r4tEohhSDZ4"
     }
   ],
   "stats": {
-    "tracksPlayed": 40,
+    "tracksPlayed": 41,
     "listeningHours": 2,
-    "uniqueArtists": 27,
+    "uniqueArtists": 28,
     "topArtist": "The Beatles",
     "dailyAverage": 1,
     "repeatRate": 20,
