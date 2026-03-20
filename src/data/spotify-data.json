@@ -1,38 +1,38 @@
 {
-  "lastUpdated": "2026-03-20T13:16:58.367Z",
+  "lastUpdated": "2026-03-20T19:00:35.674Z",
   "recentTracks": [
     {
-      "name": "In Your Eyes",
-      "artist": "2ink",
-      "playedAt": "2026-03-20T08:11:57.828Z",
-      "url": "https://open.spotify.com/track/49jwmMyqtIAWQ0hXVQ6Csb"
+      "name": "Beez",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-03-20T14:14:34.556Z",
+      "url": "https://open.spotify.com/track/5JxBWwemuGzQrTC3SBZLCQ"
     },
     {
-      "name": "Put Your Records On",
-      "artist": "Corinne Bailey Rae",
-      "playedAt": "2026-03-19T18:13:44.307Z",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+      "name": "Just What I Am",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-03-20T14:02:23.726Z",
+      "url": "https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY"
     },
     {
-      "name": "Baby I'm Yours",
-      "artist": "Breakbot",
-      "playedAt": "2026-03-19T16:24:06.412Z",
-      "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV"
+      "name": "Unfuckwittable",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-03-20T13:58:35.970Z",
+      "url": "https://open.spotify.com/track/0jUie9UEhrUFWo683TC3KW"
     },
     {
-      "name": "10% (feat. Kali Uchis)",
-      "artist": "KAYTRANADA",
-      "playedAt": "2026-03-19T16:18:32.044Z",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
+      "name": "Willing To Trust (with Ty Dolla $ign)",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-03-20T13:54:00.148Z",
+      "url": "https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk"
     }
   ],
   "stats": {
-    "tracksPlayed": 41,
-    "listeningHours": 2,
-    "uniqueArtists": 28,
+    "tracksPlayed": 45,
+    "listeningHours": 3,
+    "uniqueArtists": 29,
     "topArtist": "The Beatles",
-    "dailyAverage": 1,
-    "repeatRate": 20,
+    "dailyAverage": 2,
+    "repeatRate": 18,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
     "mostPlayedCount": 8,
     "peakHour": "9pm"
