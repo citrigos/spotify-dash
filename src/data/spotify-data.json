@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-23T07:22:44.133Z",
+  "lastUpdated": "2026-03-23T13:25:38.731Z",
   "recentTracks": [
+    {
+      "name": "First Date",
+      "artist": "blink-182",
+      "playedAt": "2026-03-23T07:59:08.409Z",
+      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
     {
       "name": "Gives You Hell",
       "artist": "The All-American Rejects",
@@ -18,21 +24,15 @@
       "artist": "Kid Cudi",
       "playedAt": "2026-03-20T20:53:28.527Z",
       "url": "https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk"
-    },
-    {
-      "name": "Beez",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-03-20T14:14:34.556Z",
-      "url": "https://open.spotify.com/track/5JxBWwemuGzQrTC3SBZLCQ"
     }
   ],
   "stats": {
-    "tracksPlayed": 48,
+    "tracksPlayed": 49,
     "listeningHours": 3,
-    "uniqueArtists": 31,
+    "uniqueArtists": 32,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 17,
+    "repeatRate": 16,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
     "mostPlayedCount": 8,
     "peakHour": "9pm"
