@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-03-24T13:41:16.481Z",
+  "lastUpdated": "2026-03-24T19:15:16.230Z",
   "recentTracks": [
     {
-      "name": "First Date",
-      "artist": "blink-182",
-      "playedAt": "2026-03-23T07:59:08.409Z",
-      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+      "name": "I Could Die for You",
+      "artist": "Red Hot Chili Peppers",
+      "playedAt": "2026-03-24T16:15:18.449Z",
+      "url": "https://open.spotify.com/track/3oP2vxUR2bjFCrU9YolGnM"
     },
     {
-      "name": "Gives You Hell",
-      "artist": "The All-American Rejects",
-      "playedAt": "2026-03-22T17:29:02.257Z",
-      "url": "https://open.spotify.com/track/3HTLIvqe7MoSlsqw2DAynt"
+      "name": "Santeria",
+      "artist": "Sublime",
+      "playedAt": "2026-03-24T16:10:23.854Z",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
     },
     {
-      "name": "The Drug In Me Is You",
-      "artist": "Falling In Reverse",
-      "playedAt": "2026-03-22T17:23:11.141Z",
-      "url": "https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj"
+      "name": "Selfless",
+      "artist": "The Strokes",
+      "playedAt": "2026-03-24T16:07:20.417Z",
+      "url": "https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"
     },
     {
-      "name": "Willing To Trust (with Ty Dolla $ign)",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-03-20T20:53:28.527Z",
-      "url": "https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk"
+      "name": "Snap Out Of It",
+      "artist": "Arctic Monkeys",
+      "playedAt": "2026-03-24T16:02:34.024Z",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
     }
   ],
   "stats": {
-    "tracksPlayed": 49,
+    "tracksPlayed": 50,
     "listeningHours": 3,
     "uniqueArtists": 32,
     "topArtist": "The Beatles",
