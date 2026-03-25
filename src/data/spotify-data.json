@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-24T19:15:16.230Z",
+  "lastUpdated": "2026-03-25T02:50:47.957Z",
   "recentTracks": [
     {
-      "name": "I Could Die for You",
-      "artist": "Red Hot Chili Peppers",
-      "playedAt": "2026-03-24T16:15:18.449Z",
-      "url": "https://open.spotify.com/track/3oP2vxUR2bjFCrU9YolGnM"
+      "name": "Dear Maria, Count Me In",
+      "artist": "All Time Low",
+      "playedAt": "2026-03-25T01:21:51.691Z",
+      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
     },
     {
-      "name": "Santeria",
-      "artist": "Sublime",
-      "playedAt": "2026-03-24T16:10:23.854Z",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+      "name": "Helena",
+      "artist": "My Chemical Romance",
+      "playedAt": "2026-03-25T01:18:48.283Z",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
-      "name": "Selfless",
-      "artist": "The Strokes",
-      "playedAt": "2026-03-24T16:07:20.417Z",
-      "url": "https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"
+      "name": "American Idiot",
+      "artist": "Green Day",
+      "playedAt": "2026-03-25T01:15:23.099Z",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
-      "name": "Snap Out Of It",
-      "artist": "Arctic Monkeys",
-      "playedAt": "2026-03-24T16:02:34.024Z",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+      "name": "Fashionably Late",
+      "artist": "Falling In Reverse",
+      "playedAt": "2026-03-25T01:12:00.847Z",
+      "url": "https://open.spotify.com/track/5JUufCEin0aXyFLXCzJbUL"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 32,
+    "uniqueArtists": 29,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 16,
+    "repeatRate": 12,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
-    "mostPlayedCount": 8,
-    "peakHour": "9pm"
+    "mostPlayedCount": 6,
+    "peakHour": "0am"
   }
 }
