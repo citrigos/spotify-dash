@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-03-25T13:40:48.334Z",
+  "lastUpdated": "2026-03-25T19:06:07.246Z",
   "recentTracks": [
     {
-      "name": "Dear Maria, Count Me In",
-      "artist": "All Time Low",
-      "playedAt": "2026-03-25T01:21:51.691Z",
-      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
+      "name": "Come Together",
+      "artist": "The Internet",
+      "playedAt": "2026-03-25T18:35:01.966Z",
+      "url": "https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR"
     },
     {
-      "name": "Helena",
-      "artist": "My Chemical Romance",
-      "playedAt": "2026-03-25T01:18:48.283Z",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+      "name": "Cruising - Original Mix",
+      "artist": "Helsinki 78-82",
+      "playedAt": "2026-03-25T18:31:21.197Z",
+      "url": "https://open.spotify.com/track/3UMoWPGKYGudrumJwG7dQK"
     },
     {
-      "name": "American Idiot",
-      "artist": "Green Day",
-      "playedAt": "2026-03-25T01:15:23.099Z",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+      "name": "Trapped In My Mind",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-03-25T18:24:35.390Z",
+      "url": "https://open.spotify.com/track/3fV84Z6UdxxHqfGIMmuSKg"
     },
     {
-      "name": "Fashionably Late",
-      "artist": "Falling In Reverse",
-      "playedAt": "2026-03-25T01:12:00.847Z",
-      "url": "https://open.spotify.com/track/5JUufCEin0aXyFLXCzJbUL"
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "artist": "DaBaby",
+      "playedAt": "2026-03-25T18:23:39.896Z",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 29,
+    "uniqueArtists": 28,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 12,
