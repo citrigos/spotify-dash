@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-26T13:46:18.876Z",
+  "lastUpdated": "2026-03-26T19:18:56.908Z",
   "recentTracks": [
+    {
+      "name": "Reminder",
+      "artist": "The Weeknd",
+      "playedAt": "2026-03-26T16:04:35.021Z",
+      "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
+    },
     {
       "name": "Come Together",
       "artist": "The Internet",
@@ -18,23 +24,17 @@
       "artist": "Kid Cudi",
       "playedAt": "2026-03-25T18:24:35.390Z",
       "url": "https://open.spotify.com/track/3fV84Z6UdxxHqfGIMmuSKg"
-    },
-    {
-      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
-      "artist": "DaBaby",
-      "playedAt": "2026-03-25T18:23:39.896Z",
-      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 28,
+    "uniqueArtists": 29,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 12,
+    "repeatRate": 10,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
-    "mostPlayedCount": 6,
-    "peakHour": "0am"
+    "mostPlayedCount": 5,
+    "peakHour": "4pm"
   }
 }
