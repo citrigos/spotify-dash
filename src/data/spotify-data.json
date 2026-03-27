@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-03-27T03:19:10.766Z",
+  "lastUpdated": "2026-03-27T07:19:44.015Z",
   "recentTracks": [
+    {
+      "name": "Runaway",
+      "artist": "AURORA",
+      "playedAt": "2026-03-27T04:44:48.875Z",
+      "url": "https://open.spotify.com/track/2pB49wD5LpB8gYmqOIybTC"
+    },
+    {
+      "name": "Disturbia",
+      "artist": "Rihanna",
+      "playedAt": "2026-03-27T04:17:32.752Z",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
     {
       "name": "Malcom",
       "artist": "Hard Christ",
@@ -12,18 +24,6 @@
       "artist": "Mckyyy",
       "playedAt": "2026-03-27T01:19:47.038Z",
       "url": "https://open.spotify.com/track/2Y1kGjAic94r4tEohhSDZ4"
-    },
-    {
-      "name": "Reminder",
-      "artist": "The Weeknd",
-      "playedAt": "2026-03-26T16:04:35.021Z",
-      "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
-    },
-    {
-      "name": "Come Together",
-      "artist": "The Internet",
-      "playedAt": "2026-03-25T18:35:01.966Z",
-      "url": "https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR"
     }
   ],
   "stats": {
