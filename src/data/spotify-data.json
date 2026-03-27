@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-03-26T19:18:56.908Z",
+  "lastUpdated": "2026-03-27T03:19:10.766Z",
   "recentTracks": [
+    {
+      "name": "Malcom",
+      "artist": "Hard Christ",
+      "playedAt": "2026-03-27T01:34:30.606Z",
+      "url": "https://open.spotify.com/track/5pkIv1wVeSxiBqFnB4ePXn"
+    },
+    {
+      "name": "Roi - Instrumental Slowed",
+      "artist": "Mckyyy",
+      "playedAt": "2026-03-27T01:19:47.038Z",
+      "url": "https://open.spotify.com/track/2Y1kGjAic94r4tEohhSDZ4"
+    },
     {
       "name": "Reminder",
       "artist": "The Weeknd",
@@ -12,18 +24,6 @@
       "artist": "The Internet",
       "playedAt": "2026-03-25T18:35:01.966Z",
       "url": "https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR"
-    },
-    {
-      "name": "Cruising - Original Mix",
-      "artist": "Helsinki 78-82",
-      "playedAt": "2026-03-25T18:31:21.197Z",
-      "url": "https://open.spotify.com/track/3UMoWPGKYGudrumJwG7dQK"
-    },
-    {
-      "name": "Trapped In My Mind",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-03-25T18:24:35.390Z",
-      "url": "https://open.spotify.com/track/3fV84Z6UdxxHqfGIMmuSKg"
     }
   ],
   "stats": {
@@ -35,6 +35,6 @@
     "repeatRate": 10,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
     "mostPlayedCount": 5,
-    "peakHour": "4pm"
+    "peakHour": "0am"
   }
 }
