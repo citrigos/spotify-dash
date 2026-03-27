@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-03-27T13:23:25.872Z",
+  "lastUpdated": "2026-03-27T19:05:25.729Z",
   "recentTracks": [
     {
-      "name": "Runaway",
-      "artist": "AURORA",
-      "playedAt": "2026-03-27T04:44:48.875Z",
-      "url": "https://open.spotify.com/track/2pB49wD5LpB8gYmqOIybTC"
+      "name": "Dumebi",
+      "artist": "Rema",
+      "playedAt": "2026-03-27T16:49:12.527Z",
+      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
     },
     {
-      "name": "Disturbia",
-      "artist": "Rihanna",
-      "playedAt": "2026-03-27T04:17:32.752Z",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+      "name": "Płoną góry, płoną lasy",
+      "artist": "Czerwone Gitary",
+      "playedAt": "2026-03-27T16:45:01.424Z",
+      "url": "https://open.spotify.com/track/5DDJf23zKdvpWBA2KmgyPW"
     },
     {
-      "name": "Malcom",
-      "artist": "Hard Christ",
-      "playedAt": "2026-03-27T01:34:30.606Z",
-      "url": "https://open.spotify.com/track/5pkIv1wVeSxiBqFnB4ePXn"
+      "name": "Chelsea Dagger",
+      "artist": "The Fratellis",
+      "playedAt": "2026-03-27T16:40:35.391Z",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
-      "name": "Roi - Instrumental Slowed",
-      "artist": "Mckyyy",
-      "playedAt": "2026-03-27T01:19:47.038Z",
-      "url": "https://open.spotify.com/track/2Y1kGjAic94r4tEohhSDZ4"
+      "name": "Sunny Duet",
+      "artist": "Noname",
+      "playedAt": "2026-03-27T16:36:53.557Z",
+      "url": "https://open.spotify.com/track/1OEArA0rZfg6l9lsgKNEqy"
     }
   ],
   "stats": {
@@ -32,9 +32,9 @@
     "uniqueArtists": 29,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 10,
+    "repeatRate": 6,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
-    "mostPlayedCount": 5,
-    "peakHour": "0am"
+    "mostPlayedCount": 3,
+    "peakHour": "4pm"
   }
 }
