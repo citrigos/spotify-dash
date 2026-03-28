@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-27T19:05:25.729Z",
+  "lastUpdated": "2026-03-28T02:49:47.853Z",
   "recentTracks": [
+    {
+      "name": "Speed Drive (From Barbie The Album)",
+      "artist": "Charli xcx",
+      "playedAt": "2026-03-28T01:41:32.533Z",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "name": "Płoną góry, płoną lasy",
+      "artist": "Czerwone Gitary",
+      "playedAt": "2026-03-28T01:36:05.508Z",
+      "url": "https://open.spotify.com/track/5DDJf23zKdvpWBA2KmgyPW"
+    },
+    {
+      "name": "doing all the things i used to do with people, part 2",
+      "artist": "Teen Suicide",
+      "playedAt": "2026-03-28T01:31:34.164Z",
+      "url": "https://open.spotify.com/track/7lDWgmaUhsXKwjRtgRgGgz"
+    },
     {
       "name": "Dumebi",
       "artist": "Rema",
       "playedAt": "2026-03-27T16:49:12.527Z",
       "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
-    },
-    {
-      "name": "Płoną góry, płoną lasy",
-      "artist": "Czerwone Gitary",
-      "playedAt": "2026-03-27T16:45:01.424Z",
-      "url": "https://open.spotify.com/track/5DDJf23zKdvpWBA2KmgyPW"
-    },
-    {
-      "name": "Chelsea Dagger",
-      "artist": "The Fratellis",
-      "playedAt": "2026-03-27T16:40:35.391Z",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "name": "Sunny Duet",
-      "artist": "Noname",
-      "playedAt": "2026-03-27T16:36:53.557Z",
-      "url": "https://open.spotify.com/track/1OEArA0rZfg6l9lsgKNEqy"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 29,
+    "uniqueArtists": 31,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
     "repeatRate": 6,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
     "mostPlayedCount": 3,
-    "peakHour": "4pm"
+    "peakHour": "1am"
   }
 }
