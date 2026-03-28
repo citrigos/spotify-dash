@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-03-28T13:11:36.317Z",
+  "lastUpdated": "2026-03-28T18:53:49.769Z",
   "recentTracks": [
     {
-      "name": "Speed Drive (From Barbie The Album)",
-      "artist": "Charli xcx",
-      "playedAt": "2026-03-28T01:41:32.533Z",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+      "name": "I'll Follow The Sun - Remastered 2009",
+      "artist": "The Beatles",
+      "playedAt": "2026-03-28T17:56:56.893Z",
+      "url": "https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3"
     },
     {
-      "name": "Płoną góry, płoną lasy",
-      "artist": "Czerwone Gitary",
-      "playedAt": "2026-03-28T01:36:05.508Z",
-      "url": "https://open.spotify.com/track/5DDJf23zKdvpWBA2KmgyPW"
+      "name": "Heartbeats",
+      "artist": "José González",
+      "playedAt": "2026-03-28T17:53:21.647Z",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
-      "name": "doing all the things i used to do with people, part 2",
-      "artist": "Teen Suicide",
-      "playedAt": "2026-03-28T01:31:34.164Z",
-      "url": "https://open.spotify.com/track/7lDWgmaUhsXKwjRtgRgGgz"
+      "name": "Ain't No Mountain High Enough",
+      "artist": "Marvin Gaye",
+      "playedAt": "2026-03-28T17:50:40.037Z",
+      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
     },
     {
-      "name": "Dumebi",
-      "artist": "Rema",
-      "playedAt": "2026-03-27T16:49:12.527Z",
-      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
+      "name": "Gyöngyhajú lány",
+      "artist": "Omega",
+      "playedAt": "2026-03-28T17:48:14.995Z",
+      "url": "https://open.spotify.com/track/0a8GdGZ0QrwdLOzPoLo9Em"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 31,
+    "uniqueArtists": 39,
     "topArtist": "The Beatles",
     "dailyAverage": 2,
-    "repeatRate": 6,
+    "repeatRate": 8,
     "mostPlayedTrack": "Roi - Instrumental Slowed",
-    "mostPlayedCount": 3,
-    "peakHour": "1am"
+    "mostPlayedCount": 4,
+    "peakHour": "5pm"
   }
 }
