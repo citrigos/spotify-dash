@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-03-30T19:11:15.171Z",
+  "lastUpdated": "2026-03-31T03:18:07.735Z",
   "recentTracks": [
     {
-      "name": "Happy Together",
-      "artist": "The Turtles",
-      "playedAt": "2026-03-30T01:20:27.156Z",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+      "name": "Reptilia",
+      "artist": "The Strokes",
+      "playedAt": "2026-03-31T00:10:26.778Z",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
-      "name": "Wouldn't It Be Nice",
-      "artist": "The Beach Boys",
-      "playedAt": "2026-03-29T22:28:28.239Z",
-      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc"
+      "name": "The Chain - 2004 Remaster",
+      "artist": "Fleetwood Mac",
+      "playedAt": "2026-03-31T00:06:46.475Z",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "artist": "Elton John",
-      "playedAt": "2026-03-29T22:20:19.982Z",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+      "name": "Breathe (In the Air)",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-03-31T00:02:08.217Z",
+      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
     },
     {
-      "name": "Dark Necessities",
-      "artist": "Red Hot Chili Peppers",
-      "playedAt": "2026-03-29T18:23:34.270Z",
-      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
+      "name": "D.A.N.C.E.",
+      "artist": "Justice",
+      "playedAt": "2026-03-30T23:56:27.747Z",
+      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 37,
+    "uniqueArtists": 35,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Pepas",
+    "mostPlayedTrack": "The Chain - 2004 Remaster",
     "mostPlayedCount": 2,
     "peakHour": "5pm"
   }
