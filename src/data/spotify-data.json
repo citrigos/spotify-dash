@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-31T07:39:52.802Z",
+  "lastUpdated": "2026-03-31T13:51:25.153Z",
   "recentTracks": [
+    {
+      "name": "Space Oddity - 2015 Remaster",
+      "artist": "David Bowie",
+      "playedAt": "2026-03-31T09:19:31.767Z",
+      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
     {
       "name": "Reptilia",
       "artist": "The Strokes",
@@ -18,18 +24,12 @@
       "artist": "Pink Floyd",
       "playedAt": "2026-03-31T00:02:08.217Z",
       "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
-    },
-    {
-      "name": "D.A.N.C.E.",
-      "artist": "Justice",
-      "playedAt": "2026-03-30T23:56:27.747Z",
-      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 35,
+    "uniqueArtists": 36,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
