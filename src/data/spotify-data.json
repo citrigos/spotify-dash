@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-04-03T18:58:40.789Z",
+  "lastUpdated": "2026-04-04T02:48:31.734Z",
   "recentTracks": [
+    {
+      "name": "Padam Padam",
+      "artist": "Kylie Minogue",
+      "playedAt": "2026-04-04T00:19:14.950Z",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "name": "Nel Villaggio - Nicola Conte & Nico Lahs Afro Club Mix",
+      "artist": "Piero Umiliani",
+      "playedAt": "2026-04-03T19:07:49.406Z",
+      "url": "https://open.spotify.com/track/43LWAdCUJ7tnpfsztmOKoV"
+    },
+    {
+      "name": "TAKE MY HEART (feat. Post Malone)",
+      "artist": "Swae Lee",
+      "playedAt": "2026-04-03T19:00:36.670Z",
+      "url": "https://open.spotify.com/track/5PLyTVY0zbqbJ2xiuxnpZ0"
+    },
     {
       "name": "All In One",
       "artist": "Kaala Shaw",
       "playedAt": "2026-04-03T18:56:54.427Z",
       "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
-    },
-    {
-      "name": "Funny Friends",
-      "artist": "Thundercat",
-      "playedAt": "2026-04-03T18:45:55.840Z",
-      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
-    },
-    {
-      "name": "FATHER (feat. Travis Scott)",
-      "artist": "Kanye West",
-      "playedAt": "2026-04-03T18:43:19.039Z",
-      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
-    },
-    {
-      "name": "Cuba Libre",
-      "artist": "Parov Stelar",
-      "playedAt": "2026-04-03T18:39:30.082Z",
-      "url": "https://open.spotify.com/track/2Y6OG9FV3f6hOitzxoJlXo"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 34,
+    "uniqueArtists": 35,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
