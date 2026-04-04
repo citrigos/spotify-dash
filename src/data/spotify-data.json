@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-04T13:12:45.736Z",
+  "lastUpdated": "2026-04-04T18:54:55.807Z",
   "recentTracks": [
+    {
+      "name": "The Last Goodbye",
+      "artist": "ODESZA",
+      "playedAt": "2026-04-04T16:51:32.173Z",
+      "url": "https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8"
+    },
     {
       "name": "Padam Padam",
       "artist": "Kylie Minogue",
@@ -18,12 +24,6 @@
       "artist": "Swae Lee",
       "playedAt": "2026-04-03T19:00:36.670Z",
       "url": "https://open.spotify.com/track/5PLyTVY0zbqbJ2xiuxnpZ0"
-    },
-    {
-      "name": "All In One",
-      "artist": "Kaala Shaw",
-      "playedAt": "2026-04-03T18:56:54.427Z",
-      "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
     }
   ],
   "stats": {
