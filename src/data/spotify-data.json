@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-08T03:20:58.878Z",
+  "lastUpdated": "2026-04-08T07:46:59.532Z",
   "recentTracks": [
+    {
+      "name": "Oysters In My Pocket",
+      "artist": "Royel Otis",
+      "playedAt": "2026-04-08T03:51:14.902Z",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
     {
       "name": "Loca (feat. Dizzee Rascal)",
       "artist": "Shakira",
@@ -18,18 +24,12 @@
       "artist": "Mac Miller",
       "playedAt": "2026-04-07T23:03:08.652Z",
       "url": "https://open.spotify.com/track/4yLcNOL1B8DyUPZ0qpc8uq"
-    },
-    {
-      "name": "Self Care",
-      "artist": "Mac Miller",
-      "playedAt": "2026-04-07T22:40:06.104Z",
-      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 34,
+    "uniqueArtists": 35,
     "topArtist": "Mac Miller",
     "dailyAverage": 2,
     "repeatRate": 4,
