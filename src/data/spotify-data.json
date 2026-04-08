@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-08T13:51:16.272Z",
+  "lastUpdated": "2026-04-08T19:28:01.220Z",
   "recentTracks": [
+    {
+      "name": "Oysters In My Pocket",
+      "artist": "Royel Otis",
+      "playedAt": "2026-04-08T14:17:40.719Z",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
     {
       "name": "Oysters In My Pocket",
       "artist": "Royel Otis",
@@ -18,12 +24,6 @@
       "artist": "Mickey Avalon",
       "playedAt": "2026-04-07T23:07:07.777Z",
       "url": "https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w"
-    },
-    {
-      "name": "English Lane",
-      "artist": "Mac Miller",
-      "playedAt": "2026-04-07T23:03:08.652Z",
-      "url": "https://open.spotify.com/track/4yLcNOL1B8DyUPZ0qpc8uq"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Mac Miller",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Hurt Feelings",
+    "mostPlayedTrack": "Oysters In My Pocket",
     "mostPlayedCount": 2,
     "peakHour": "6pm"
   }
