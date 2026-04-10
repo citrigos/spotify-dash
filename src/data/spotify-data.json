@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-10T03:29:00.822Z",
+  "lastUpdated": "2026-04-10T07:53:05.664Z",
   "recentTracks": [
+    {
+      "name": "Drugs",
+      "artist": "Ratatat",
+      "playedAt": "2026-04-10T04:46:55.204Z",
+      "url": "https://open.spotify.com/track/6piqiPg1u0o4BsoEK81yVj"
+    },
     {
       "name": "La lune",
       "artist": "L'Impératrice",
@@ -18,12 +24,6 @@
       "artist": "L'Impératrice",
       "playedAt": "2026-04-09T04:37:02.088Z",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "name": "Oysters In My Pocket",
-      "artist": "Royel Otis",
-      "playedAt": "2026-04-08T14:17:40.719Z",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
     }
   ],
   "stats": {
