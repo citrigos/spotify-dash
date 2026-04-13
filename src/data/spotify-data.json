@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-13T13:59:44.780Z",
+  "lastUpdated": "2026-04-13T19:23:47.760Z",
   "recentTracks": [
+    {
+      "name": "Płoną góry, płoną lasy",
+      "artist": "Czerwone Gitary",
+      "playedAt": "2026-04-13T15:26:26.767Z",
+      "url": "https://open.spotify.com/track/5DDJf23zKdvpWBA2KmgyPW"
+    },
     {
       "name": "Apambichao",
       "artist": "Manuel Turizo",
@@ -18,12 +24,6 @@
       "artist": "Frank Ocean",
       "playedAt": "2026-04-11T20:11:20.973Z",
       "url": "https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB"
-    },
-    {
-      "name": "Be Yourself",
-      "artist": "Frank Ocean",
-      "playedAt": "2026-04-11T20:07:33.547Z",
-      "url": "https://open.spotify.com/track/1IdZvb2XK8NmsovQlV6CPn"
     }
   ],
   "stats": {
