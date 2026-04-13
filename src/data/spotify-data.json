@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-13T03:39:40.157Z",
+  "lastUpdated": "2026-04-13T08:16:11.828Z",
   "recentTracks": [
+    {
+      "name": "Apambichao",
+      "artist": "Manuel Turizo",
+      "playedAt": "2026-04-13T03:49:59.107Z",
+      "url": "https://open.spotify.com/track/7JyOLiz8L1nFhJx7mMfv4w"
+    },
     {
       "name": "Skyline To",
       "artist": "Frank Ocean",
@@ -18,12 +24,6 @@
       "artist": "Frank Ocean",
       "playedAt": "2026-04-11T20:07:33.547Z",
       "url": "https://open.spotify.com/track/1IdZvb2XK8NmsovQlV6CPn"
-    },
-    {
-      "name": "Pink + White",
-      "artist": "Frank Ocean",
-      "playedAt": "2026-04-11T20:05:36.480Z",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     }
   ],
   "stats": {
