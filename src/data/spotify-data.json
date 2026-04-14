@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-14T14:02:37.458Z",
+  "lastUpdated": "2026-04-14T19:26:42.615Z",
   "recentTracks": [
     {
-      "name": "Phone Numbers",
-      "artist": "Dominic Fike",
-      "playedAt": "2026-04-14T07:34:25.086Z",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+      "name": "Sound & Color",
+      "artist": "Alabama Shakes",
+      "playedAt": "2026-04-14T16:29:53.268Z",
+      "url": "https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT"
     },
     {
-      "name": "Let The Sunshine In (Reprise) - Remastered 2000",
-      "artist": "The 5th Dimension",
-      "playedAt": "2026-04-14T01:05:27.309Z",
-      "url": "https://open.spotify.com/track/2r5seNRSheLITyH4cevy2O"
+      "name": "rockstar (feat. 21 Savage)",
+      "artist": "Post Malone",
+      "playedAt": "2026-04-14T16:26:50.099Z",
+      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
     },
     {
-      "name": "All Night (feat. Knox Fortune)",
-      "artist": "Chance the Rapper",
-      "playedAt": "2026-04-14T00:59:44.095Z",
-      "url": "https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T"
+      "name": "Drive",
+      "artist": "Incubus",
+      "playedAt": "2026-04-14T16:23:11.420Z",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
     },
     {
-      "name": "THRU THE NIGHT (feat. Bryson Tiller)",
-      "artist": "Jack Harlow",
-      "playedAt": "2026-04-14T00:53:21.456Z",
-      "url": "https://open.spotify.com/track/36YMcEtAMW83fctL0XGxl2"
+      "name": "FRIENDS",
+      "artist": "The Carters",
+      "playedAt": "2026-04-14T16:19:18.472Z",
+      "url": "https://open.spotify.com/track/4xlRayuMPAiu9Vcut1eABe"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 32,
+    "uniqueArtists": 33,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Agitations tropicales",
+    "mostPlayedTrack": "Phone Numbers",
     "mostPlayedCount": 2,
-    "peakHour": "6pm"
+    "peakHour": "4pm"
   }
 }
