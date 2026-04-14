@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-04-13T19:23:47.760Z",
+  "lastUpdated": "2026-04-14T03:29:24.574Z",
   "recentTracks": [
+    {
+      "name": "Let The Sunshine In (Reprise) - Remastered 2000",
+      "artist": "The 5th Dimension",
+      "playedAt": "2026-04-14T01:05:27.309Z",
+      "url": "https://open.spotify.com/track/2r5seNRSheLITyH4cevy2O"
+    },
+    {
+      "name": "All Night (feat. Knox Fortune)",
+      "artist": "Chance the Rapper",
+      "playedAt": "2026-04-14T00:59:44.095Z",
+      "url": "https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T"
+    },
+    {
+      "name": "THRU THE NIGHT (feat. Bryson Tiller)",
+      "artist": "Jack Harlow",
+      "playedAt": "2026-04-14T00:53:21.456Z",
+      "url": "https://open.spotify.com/track/36YMcEtAMW83fctL0XGxl2"
+    },
     {
       "name": "Płoną góry, płoną lasy",
       "artist": "Czerwone Gitary",
       "playedAt": "2026-04-13T15:26:26.767Z",
       "url": "https://open.spotify.com/track/5DDJf23zKdvpWBA2KmgyPW"
-    },
-    {
-      "name": "Apambichao",
-      "artist": "Manuel Turizo",
-      "playedAt": "2026-04-13T03:49:59.107Z",
-      "url": "https://open.spotify.com/track/7JyOLiz8L1nFhJx7mMfv4w"
-    },
-    {
-      "name": "Skyline To",
-      "artist": "Frank Ocean",
-      "playedAt": "2026-04-11T20:14:25.427Z",
-      "url": "https://open.spotify.com/track/4xR3MAscflQ262kMeiKshQ"
-    },
-    {
-      "name": "Solo",
-      "artist": "Frank Ocean",
-      "playedAt": "2026-04-11T20:11:20.973Z",
-      "url": "https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 31,
+    "uniqueArtists": 32,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
