@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-15T13:56:19.460Z",
+  "lastUpdated": "2026-04-15T19:38:23.921Z",
   "recentTracks": [
     {
-      "name": "Tops - Remastered",
-      "artist": "The Rolling Stones",
-      "playedAt": "2026-04-15T06:36:18.474Z",
-      "url": "https://open.spotify.com/track/0kesmP5jKuavoUDwuoMG3l"
+      "name": "Maybe I’m Amazed - Remastered 2011",
+      "artist": "Paul McCartney",
+      "playedAt": "2026-04-15T17:42:59.615Z",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
-      "name": "Worried About You - Remastered",
-      "artist": "The Rolling Stones",
-      "playedAt": "2026-04-15T04:18:35.248Z",
-      "url": "https://open.spotify.com/track/02Y7UtZLh7SbhYsYG5N7Rr"
+      "name": "Glad and Sorry",
+      "artist": "Faces",
+      "playedAt": "2026-04-15T17:39:09.327Z",
+      "url": "https://open.spotify.com/track/0NtyuUILV22rjcc7JiSFfA"
     },
     {
-      "name": "Neighbours - Remastered",
-      "artist": "The Rolling Stones",
-      "playedAt": "2026-04-15T04:02:21.426Z",
-      "url": "https://open.spotify.com/track/1nBufEoW7UXvQWgqmNl6Kx"
+      "name": "Indian Summer",
+      "artist": "The Doors",
+      "playedAt": "2026-04-15T17:36:02.260Z",
+      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
     },
     {
-      "name": "Little T&A - Remastered",
-      "artist": "The Rolling Stones",
-      "playedAt": "2026-04-15T03:57:24.995Z",
-      "url": "https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H"
+      "name": "I've Got A Feeling - Remastered 2009",
+      "artist": "The Beatles",
+      "playedAt": "2026-04-15T17:33:27.322Z",
+      "url": "https://open.spotify.com/track/3gwRWIbr5ycEVLIAXrWaw7"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 33,
-    "topArtist": "Kid Cudi",
+    "uniqueArtists": 18,
+    "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 6,
-    "mostPlayedTrack": "Young Lust",
+    "mostPlayedTrack": "Heaven - Remastered",
     "mostPlayedCount": 3,
-    "peakHour": "10pm"
+    "peakHour": "4pm"
   }
 }
