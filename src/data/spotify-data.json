@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-04-14T19:26:42.615Z",
+  "lastUpdated": "2026-04-15T03:28:01.511Z",
   "recentTracks": [
     {
-      "name": "Sound & Color",
-      "artist": "Alabama Shakes",
-      "playedAt": "2026-04-14T16:29:53.268Z",
-      "url": "https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT"
+      "name": "You Fly Me",
+      "artist": "Fingathing",
+      "playedAt": "2026-04-15T02:48:04.434Z",
+      "url": "https://open.spotify.com/track/6xnlLSNzRTf8Qzo3Km35hc"
     },
     {
-      "name": "rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "playedAt": "2026-04-14T16:26:50.099Z",
-      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
+      "name": "Young Lust",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-04-15T02:36:30.873Z",
+      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
     },
     {
-      "name": "Drive",
-      "artist": "Incubus",
-      "playedAt": "2026-04-14T16:23:11.420Z",
-      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+      "name": "Young Lust",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-04-15T02:25:11.712Z",
+      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
     },
     {
-      "name": "FRIENDS",
-      "artist": "The Carters",
-      "playedAt": "2026-04-14T16:19:18.472Z",
-      "url": "https://open.spotify.com/track/4xlRayuMPAiu9Vcut1eABe"
+      "name": "Young Lust",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-04-15T02:18:44.892Z",
+      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
     }
   ],
   "stats": {
@@ -32,9 +32,9 @@
     "uniqueArtists": 33,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Phone Numbers",
-    "mostPlayedCount": 2,
-    "peakHour": "4pm"
+    "repeatRate": 6,
+    "mostPlayedTrack": "Young Lust",
+    "mostPlayedCount": 3,
+    "peakHour": "10pm"
   }
 }
