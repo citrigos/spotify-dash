@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-04-15T19:38:23.921Z",
+  "lastUpdated": "2026-04-16T03:35:15.613Z",
   "recentTracks": [
     {
-      "name": "Maybe I’m Amazed - Remastered 2011",
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "artist": "Aventura",
+      "playedAt": "2026-04-16T03:20:58.245Z",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+    },
+    {
+      "name": "Voodoo?",
+      "artist": "L'Impératrice",
+      "playedAt": "2026-04-16T03:16:16.574Z",
+      "url": "https://open.spotify.com/track/3pr0y5h4MkBngy6gyozLDV"
+    },
+    {
+      "name": "Let Me Roll It - 2010 Remaster",
       "artist": "Paul McCartney",
-      "playedAt": "2026-04-15T17:42:59.615Z",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+      "playedAt": "2026-04-16T01:38:39.187Z",
+      "url": "https://open.spotify.com/track/0mRQp2HsSqX1MZuMvonAPN"
     },
     {
-      "name": "Glad and Sorry",
-      "artist": "Faces",
-      "playedAt": "2026-04-15T17:39:09.327Z",
-      "url": "https://open.spotify.com/track/0NtyuUILV22rjcc7JiSFfA"
-    },
-    {
-      "name": "Indian Summer",
-      "artist": "The Doors",
-      "playedAt": "2026-04-15T17:36:02.260Z",
-      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
-    },
-    {
-      "name": "I've Got A Feeling - Remastered 2009",
-      "artist": "The Beatles",
-      "playedAt": "2026-04-15T17:33:27.322Z",
-      "url": "https://open.spotify.com/track/3gwRWIbr5ycEVLIAXrWaw7"
+      "name": "Heart Of Glass - Remix",
+      "artist": "Blondie",
+      "playedAt": "2026-04-16T01:33:19.725Z",
+      "url": "https://open.spotify.com/track/5Q8SPijJts3lV4fcmCrZXp"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 18,
+    "uniqueArtists": 17,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 6,
-    "mostPlayedTrack": "Heaven - Remastered",
+    "mostPlayedTrack": "Let Me Roll It - 2010 Remaster",
     "mostPlayedCount": 3,
     "peakHour": "4pm"
   }
