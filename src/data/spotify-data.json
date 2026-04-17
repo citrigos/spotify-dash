@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-17T13:47:56.106Z",
+  "lastUpdated": "2026-04-17T19:12:23.138Z",
   "recentTracks": [
     {
-      "name": "Don't Stop Dancin'",
-      "artist": "Jackie Stoudemire",
-      "playedAt": "2026-04-17T13:46:52.678Z",
-      "url": "https://open.spotify.com/track/6liAGsMphTwoszVnmwEVHn"
+      "name": "Small Worlds",
+      "artist": "Mac Miller",
+      "playedAt": "2026-04-17T18:01:52.082Z",
+      "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
     },
     {
-      "name": "You Fly Me",
-      "artist": "Fingathing",
-      "playedAt": "2026-04-17T13:42:37.849Z",
-      "url": "https://open.spotify.com/track/6xnlLSNzRTf8Qzo3Km35hc"
+      "name": "Ladders",
+      "artist": "Mac Miller",
+      "playedAt": "2026-04-17T17:57:20.268Z",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
     },
     {
-      "name": "What I Got",
-      "artist": "Sublime",
-      "playedAt": "2026-04-17T11:27:44.238Z",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+      "name": "Wings",
+      "artist": "Mac Miller",
+      "playedAt": "2026-04-17T17:52:33.115Z",
+      "url": "https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo"
     },
     {
-      "name": "Delta Dawn",
-      "artist": "Tanya Tucker",
-      "playedAt": "2026-04-17T11:24:54.426Z",
-      "url": "https://open.spotify.com/track/5kUs3EVHCalJewyv29ozfx"
+      "name": "Self Care",
+      "artist": "Mac Miller",
+      "playedAt": "2026-04-17T17:48:22.871Z",
+      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 20,
+    "uniqueArtists": 29,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 8,
     "mostPlayedTrack": "Let Me Roll It - 2010 Remaster",
     "mostPlayedCount": 4,
-    "peakHour": "4pm"
+    "peakHour": "5pm"
   }
 }
