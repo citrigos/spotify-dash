@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T19:02:09.447Z",
+  "lastUpdated": "2026-04-19T03:37:55.614Z",
   "recentTracks": [
+    {
+      "name": "Conversation Pt. 1",
+      "artist": "Mac Miller",
+      "playedAt": "2026-04-18T23:21:42.560Z",
+      "url": "https://open.spotify.com/track/1oFEAWvPHP5TdSlmIs77sV"
+    },
     {
       "name": "Small Worlds",
       "artist": "Mac Miller",
@@ -18,12 +24,6 @@
       "artist": "Mac Miller",
       "playedAt": "2026-04-17T17:52:33.115Z",
       "url": "https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo"
-    },
-    {
-      "name": "Self Care",
-      "artist": "Mac Miller",
-      "playedAt": "2026-04-17T17:48:22.871Z",
-      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
     }
   ],
   "stats": {
