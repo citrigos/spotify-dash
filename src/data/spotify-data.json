@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-19T19:02:25.271Z",
+  "lastUpdated": "2026-04-20T03:39:45.509Z",
   "recentTracks": [
     {
-      "name": "Conversation Pt. 1",
-      "artist": "Mac Miller",
-      "playedAt": "2026-04-18T23:21:42.560Z",
-      "url": "https://open.spotify.com/track/1oFEAWvPHP5TdSlmIs77sV"
+      "name": "Crush",
+      "artist": "Jennifer Paige",
+      "playedAt": "2026-04-20T02:05:03.512Z",
+      "url": "https://open.spotify.com/track/0wlU3AK6gdsJUcf6pvyaTp"
     },
     {
-      "name": "Small Worlds",
-      "artist": "Mac Miller",
-      "playedAt": "2026-04-17T18:01:52.082Z",
-      "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
+      "name": "What's Up?",
+      "artist": "4 Non Blondes",
+      "playedAt": "2026-04-20T02:05:03.281Z",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
-      "name": "Ladders",
-      "artist": "Mac Miller",
-      "playedAt": "2026-04-17T17:57:20.268Z",
-      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+      "name": "Erase / Rewind",
+      "artist": "The Cardigans",
+      "playedAt": "2026-04-20T02:04:59.798Z",
+      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
     },
     {
-      "name": "Wings",
-      "artist": "Mac Miller",
-      "playedAt": "2026-04-17T17:52:33.115Z",
-      "url": "https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo"
+      "name": "Here With Me",
+      "artist": "Dido",
+      "playedAt": "2026-04-20T02:04:59.768Z",
+      "url": "https://open.spotify.com/track/4xFxK0FXmNlUDRgCaIQCVn"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 29,
+    "uniqueArtists": 39,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
-    "repeatRate": 8,
-    "mostPlayedTrack": "Let Me Roll It - 2010 Remaster",
-    "mostPlayedCount": 4,
-    "peakHour": "5pm"
+    "repeatRate": 2,
+    "mostPlayedTrack": "Crush",
+    "mostPlayedCount": 1,
+    "peakHour": "2am"
   }
 }
