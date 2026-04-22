@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-22T03:30:12.700Z",
+  "lastUpdated": "2026-04-22T08:00:53.092Z",
   "recentTracks": [
     {
-      "name": "Erase Me - Main",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-04-22T03:11:30.107Z",
-      "url": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
+      "name": "BŭRGŭNDí",
+      "artist": "KAMAUU",
+      "playedAt": "2026-04-22T06:01:02.053Z",
+      "url": "https://open.spotify.com/track/6A4w8ZVZRBTE7vSsV76U3w"
     },
     {
-      "name": "Back Pocket",
-      "artist": "Vulfpeck",
-      "playedAt": "2026-04-22T03:08:01.882Z",
-      "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2"
+      "name": "First Class",
+      "artist": "Rainbow Kitten Surprise",
+      "playedAt": "2026-04-22T05:57:59.162Z",
+      "url": "https://open.spotify.com/track/0uQxV7ysuBPhbfUkW1WOCp"
     },
     {
-      "name": "Seaside",
-      "artist": "The Kooks",
-      "playedAt": "2026-04-22T02:01:57.108Z",
-      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
+      "name": "Pica",
+      "artist": "Deorro",
+      "playedAt": "2026-04-22T05:52:15.203Z",
+      "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
     },
     {
-      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act 1: No. 2, March",
-      "artist": "Pyotr Ilyich Tchaikovsky",
-      "playedAt": "2026-04-22T01:46:12.662Z",
-      "url": "https://open.spotify.com/track/06am46cX3Z6YlSsg0TyVHA"
+      "name": "Thy Mission",
+      "artist": "The Garden",
+      "playedAt": "2026-04-22T05:48:54.790Z",
+      "url": "https://open.spotify.com/track/7LcmuGeSXQzQlteW3yGtWb"
     }
   ],
   "stats": {
     "tracksPlayed": 48,
     "listeningHours": 3,
-    "uniqueArtists": 41,
+    "uniqueArtists": 46,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Me And My Girlfriend",
-    "mostPlayedCount": 2,
-    "peakHour": "0am"
+    "repeatRate": 2,
+    "mostPlayedTrack": "BŭRGŭNDí",
+    "mostPlayedCount": 1,
+    "peakHour": "4am"
   }
 }
