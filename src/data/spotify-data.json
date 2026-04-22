@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-22T08:00:53.092Z",
+  "lastUpdated": "2026-04-22T14:01:16.531Z",
   "recentTracks": [
+    {
+      "name": "Not Into You",
+      "artist": "Brooksie",
+      "playedAt": "2026-04-22T09:10:40.858Z",
+      "url": "https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk"
+    },
     {
       "name": "BŭRGŭNDí",
       "artist": "KAMAUU",
@@ -18,22 +24,16 @@
       "artist": "Deorro",
       "playedAt": "2026-04-22T05:52:15.203Z",
       "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
-    },
-    {
-      "name": "Thy Mission",
-      "artist": "The Garden",
-      "playedAt": "2026-04-22T05:48:54.790Z",
-      "url": "https://open.spotify.com/track/7LcmuGeSXQzQlteW3yGtWb"
     }
   ],
   "stats": {
-    "tracksPlayed": 48,
+    "tracksPlayed": 49,
     "listeningHours": 3,
-    "uniqueArtists": 46,
+    "uniqueArtists": 47,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "BŭRGŭNDí",
+    "mostPlayedTrack": "Not Into You",
     "mostPlayedCount": 1,
     "peakHour": "4am"
   }
