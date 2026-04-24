@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-23T14:03:00.025Z",
+  "lastUpdated": "2026-04-24T19:04:40.305Z",
   "recentTracks": [
     {
-      "name": "El Corrido de Monterrey",
-      "artist": "Vicente Fernández",
-      "playedAt": "2026-04-22T20:11:35.571Z",
-      "url": "https://open.spotify.com/track/3QExUVvCgi6AmFl0mfCBfU"
+      "name": "Just What I Am",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-04-24T17:58:05.998Z",
+      "url": "https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY"
     },
     {
-      "name": "Message in a Bottle",
-      "artist": "Ty Dolla $ign",
-      "playedAt": "2026-04-22T20:08:12.428Z",
-      "url": "https://open.spotify.com/track/1k8WWnvxDpM3pv57GwxUhc"
+      "name": "Norf Norf",
+      "artist": "Vince Staples",
+      "playedAt": "2026-04-24T15:21:55.185Z",
+      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
     },
     {
-      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
-      "artist": "Vicente Garcia",
-      "playedAt": "2026-04-22T20:03:02.132Z",
-      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
+      "name": "Gorgeous",
+      "artist": "Kanye West",
+      "playedAt": "2026-04-24T15:18:51.191Z",
+      "url": "https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2"
     },
     {
-      "name": "Raw Dinner",
-      "artist": "Cruel Santino",
-      "playedAt": "2026-04-22T19:56:03.498Z",
-      "url": "https://open.spotify.com/track/2PyJgiGTC2jhNkqtPBwHsv"
+      "name": "I'm Good Luv, Enjoy.",
+      "artist": "Aaron May",
+      "playedAt": "2026-04-24T15:12:53.964Z",
+      "url": "https://open.spotify.com/track/0Cv3Jku9IP47deaYcfHWar"
     }
   ],
   "stats": {
-    "tracksPlayed": 16,
+    "tracksPlayed": 21,
     "listeningHours": 1,
-    "uniqueArtists": 15,
+    "uniqueArtists": 12,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 1,
-    "repeatRate": 13,
-    "mostPlayedTrack": "Not Into You",
-    "mostPlayedCount": 2,
-    "peakHour": "5am"
+    "repeatRate": 5,
+    "mostPlayedTrack": "Just What I Am",
+    "mostPlayedCount": 1,
+    "peakHour": "2pm"
   }
 }
