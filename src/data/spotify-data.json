@@ -1,40 +1,28 @@
 {
-  "lastUpdated": "2026-04-24T19:04:40.305Z",
+  "lastUpdated": "2026-04-25T19:04:41.475Z",
   "recentTracks": [
     {
-      "name": "Just What I Am",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-04-24T17:58:05.998Z",
-      "url": "https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY"
-    },
-    {
-      "name": "Norf Norf",
-      "artist": "Vince Staples",
-      "playedAt": "2026-04-24T15:21:55.185Z",
-      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
-    },
-    {
-      "name": "Gorgeous",
+      "name": "Pt. 2",
       "artist": "Kanye West",
-      "playedAt": "2026-04-24T15:18:51.191Z",
-      "url": "https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2"
+      "playedAt": "2026-04-25T17:20:26.535Z",
+      "url": "https://open.spotify.com/track/1Wsbr1d2BouNGk2q92mIj7"
     },
     {
-      "name": "I'm Good Luv, Enjoy.",
-      "artist": "Aaron May",
-      "playedAt": "2026-04-24T15:12:53.964Z",
-      "url": "https://open.spotify.com/track/0Cv3Jku9IP47deaYcfHWar"
+      "name": "Father Stretch My Hands Pt. 1",
+      "artist": "Kanye West",
+      "playedAt": "2026-04-25T17:18:16.280Z",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     }
   ],
   "stats": {
-    "tracksPlayed": 21,
-    "listeningHours": 1,
-    "uniqueArtists": 12,
+    "tracksPlayed": 2,
+    "listeningHours": 0,
+    "uniqueArtists": 1,
     "topArtist": "The Rolling Stones",
-    "dailyAverage": 1,
-    "repeatRate": 5,
-    "mostPlayedTrack": "Just What I Am",
+    "dailyAverage": 0,
+    "repeatRate": 50,
+    "mostPlayedTrack": "Pt. 2",
     "mostPlayedCount": 1,
-    "peakHour": "2pm"
+    "peakHour": "5pm"
   }
 }
