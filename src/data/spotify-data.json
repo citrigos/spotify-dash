@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-26T03:42:22.174Z",
+  "lastUpdated": "2026-04-26T07:49:13.304Z",
   "recentTracks": [
+    {
+      "name": "Famous",
+      "artist": "Kanye West",
+      "playedAt": "2026-04-26T05:09:13.149Z",
+      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+    },
     {
       "name": "Pt. 2",
       "artist": "Kanye West",
@@ -15,13 +21,13 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 2,
+    "tracksPlayed": 3,
     "listeningHours": 0,
     "uniqueArtists": 1,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 0,
-    "repeatRate": 50,
-    "mostPlayedTrack": "Pt. 2",
+    "repeatRate": 33,
+    "mostPlayedTrack": "Famous",
     "mostPlayedCount": 1,
     "peakHour": "5pm"
   }
