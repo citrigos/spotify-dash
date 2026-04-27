@@ -1,33 +1,39 @@
 {
-  "lastUpdated": "2026-04-27T14:14:18.527Z",
+  "lastUpdated": "2026-04-27T19:43:07.731Z",
   "recentTracks": [
+    {
+      "name": "Moonlight in Atlanta",
+      "artist": "Russ",
+      "playedAt": "2026-04-27T18:14:02.054Z",
+      "url": "https://open.spotify.com/track/4vzV11MKDc82D9r1YV61MQ"
+    },
+    {
+      "name": "Islands In the Stream",
+      "artist": "Dolly Parton",
+      "playedAt": "2026-04-27T17:17:01.796Z",
+      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+    },
+    {
+      "name": "My Tennessee Mountain Home",
+      "artist": "Dolly Parton",
+      "playedAt": "2026-04-27T17:12:58.052Z",
+      "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
+    },
     {
       "name": "Famous",
       "artist": "Kanye West",
       "playedAt": "2026-04-26T05:09:13.149Z",
       "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
-    },
-    {
-      "name": "Pt. 2",
-      "artist": "Kanye West",
-      "playedAt": "2026-04-25T17:20:26.535Z",
-      "url": "https://open.spotify.com/track/1Wsbr1d2BouNGk2q92mIj7"
-    },
-    {
-      "name": "Father Stretch My Hands Pt. 1",
-      "artist": "Kanye West",
-      "playedAt": "2026-04-25T17:18:16.280Z",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     }
   ],
   "stats": {
-    "tracksPlayed": 3,
+    "tracksPlayed": 6,
     "listeningHours": 0,
-    "uniqueArtists": 1,
+    "uniqueArtists": 3,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 0,
-    "repeatRate": 33,
-    "mostPlayedTrack": "Famous",
+    "repeatRate": 17,
+    "mostPlayedTrack": "Moonlight in Atlanta",
     "mostPlayedCount": 1,
     "peakHour": "5pm"
   }
