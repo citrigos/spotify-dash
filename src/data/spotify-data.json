@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-29T14:21:26.263Z",
+  "lastUpdated": "2026-04-29T19:46:13.785Z",
   "recentTracks": [
+    {
+      "name": "Se Preparó",
+      "artist": "Ozuna",
+      "playedAt": "2026-04-29T14:41:20.933Z",
+      "url": "https://open.spotify.com/track/3mxWDt0eKXfl4C1e4oIP0J"
+    },
     {
       "name": "Mujeriego",
       "artist": "Ryan Castro",
@@ -18,22 +24,16 @@
       "artist": "Ryan Castro",
       "playedAt": "2026-04-29T03:30:27.571Z",
       "url": "https://open.spotify.com/track/4jiYaQVHzMfKhEeLypWpNO"
-    },
-    {
-      "name": "Una Noche en Medellín",
-      "artist": "Cris MJ",
-      "playedAt": "2026-04-29T03:25:38.313Z",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     }
   ],
   "stats": {
-    "tracksPlayed": 31,
+    "tracksPlayed": 32,
     "listeningHours": 2,
-    "uniqueArtists": 22,
+    "uniqueArtists": 23,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 1,
     "repeatRate": 3,
-    "mostPlayedTrack": "Mujeriego",
+    "mostPlayedTrack": "Se Preparó",
     "mostPlayedCount": 1,
     "peakHour": "10pm"
   }
