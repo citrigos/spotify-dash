@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-28T19:51:00.129Z",
+  "lastUpdated": "2026-04-29T03:50:15.442Z",
   "recentTracks": [
     {
-      "name": "Moonlight in Atlanta",
-      "artist": "Russ",
-      "playedAt": "2026-04-27T18:14:02.054Z",
-      "url": "https://open.spotify.com/track/4vzV11MKDc82D9r1YV61MQ"
+      "name": "Mujeriego",
+      "artist": "Ryan Castro",
+      "playedAt": "2026-04-29T03:41:25.568Z",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
-      "name": "Islands In the Stream",
-      "artist": "Dolly Parton",
-      "playedAt": "2026-04-27T17:17:01.796Z",
-      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+      "name": "Borro Cassette",
+      "artist": "Maluma",
+      "playedAt": "2026-04-29T03:34:36.081Z",
+      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
     {
-      "name": "My Tennessee Mountain Home",
-      "artist": "Dolly Parton",
-      "playedAt": "2026-04-27T17:12:58.052Z",
-      "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
+      "name": "Mujeriego",
+      "artist": "Ryan Castro",
+      "playedAt": "2026-04-29T03:30:27.571Z",
+      "url": "https://open.spotify.com/track/4jiYaQVHzMfKhEeLypWpNO"
     },
     {
-      "name": "Famous",
-      "artist": "Kanye West",
-      "playedAt": "2026-04-26T05:09:13.149Z",
-      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+      "name": "Una Noche en Medellín",
+      "artist": "Cris MJ",
+      "playedAt": "2026-04-29T03:25:38.313Z",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     }
   ],
   "stats": {
-    "tracksPlayed": 6,
-    "listeningHours": 0,
-    "uniqueArtists": 3,
+    "tracksPlayed": 31,
+    "listeningHours": 2,
+    "uniqueArtists": 22,
     "topArtist": "The Rolling Stones",
-    "dailyAverage": 0,
-    "repeatRate": 17,
-    "mostPlayedTrack": "Moonlight in Atlanta",
+    "dailyAverage": 1,
+    "repeatRate": 3,
+    "mostPlayedTrack": "Mujeriego",
     "mostPlayedCount": 1,
-    "peakHour": "5pm"
+    "peakHour": "10pm"
   }
 }
