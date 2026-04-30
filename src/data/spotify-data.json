@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-04-30T14:15:06.560Z",
+  "lastUpdated": "2026-04-30T19:43:42.092Z",
   "recentTracks": [
     {
-      "name": "Se Preparó",
-      "artist": "Ozuna",
-      "playedAt": "2026-04-29T14:41:20.933Z",
-      "url": "https://open.spotify.com/track/3mxWDt0eKXfl4C1e4oIP0J"
+      "name": "Mil Fantasías",
+      "artist": "J Balvin",
+      "playedAt": "2026-04-30T15:31:40.161Z",
+      "url": "https://open.spotify.com/track/6rhOWUCJ262eliRvYjphgV"
     },
     {
-      "name": "Mujeriego",
-      "artist": "Ryan Castro",
-      "playedAt": "2026-04-29T03:41:25.568Z",
-      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
+      "name": "Whenever, Wherever",
+      "artist": "Shakira",
+      "playedAt": "2026-04-30T15:27:54.873Z",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
-      "name": "Borro Cassette",
-      "artist": "Maluma",
-      "playedAt": "2026-04-29T03:34:36.081Z",
-      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
+      "name": "X",
+      "artist": "Nicky Jam",
+      "playedAt": "2026-04-30T15:24:38.611Z",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
-      "name": "Mujeriego",
-      "artist": "Ryan Castro",
-      "playedAt": "2026-04-29T03:30:27.571Z",
-      "url": "https://open.spotify.com/track/4jiYaQVHzMfKhEeLypWpNO"
+      "name": "UN PREVIEW",
+      "artist": "Bad Bunny",
+      "playedAt": "2026-04-30T15:21:45.995Z",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     }
   ],
   "stats": {
-    "tracksPlayed": 32,
-    "listeningHours": 2,
-    "uniqueArtists": 23,
+    "tracksPlayed": 45,
+    "listeningHours": 3,
+    "uniqueArtists": 32,
     "topArtist": "The Rolling Stones",
-    "dailyAverage": 1,
-    "repeatRate": 3,
-    "mostPlayedTrack": "Se Preparó",
-    "mostPlayedCount": 1,
-    "peakHour": "10pm"
+    "dailyAverage": 2,
+    "repeatRate": 4,
+    "mostPlayedTrack": "DESPECHÁ",
+    "mostPlayedCount": 2,
+    "peakHour": "3pm"
   }
 }
