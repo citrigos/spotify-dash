@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-30T19:43:42.092Z",
+  "lastUpdated": "2026-05-01T04:02:17.391Z",
   "recentTracks": [
+    {
+      "name": "Ginza",
+      "artist": "J Balvin",
+      "playedAt": "2026-04-30T20:24:58.644Z",
+      "url": "https://open.spotify.com/track/2kGDoUuXGtcHdnziRLUsGp"
+    },
     {
       "name": "Mil Fantasías",
       "artist": "J Balvin",
@@ -18,16 +24,10 @@
       "artist": "Nicky Jam",
       "playedAt": "2026-04-30T15:24:38.611Z",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
-    },
-    {
-      "name": "UN PREVIEW",
-      "artist": "Bad Bunny",
-      "playedAt": "2026-04-30T15:21:45.995Z",
-      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     }
   ],
   "stats": {
-    "tracksPlayed": 45,
+    "tracksPlayed": 46,
     "listeningHours": 3,
     "uniqueArtists": 32,
     "topArtist": "The Rolling Stones",
