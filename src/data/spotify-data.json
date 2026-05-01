@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-05-01T13:44:21.533Z",
+  "lastUpdated": "2026-05-01T19:21:51.845Z",
   "recentTracks": [
     {
-      "name": "Ginza",
-      "artist": "J Balvin",
-      "playedAt": "2026-04-30T20:24:58.644Z",
-      "url": "https://open.spotify.com/track/2kGDoUuXGtcHdnziRLUsGp"
+      "name": "Callaita",
+      "artist": "Bad Bunny",
+      "playedAt": "2026-05-01T16:11:12.084Z",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
-      "name": "Mil Fantasías",
-      "artist": "J Balvin",
-      "playedAt": "2026-04-30T15:31:40.161Z",
-      "url": "https://open.spotify.com/track/6rhOWUCJ262eliRvYjphgV"
+      "name": "CÓMO SE SIENTE - Remix",
+      "artist": "JHAYCO",
+      "playedAt": "2026-05-01T16:07:00.959Z",
+      "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
     },
     {
-      "name": "Whenever, Wherever",
-      "artist": "Shakira",
-      "playedAt": "2026-04-30T15:27:54.873Z",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
+      "artist": "Omega",
+      "playedAt": "2026-05-01T16:03:12.674Z",
+      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
     },
     {
-      "name": "X",
-      "artist": "Nicky Jam",
-      "playedAt": "2026-04-30T15:24:38.611Z",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+      "name": "Te Llegará Mi Olvido",
+      "artist": "Vicente Fernández",
+      "playedAt": "2026-05-01T15:59:36.079Z",
+      "url": "https://open.spotify.com/track/0Ou4OhPT4zrBpZzfHcMnWh"
     }
   ],
   "stats": {
-    "tracksPlayed": 46,
+    "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 32,
+    "uniqueArtists": 34,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "DESPECHÁ",
+    "mostPlayedTrack": "Pegao / Me Miro y La Mire - TikTok Hit",
     "mostPlayedCount": 2,
     "peakHour": "3pm"
   }
