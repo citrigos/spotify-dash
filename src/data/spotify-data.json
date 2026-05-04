@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-05-04T14:21:01.939Z",
+  "lastUpdated": "2026-05-04T19:49:51.702Z",
   "recentTracks": [
+    {
+      "name": "Never Lose Me",
+      "artist": "Flo Milli",
+      "playedAt": "2026-05-04T15:44:46.475Z",
+      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
+    },
+    {
+      "name": "No Broke Boys",
+      "artist": "Disco Lines",
+      "playedAt": "2026-05-04T15:36:51.075Z",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
     {
       "name": "ILLusions",
       "artist": "Kid Cudi",
@@ -12,18 +24,6 @@
       "artist": "Kid Cudi",
       "playedAt": "2026-05-04T14:11:52.709Z",
       "url": "https://open.spotify.com/track/4HMhDkyOObFngSAz2xeQhK"
-    },
-    {
-      "name": "By Design",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-04T14:07:42.478Z",
-      "url": "https://open.spotify.com/track/5FxVTEpoBress37MmlMhbZ"
-    },
-    {
-      "name": "Releaser",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-04T14:03:25.254Z",
-      "url": "https://open.spotify.com/track/5Tm9At0xeFb0MtlV8uI3eY"
     }
   ],
   "stats": {
