@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-05-04T19:49:51.702Z",
+  "lastUpdated": "2026-05-05T03:36:21.822Z",
   "recentTracks": [
+    {
+      "name": "I Fall Apart",
+      "artist": "Post Malone",
+      "playedAt": "2026-05-04T23:34:46.434Z",
+      "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
+    },
+    {
+      "name": "Gatluak - Bakermat Remix",
+      "artist": "Kronan",
+      "playedAt": "2026-05-04T23:01:44.099Z",
+      "url": "https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"
+    },
     {
       "name": "Never Lose Me",
       "artist": "Flo Milli",
@@ -12,24 +24,12 @@
       "artist": "Disco Lines",
       "playedAt": "2026-05-04T15:36:51.075Z",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "name": "ILLusions",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-04T14:16:13.331Z",
-      "url": "https://open.spotify.com/track/36ltVroxdokt4IVqNh4EEO"
-    },
-    {
-      "name": "All In",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-04T14:11:52.709Z",
-      "url": "https://open.spotify.com/track/4HMhDkyOObFngSAz2xeQhK"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 39,
+    "uniqueArtists": 40,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 4,
