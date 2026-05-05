@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-05T14:14:22.300Z",
+  "lastUpdated": "2026-05-05T19:45:40.870Z",
   "recentTracks": [
     {
-      "name": "I Fall Apart",
-      "artist": "Post Malone",
-      "playedAt": "2026-05-04T23:34:46.434Z",
-      "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
+      "name": "Team Rocket",
+      "artist": "Lil Uzi Vert",
+      "playedAt": "2026-05-05T19:43:53.822Z",
+      "url": "https://open.spotify.com/track/6FfyYWFEk4zd7CgvjBa2ZK"
     },
     {
-      "name": "Gatluak - Bakermat Remix",
-      "artist": "Kronan",
-      "playedAt": "2026-05-04T23:01:44.099Z",
-      "url": "https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"
+      "name": "679 (feat. Monty)",
+      "artist": "Fetty Wap",
+      "playedAt": "2026-05-05T19:33:06.072Z",
+      "url": "https://open.spotify.com/track/0w3Q3VFdrYzo24QUIGnBNy"
     },
     {
-      "name": "Never Lose Me",
-      "artist": "Flo Milli",
-      "playedAt": "2026-05-04T15:44:46.475Z",
-      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
+      "name": "tell you straight",
+      "artist": "jigitz",
+      "playedAt": "2026-05-05T15:33:33.194Z",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
-      "name": "No Broke Boys",
-      "artist": "Disco Lines",
-      "playedAt": "2026-05-04T15:36:51.075Z",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+      "name": "Perfect (Exceeder)",
+      "artist": "Mason",
+      "playedAt": "2026-05-05T15:31:49.993Z",
+      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 40,
+    "uniqueArtists": 41,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Pegao / Me Miro y La Mire - TikTok Hit",
-    "mostPlayedCount": 2,
+    "repeatRate": 2,
+    "mostPlayedTrack": "Team Rocket",
+    "mostPlayedCount": 1,
     "peakHour": "3pm"
   }
 }
