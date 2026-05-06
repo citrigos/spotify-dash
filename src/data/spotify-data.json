@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-05-05T19:45:40.870Z",
+  "lastUpdated": "2026-05-06T03:51:28.247Z",
   "recentTracks": [
     {
-      "name": "Team Rocket",
-      "artist": "Lil Uzi Vert",
-      "playedAt": "2026-05-05T19:43:53.822Z",
-      "url": "https://open.spotify.com/track/6FfyYWFEk4zd7CgvjBa2ZK"
+      "name": "Trust",
+      "artist": "Brent Faiyaz",
+      "playedAt": "2026-05-05T19:55:32.062Z",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
-      "name": "679 (feat. Monty)",
-      "artist": "Fetty Wap",
-      "playedAt": "2026-05-05T19:33:06.072Z",
-      "url": "https://open.spotify.com/track/0w3Q3VFdrYzo24QUIGnBNy"
+      "name": "Do You...",
+      "artist": "Miguel",
+      "playedAt": "2026-05-05T19:52:53.203Z",
+      "url": "https://open.spotify.com/track/4THgRPmLvhNmM9Lzj8qrvH"
     },
     {
-      "name": "tell you straight",
-      "artist": "jigitz",
-      "playedAt": "2026-05-05T15:33:33.194Z",
-      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
+      "name": "Helicoptero",
+      "artist": "El Alfa",
+      "playedAt": "2026-05-05T19:49:24.399Z",
+      "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
     },
     {
-      "name": "Perfect (Exceeder)",
-      "artist": "Mason",
-      "playedAt": "2026-05-05T15:31:49.993Z",
-      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "artist": "Elton John",
+      "playedAt": "2026-05-05T19:47:07.801Z",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Team Rocket",
+    "mostPlayedTrack": "Trust",
     "mostPlayedCount": 1,
     "peakHour": "3pm"
   }
