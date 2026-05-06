@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-06T03:51:28.247Z",
+  "lastUpdated": "2026-05-06T08:37:51.038Z",
   "recentTracks": [
+    {
+      "name": "The Recipe - Bonus Track",
+      "artist": "Kendrick Lamar",
+      "playedAt": "2026-05-06T04:03:25.843Z",
+      "url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"
+    },
     {
       "name": "Trust",
       "artist": "Brent Faiyaz",
@@ -18,12 +24,6 @@
       "artist": "El Alfa",
       "playedAt": "2026-05-05T19:49:24.399Z",
       "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
-    },
-    {
-      "name": "Goodbye Yellow Brick Road - Remastered 2014",
-      "artist": "Elton John",
-      "playedAt": "2026-05-05T19:47:07.801Z",
-      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Trust",
+    "mostPlayedTrack": "The Recipe - Bonus Track",
     "mostPlayedCount": 1,
     "peakHour": "3pm"
   }
