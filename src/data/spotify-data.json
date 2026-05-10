@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-09T19:14:23.680Z",
+  "lastUpdated": "2026-05-10T03:59:10.703Z",
   "recentTracks": [
     {
-      "name": "Me Olvide De Vivir",
-      "artist": "Julio Iglesias",
-      "playedAt": "2026-05-08T12:09:02.257Z",
-      "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
+      "name": "REAL ONES NEVER DIE",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-05-10T03:59:03.976Z",
+      "url": "https://open.spotify.com/track/1o15Kj7F3nlLaZNIbjFb4r"
     },
     {
-      "name": "Killer Queen - Remastered 2011",
-      "artist": "Queen",
-      "playedAt": "2026-05-08T05:31:44.493Z",
-      "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+      "name": "The Commander",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-05-10T03:33:37.078Z",
+      "url": "https://open.spotify.com/track/7iqsSrwZqc8vpdvbyK74pQ"
     },
     {
-      "name": "Blue Velvet",
-      "artist": "Lana Del Rey",
-      "playedAt": "2026-05-08T05:28:13.734Z",
-      "url": "https://open.spotify.com/track/5QWex1FyG3NhqIfJsJUqxj"
+      "name": "Willing To Trust (with Ty Dolla $ign)",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-05-10T03:29:20.406Z",
+      "url": "https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk"
     },
     {
-      "name": "Down Under",
-      "artist": "Men At Work",
-      "playedAt": "2026-05-08T05:25:34.768Z",
-      "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
+      "name": "Man On The Moon",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-05-10T03:24:38.287Z",
+      "url": "https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 41,
+    "uniqueArtists": 31,
     "topArtist": "The Rolling Stones",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "Me Olvide De Vivir",
-    "mostPlayedCount": 1,
-    "peakHour": "5am"
+    "repeatRate": 4,
+    "mostPlayedTrack": "Iris",
+    "mostPlayedCount": 2,
+    "peakHour": "0am"
   }
 }
