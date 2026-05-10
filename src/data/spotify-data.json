@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-10T03:59:10.703Z",
+  "lastUpdated": "2026-05-10T08:18:57.567Z",
   "recentTracks": [
+    {
+      "name": "DROWN",
+      "artist": "Kid Cudi",
+      "playedAt": "2026-05-10T04:01:52.315Z",
+      "url": "https://open.spotify.com/track/7zLT8LCa11TwA7FY4fib30"
+    },
     {
       "name": "REAL ONES NEVER DIE",
       "artist": "Kid Cudi",
@@ -18,19 +24,13 @@
       "artist": "Kid Cudi",
       "playedAt": "2026-05-10T03:29:20.406Z",
       "url": "https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk"
-    },
-    {
-      "name": "Man On The Moon",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-10T03:24:38.287Z",
-      "url": "https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 31,
-    "topArtist": "The Rolling Stones",
+    "uniqueArtists": 30,
+    "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
     "mostPlayedTrack": "Iris",
