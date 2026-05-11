@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-11T15:29:17.063Z",
+  "lastUpdated": "2026-05-11T19:57:44.970Z",
   "recentTracks": [
     {
-      "name": "Mr. Rager",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-11T00:43:23.461Z",
-      "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5"
+      "name": "A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)",
+      "artist": "A$AP Rocky",
+      "playedAt": "2026-05-11T18:01:38.993Z",
+      "url": "https://open.spotify.com/track/3oHkMCVJyOcjg5FhfLc2Rq"
     },
     {
-      "name": "MANIAC",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-11T00:38:29.076Z",
-      "url": "https://open.spotify.com/track/6R4flNWy1pWkjzwg3TCDlM"
+      "name": "Ride",
+      "artist": "Aaron May",
+      "playedAt": "2026-05-11T17:56:22.831Z",
+      "url": "https://open.spotify.com/track/6EZk7UZmMn7DxdyjvUFL58"
     },
     {
-      "name": "The Mood",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-11T00:35:30.799Z",
-      "url": "https://open.spotify.com/track/4yCuBvbBvoJ9eVE7QB2Rkg"
+      "name": "Mouthful of Diamonds",
+      "artist": "Phantogram",
+      "playedAt": "2026-05-11T17:53:41.241Z",
+      "url": "https://open.spotify.com/track/6zO0e11RCBnh1w8kjPZpIh"
     },
     {
-      "name": "Wild’n Cuz I’m Young",
+      "name": "Too Bad I Have To Destroy You Now",
       "artist": "Kid Cudi",
-      "playedAt": "2026-05-11T00:32:55.333Z",
-      "url": "https://open.spotify.com/track/0HEfiw4FFDxMTfCIf6k3J5"
+      "playedAt": "2026-05-11T17:48:57.528Z",
+      "url": "https://open.spotify.com/track/6kpiwAM3vWN9UbGAQw2v8q"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 4,
+    "uniqueArtists": 12,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Man On The Moon",
+    "mostPlayedTrack": "These Worries",
     "mostPlayedCount": 2,
-    "peakHour": "0am"
+    "peakHour": "11pm"
   }
 }
