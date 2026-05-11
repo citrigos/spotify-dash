@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-05-10T19:15:10.641Z",
+  "lastUpdated": "2026-05-11T04:10:20.314Z",
   "recentTracks": [
     {
-      "name": "DROWN",
+      "name": "Mr. Rager",
       "artist": "Kid Cudi",
-      "playedAt": "2026-05-10T04:01:52.315Z",
-      "url": "https://open.spotify.com/track/7zLT8LCa11TwA7FY4fib30"
+      "playedAt": "2026-05-11T00:43:23.461Z",
+      "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5"
     },
     {
-      "name": "REAL ONES NEVER DIE",
+      "name": "MANIAC",
       "artist": "Kid Cudi",
-      "playedAt": "2026-05-10T03:59:03.976Z",
-      "url": "https://open.spotify.com/track/1o15Kj7F3nlLaZNIbjFb4r"
+      "playedAt": "2026-05-11T00:38:29.076Z",
+      "url": "https://open.spotify.com/track/6R4flNWy1pWkjzwg3TCDlM"
     },
     {
-      "name": "The Commander",
+      "name": "The Mood",
       "artist": "Kid Cudi",
-      "playedAt": "2026-05-10T03:33:37.078Z",
-      "url": "https://open.spotify.com/track/7iqsSrwZqc8vpdvbyK74pQ"
+      "playedAt": "2026-05-11T00:35:30.799Z",
+      "url": "https://open.spotify.com/track/4yCuBvbBvoJ9eVE7QB2Rkg"
     },
     {
-      "name": "Willing To Trust (with Ty Dolla $ign)",
+      "name": "Wild’n Cuz I’m Young",
       "artist": "Kid Cudi",
-      "playedAt": "2026-05-10T03:29:20.406Z",
-      "url": "https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk"
+      "playedAt": "2026-05-11T00:32:55.333Z",
+      "url": "https://open.spotify.com/track/0HEfiw4FFDxMTfCIf6k3J5"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 30,
+    "uniqueArtists": 4,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Iris",
+    "mostPlayedTrack": "Man On The Moon",
     "mostPlayedCount": 2,
     "peakHour": "0am"
   }
