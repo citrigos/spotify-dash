@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-14T14:31:15.669Z",
+  "lastUpdated": "2026-05-14T19:55:37.217Z",
   "recentTracks": [
     {
-      "name": "A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)",
-      "artist": "A$AP Rocky",
-      "playedAt": "2026-05-11T18:01:38.993Z",
-      "url": "https://open.spotify.com/track/3oHkMCVJyOcjg5FhfLc2Rq"
+      "name": "Clubhouse",
+      "artist": "Mac Miller",
+      "playedAt": "2026-05-14T18:58:55.443Z",
+      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
     },
     {
-      "name": "Ride",
-      "artist": "Aaron May",
-      "playedAt": "2026-05-11T17:56:22.831Z",
-      "url": "https://open.spotify.com/track/6EZk7UZmMn7DxdyjvUFL58"
+      "name": "Lucy",
+      "artist": "Samsonyte",
+      "playedAt": "2026-05-14T18:42:12.177Z",
+      "url": "https://open.spotify.com/track/03oWLtwnZh3LVlTM6kUXmE"
     },
     {
-      "name": "Mouthful of Diamonds",
-      "artist": "Phantogram",
-      "playedAt": "2026-05-11T17:53:41.241Z",
-      "url": "https://open.spotify.com/track/6zO0e11RCBnh1w8kjPZpIh"
+      "name": "Tropicana",
+      "artist": "Ratatat",
+      "playedAt": "2026-05-14T18:38:13.990Z",
+      "url": "https://open.spotify.com/track/1roMT9D1qzTffaFWeh9xO1"
     },
     {
-      "name": "Too Bad I Have To Destroy You Now",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-11T17:48:57.528Z",
-      "url": "https://open.spotify.com/track/6kpiwAM3vWN9UbGAQw2v8q"
+      "name": "Denver",
+      "artist": "Jack Harlow",
+      "playedAt": "2026-05-14T18:34:16.766Z",
+      "url": "https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 12,
+    "uniqueArtists": 28,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
     "mostPlayedTrack": "These Worries",
     "mostPlayedCount": 2,
-    "peakHour": "11pm"
+    "peakHour": "5pm"
   }
 }
