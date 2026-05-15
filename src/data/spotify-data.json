@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-15T04:06:34.814Z",
+  "lastUpdated": "2026-05-15T09:19:18.114Z",
   "recentTracks": [
+    {
+      "name": "Camisado",
+      "artist": "Panic! At The Disco",
+      "playedAt": "2026-05-15T07:05:17.453Z",
+      "url": "https://open.spotify.com/track/2hgkutEHVmJRg7drAJAFHi"
+    },
     {
       "name": "Good Times Roll - Live, 1978",
       "artist": "The Cars",
@@ -18,12 +24,6 @@
       "artist": "Samsonyte",
       "playedAt": "2026-05-14T18:42:12.177Z",
       "url": "https://open.spotify.com/track/03oWLtwnZh3LVlTM6kUXmE"
-    },
-    {
-      "name": "Tropicana",
-      "artist": "Ratatat",
-      "playedAt": "2026-05-14T18:38:13.990Z",
-      "url": "https://open.spotify.com/track/1roMT9D1qzTffaFWeh9xO1"
     }
   ],
   "stats": {
