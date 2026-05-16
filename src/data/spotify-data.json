@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-16T13:48:12.736Z",
+  "lastUpdated": "2026-05-16T19:16:21.728Z",
   "recentTracks": [
     {
-      "name": "No Broke Boys",
-      "artist": "Disco Lines",
-      "playedAt": "2026-05-16T13:15:57.775Z",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+      "name": "Denver",
+      "artist": "Jack Harlow",
+      "playedAt": "2026-05-16T17:58:19.881Z",
+      "url": "https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh"
     },
     {
       "name": "You Don't Know",
       "artist": "Nico Play",
-      "playedAt": "2026-05-15T20:46:40.010Z",
+      "playedAt": "2026-05-16T17:50:41.046Z",
       "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
     },
     {
-      "name": "Gang Related",
+      "name": "Under Pressure",
       "artist": "Logic",
-      "playedAt": "2026-05-15T20:38:41.198Z",
-      "url": "https://open.spotify.com/track/1Kp6WFxRzc0sRBmGSgIYat"
+      "playedAt": "2026-05-16T17:26:32.793Z",
+      "url": "https://open.spotify.com/track/2JEqqPu4UYnzcNxDy9JVu3"
     },
     {
-      "name": "Soul Food",
-      "artist": "Logic",
-      "playedAt": "2026-05-15T17:52:18.015Z",
-      "url": "https://open.spotify.com/track/3lWCa9e0KhDghboM5L9C6d"
+      "name": "From The Start",
+      "artist": "Laufey",
+      "playedAt": "2026-05-16T17:17:13.544Z",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 32,
+    "uniqueArtists": 38,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 4,
+    "repeatRate": 6,
     "mostPlayedTrack": "Under Pressure",
-    "mostPlayedCount": 2,
-    "peakHour": "5pm"
+    "mostPlayedCount": 3,
+    "peakHour": "3pm"
   }
 }
