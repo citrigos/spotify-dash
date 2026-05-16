@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-05-15T19:48:31.846Z",
+  "lastUpdated": "2026-05-16T03:49:05.710Z",
   "recentTracks": [
+    {
+      "name": "You Don't Know",
+      "artist": "Nico Play",
+      "playedAt": "2026-05-15T20:46:40.010Z",
+      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+    },
+    {
+      "name": "Gang Related",
+      "artist": "Logic",
+      "playedAt": "2026-05-15T20:38:41.198Z",
+      "url": "https://open.spotify.com/track/1Kp6WFxRzc0sRBmGSgIYat"
+    },
     {
       "name": "Soul Food",
       "artist": "Logic",
@@ -12,24 +24,12 @@
       "artist": "Logic",
       "playedAt": "2026-05-15T17:47:15.864Z",
       "url": "https://open.spotify.com/track/4nkRk3BRQaW941xxtZVBew"
-    },
-    {
-      "name": "Till The End",
-      "artist": "Logic",
-      "playedAt": "2026-05-15T17:44:40.307Z",
-      "url": "https://open.spotify.com/track/2mRh9gO4YlLJo6vFRgT13V"
-    },
-    {
-      "name": "Under Pressure",
-      "artist": "Logic",
-      "playedAt": "2026-05-15T17:38:57.323Z",
-      "url": "https://open.spotify.com/track/2JEqqPu4UYnzcNxDy9JVu3"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 30,
+    "uniqueArtists": 31,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
