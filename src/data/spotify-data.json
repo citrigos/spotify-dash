@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-16T08:12:59.993Z",
+  "lastUpdated": "2026-05-16T13:48:12.736Z",
   "recentTracks": [
+    {
+      "name": "No Broke Boys",
+      "artist": "Disco Lines",
+      "playedAt": "2026-05-16T13:15:57.775Z",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
     {
       "name": "You Don't Know",
       "artist": "Nico Play",
@@ -18,18 +24,12 @@
       "artist": "Logic",
       "playedAt": "2026-05-15T17:52:18.015Z",
       "url": "https://open.spotify.com/track/3lWCa9e0KhDghboM5L9C6d"
-    },
-    {
-      "name": "Intro",
-      "artist": "Logic",
-      "playedAt": "2026-05-15T17:47:15.864Z",
-      "url": "https://open.spotify.com/track/4nkRk3BRQaW941xxtZVBew"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 31,
+    "uniqueArtists": 32,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
