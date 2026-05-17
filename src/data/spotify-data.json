@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-16T19:16:21.728Z",
+  "lastUpdated": "2026-05-17T04:06:22.334Z",
   "recentTracks": [
+    {
+      "name": "Open It Up",
+      "artist": "Migos",
+      "playedAt": "2026-05-17T01:36:30.906Z",
+      "url": "https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8"
+    },
     {
       "name": "Denver",
       "artist": "Jack Harlow",
@@ -18,12 +24,6 @@
       "artist": "Logic",
       "playedAt": "2026-05-16T17:26:32.793Z",
       "url": "https://open.spotify.com/track/2JEqqPu4UYnzcNxDy9JVu3"
-    },
-    {
-      "name": "From The Start",
-      "artist": "Laufey",
-      "playedAt": "2026-05-16T17:17:13.544Z",
-      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     }
   ],
   "stats": {
