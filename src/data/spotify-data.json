@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-17T19:19:30.089Z",
+  "lastUpdated": "2026-05-18T04:18:55.326Z",
   "recentTracks": [
     {
-      "name": "Open It Up",
+      "name": "Stir Fry",
       "artist": "Migos",
-      "playedAt": "2026-05-17T01:36:30.906Z",
-      "url": "https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8"
+      "playedAt": "2026-05-17T21:50:18.666Z",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
-      "name": "Denver",
-      "artist": "Jack Harlow",
-      "playedAt": "2026-05-16T17:58:19.881Z",
-      "url": "https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh"
+      "name": "Coochie Land",
+      "artist": "YN Jay",
+      "playedAt": "2026-05-17T21:47:06.705Z",
+      "url": "https://open.spotify.com/track/7xRfZWNM3XZiOtdx0Lg8FR"
     },
     {
-      "name": "You Don't Know",
-      "artist": "Nico Play",
-      "playedAt": "2026-05-16T17:50:41.046Z",
-      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+      "name": "Mi Mala (feat. Becky G, Leslie Grace & Lali) - Remix",
+      "artist": "Mau y Ricky",
+      "playedAt": "2026-05-17T21:44:01.685Z",
+      "url": "https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK"
     },
     {
-      "name": "Under Pressure",
-      "artist": "Logic",
-      "playedAt": "2026-05-16T17:26:32.793Z",
-      "url": "https://open.spotify.com/track/2JEqqPu4UYnzcNxDy9JVu3"
+      "name": "7/11 Drone",
+      "artist": "Dylan Brady",
+      "playedAt": "2026-05-17T21:39:46.179Z",
+      "url": "https://open.spotify.com/track/38urEh6dZtPQzzyD0ALWPk"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 38,
+    "uniqueArtists": 40,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 6,
     "mostPlayedTrack": "Under Pressure",
     "mostPlayedCount": 3,
-    "peakHour": "3pm"
+    "peakHour": "5pm"
   }
 }
