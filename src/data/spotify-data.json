@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-19T04:14:28.447Z",
+  "lastUpdated": "2026-05-19T09:59:01.259Z",
   "recentTracks": [
+    {
+      "name": "Lift Yourself",
+      "artist": "Kanye West",
+      "playedAt": "2026-05-19T06:57:00.891Z",
+      "url": "https://open.spotify.com/track/3uYDO9dPLTVrgfwg7EYXSf"
+    },
     {
       "name": "Mundian To Bach Ke",
       "artist": "Panjabi MC",
@@ -18,18 +24,12 @@
       "artist": "Two Door Cinema Club",
       "playedAt": "2026-05-18T19:22:38.122Z",
       "url": "https://open.spotify.com/track/0zo5H2QWXCkarmPSK2KJvH"
-    },
-    {
-      "name": "Warriors",
-      "artist": "Too Many Zooz",
-      "playedAt": "2026-05-18T19:19:37.712Z",
-      "url": "https://open.spotify.com/track/4keKh92BlOnRSEBeumCPM4"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 42,
+    "uniqueArtists": 41,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 6,
