@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-19T20:00:06.159Z",
+  "lastUpdated": "2026-05-20T04:15:23.898Z",
   "recentTracks": [
     {
-      "name": "Lift Yourself",
-      "artist": "Kanye West",
-      "playedAt": "2026-05-19T06:57:00.891Z",
-      "url": "https://open.spotify.com/track/3uYDO9dPLTVrgfwg7EYXSf"
+      "name": "Life is a Highway",
+      "artist": "Rascal Flatts",
+      "playedAt": "2026-05-19T22:19:26.546Z",
+      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
     },
     {
-      "name": "Mundian To Bach Ke",
-      "artist": "Panjabi MC",
-      "playedAt": "2026-05-18T19:34:25.439Z",
-      "url": "https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i"
+      "name": "Empire State Of Mind",
+      "artist": "JAŸ-Z",
+      "playedAt": "2026-05-19T22:14:50.137Z",
+      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
     },
     {
-      "name": "Up Up & Away",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-05-18T19:28:05.442Z",
-      "url": "https://open.spotify.com/track/6MWH4pJQ5QYjidX2A2KECd"
+      "name": "Wedding Crashers",
+      "artist": "Aminé",
+      "playedAt": "2026-05-19T22:10:12.578Z",
+      "url": "https://open.spotify.com/track/3nVDOYBJpdCkRR6r1DbZum"
     },
     {
-      "name": "Something Good Can Work",
-      "artist": "Two Door Cinema Club",
-      "playedAt": "2026-05-18T19:22:38.122Z",
-      "url": "https://open.spotify.com/track/0zo5H2QWXCkarmPSK2KJvH"
+      "name": "We Like To Party! (The Vengabus)",
+      "artist": "Vengaboys",
+      "playedAt": "2026-05-19T22:06:22.409Z",
+      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 41,
+    "uniqueArtists": 48,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 6,
-    "mostPlayedTrack": "Under Pressure",
-    "mostPlayedCount": 3,
-    "peakHour": "5pm"
+    "repeatRate": 2,
+    "mostPlayedTrack": "Life is a Highway",
+    "mostPlayedCount": 1,
+    "peakHour": "9pm"
   }
 }
