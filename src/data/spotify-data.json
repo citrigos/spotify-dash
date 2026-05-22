@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-21T20:02:56.470Z",
+  "lastUpdated": "2026-05-22T04:18:38.688Z",
   "recentTracks": [
     {
-      "name": "Life is a Highway",
-      "artist": "Rascal Flatts",
-      "playedAt": "2026-05-19T22:19:26.546Z",
-      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
+      "name": "What's My Name?",
+      "artist": "Rihanna",
+      "playedAt": "2026-05-22T00:04:28.197Z",
+      "url": "https://open.spotify.com/track/5xZtUAVUVfjBtVtMOgMkyy"
     },
     {
-      "name": "Empire State Of Mind",
-      "artist": "JAŸ-Z",
-      "playedAt": "2026-05-19T22:14:50.137Z",
-      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
+      "name": "I Like It Like That",
+      "artist": "Pete Rodriguez",
+      "playedAt": "2026-05-22T00:00:04.163Z",
+      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
     },
     {
-      "name": "Wedding Crashers",
-      "artist": "Aminé",
-      "playedAt": "2026-05-19T22:10:12.578Z",
-      "url": "https://open.spotify.com/track/3nVDOYBJpdCkRR6r1DbZum"
+      "name": "Stronger",
+      "artist": "Kanye West",
+      "playedAt": "2026-05-21T23:52:59.445Z",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
-      "name": "We Like To Party! (The Vengabus)",
-      "artist": "Vengaboys",
-      "playedAt": "2026-05-19T22:06:22.409Z",
-      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+      "name": "Here Comes the Hotstepper",
+      "artist": "Dr. Dog",
+      "playedAt": "2026-05-21T23:47:47.140Z",
+      "url": "https://open.spotify.com/track/3mkVy3Xrpeb2L4JBiwVSuC"
     }
   ],
   "stats": {
     "tracksPlayed": 49,
     "listeningHours": 3,
-    "uniqueArtists": 47,
+    "uniqueArtists": 44,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "Life is a Highway",
-    "mostPlayedCount": 1,
+    "repeatRate": 4,
+    "mostPlayedTrack": "I Like It Like That",
+    "mostPlayedCount": 2,
     "peakHour": "9pm"
   }
 }
