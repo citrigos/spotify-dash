@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-23T03:56:57.203Z",
+  "lastUpdated": "2026-05-23T08:28:23.274Z",
   "recentTracks": [
+    {
+      "name": "Can’t Miss You",
+      "artist": "Sublime",
+      "playedAt": "2026-05-23T05:41:43.888Z",
+      "url": "https://open.spotify.com/track/1TUTNM3CpHprIlMq3BPlNd"
+    },
     {
       "name": "FIND GOD (feat. Dominic Fike)",
       "artist": "Kenny Mason",
@@ -18,12 +24,6 @@
       "artist": "ZHU",
       "playedAt": "2026-05-23T02:02:44.279Z",
       "url": "https://open.spotify.com/track/105IDX1VhzNFEroR6qgHDz"
-    },
-    {
-      "name": "TRICERATOPS",
-      "artist": "Action Bronson",
-      "playedAt": "2026-05-23T01:58:57.869Z",
-      "url": "https://open.spotify.com/track/775gPuWNYBuKzy6fUVMrQc"
     }
   ],
   "stats": {
