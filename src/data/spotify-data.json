@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-25T15:23:11.659Z",
+  "lastUpdated": "2026-05-25T19:51:32.495Z",
   "recentTracks": [
+    {
+      "name": "Pink + White",
+      "artist": "Frank Ocean",
+      "playedAt": "2026-05-25T19:17:33.231Z",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "name": "My Way",
+      "artist": "Frank Sinatra",
+      "playedAt": "2026-05-25T19:14:28.478Z",
+      "url": "https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l"
+    },
+    {
+      "name": "Maple Leaf Rag",
+      "artist": "Scott Joplin",
+      "playedAt": "2026-05-25T18:58:15.672Z",
+      "url": "https://open.spotify.com/track/4AE032Y0x1WPOi5CsmggnU"
+    },
     {
       "name": "Sugarcane Rag",
       "artist": "The Maple Leaf Ragtime Band",
       "playedAt": "2026-05-25T01:21:58.611Z",
       "url": "https://open.spotify.com/track/4s8g6IQ4FL1LhAZicYGb56"
-    },
-    {
-      "name": "Original Rag",
-      "artist": "Scott Joplin",
-      "playedAt": "2026-05-25T01:18:56.097Z",
-      "url": "https://open.spotify.com/track/3Ngdtk4xLKMYIex02Ds9FI"
-    },
-    {
-      "name": "Maple Leaf Rag",
-      "artist": "Scott Joplin",
-      "playedAt": "2026-05-25T01:07:46.828Z",
-      "url": "https://open.spotify.com/track/4AE032Y0x1WPOi5CsmggnU"
-    },
-    {
-      "name": "Maple Leaf Rag",
-      "artist": "Scott Joplin",
-      "playedAt": "2026-05-25T01:04:11.093Z",
-      "url": "https://open.spotify.com/track/4AE032Y0x1WPOi5CsmggnU"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 37,
+    "uniqueArtists": 35,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 6,
+    "repeatRate": 8,
     "mostPlayedTrack": "Maple Leaf Rag",
-    "mostPlayedCount": 3,
+    "mostPlayedCount": 4,
     "peakHour": "3pm"
   }
 }
