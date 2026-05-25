@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-24T19:25:29.574Z",
+  "lastUpdated": "2026-05-25T04:39:39.885Z",
   "recentTracks": [
     {
-      "name": "When I'm Down",
-      "artist": "Whethan",
-      "playedAt": "2026-05-24T15:44:21.573Z",
-      "url": "https://open.spotify.com/track/556l9P7WVZVyYUBjT1YFTT"
+      "name": "Sugarcane Rag",
+      "artist": "The Maple Leaf Ragtime Band",
+      "playedAt": "2026-05-25T01:21:58.611Z",
+      "url": "https://open.spotify.com/track/4s8g6IQ4FL1LhAZicYGb56"
     },
     {
-      "name": "Can I Watch? (feat. Apani B as Nikki)",
-      "artist": "Viktor Vaughn",
-      "playedAt": "2026-05-24T15:38:05.728Z",
-      "url": "https://open.spotify.com/track/4i4P1ACAeWcyJTxQSd0prx"
+      "name": "Original Rag",
+      "artist": "Scott Joplin",
+      "playedAt": "2026-05-25T01:18:56.097Z",
+      "url": "https://open.spotify.com/track/3Ngdtk4xLKMYIex02Ds9FI"
     },
     {
-      "name": "THAT'S THAT",
-      "artist": "MF DOOM",
-      "playedAt": "2026-05-24T15:29:00.532Z",
-      "url": "https://open.spotify.com/track/2zs5IwJqwQkKNnNQtkfSkf"
+      "name": "Maple Leaf Rag",
+      "artist": "Scott Joplin",
+      "playedAt": "2026-05-25T01:07:46.828Z",
+      "url": "https://open.spotify.com/track/4AE032Y0x1WPOi5CsmggnU"
     },
     {
-      "name": "Vibes",
-      "artist": "Kyle Bent",
-      "playedAt": "2026-05-24T15:11:59.163Z",
-      "url": "https://open.spotify.com/track/04ePC9RijiUU4beFDuOYhD"
+      "name": "Maple Leaf Rag",
+      "artist": "Scott Joplin",
+      "playedAt": "2026-05-25T01:04:11.093Z",
+      "url": "https://open.spotify.com/track/4AE032Y0x1WPOi5CsmggnU"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 43,
+    "uniqueArtists": 37,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Sandman",
-    "mostPlayedCount": 2,
+    "repeatRate": 6,
+    "mostPlayedTrack": "Maple Leaf Rag",
+    "mostPlayedCount": 3,
     "peakHour": "3pm"
   }
 }
