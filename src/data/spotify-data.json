@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-05-27T10:09:20.040Z",
+  "lastUpdated": "2026-05-27T16:02:21.855Z",
   "recentTracks": [
+    {
+      "name": "Bamako",
+      "artist": "Divolly & Markward",
+      "playedAt": "2026-05-27T15:52:37.462Z",
+      "url": "https://open.spotify.com/track/3Zie38oWJgL5mUXivNksxD"
+    },
+    {
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "artist": "Nina Simone",
+      "playedAt": "2026-05-27T15:43:35.496Z",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "name": "Drugs",
+      "artist": "UPSAHL",
+      "playedAt": "2026-05-27T15:39:13.894Z",
+      "url": "https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS"
+    },
     {
       "name": "Space Song",
       "artist": "Beach House",
       "playedAt": "2026-05-26T15:38:32.772Z",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "name": "Always Forever",
-      "artist": "Cults",
-      "playedAt": "2026-05-26T15:33:11.872Z",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "name": "Hey Ya!",
-      "artist": "Outkast",
-      "playedAt": "2026-05-26T15:29:27.677Z",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "name": "All My Life (feat. J. Cole)",
-      "artist": "Lil Durk",
-      "playedAt": "2026-05-26T15:12:13.770Z",
-      "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 35,
+    "uniqueArtists": 36,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 8,
