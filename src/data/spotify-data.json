@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-28T10:18:19.489Z",
+  "lastUpdated": "2026-05-28T16:17:09.133Z",
   "recentTracks": [
     {
-      "name": "We Like To Party! (The Vengabus)",
-      "artist": "Vengaboys",
-      "playedAt": "2026-05-27T21:49:54.533Z",
-      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+      "name": "Ballerina",
+      "artist": "Yehezkel Raz",
+      "playedAt": "2026-05-28T14:42:17.326Z",
+      "url": "https://open.spotify.com/track/5lm18pjbwdth6ENVllxjfl"
     },
     {
-      "name": "m.A.A.d city",
-      "artist": "Kendrick Lamar",
-      "playedAt": "2026-05-27T21:46:11.677Z",
-      "url": "https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H"
+      "name": "While You Doooo",
+      "artist": "Teebs",
+      "playedAt": "2026-05-28T14:41:05.323Z",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
-      "name": "Love Sosa",
-      "artist": "Chief Keef",
-      "playedAt": "2026-05-27T21:40:21.192Z",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+      "name": "Bleached",
+      "artist": "Video Days",
+      "playedAt": "2026-05-28T14:39:33.885Z",
+      "url": "https://open.spotify.com/track/7nTrgV4osUk3b5ZKgKEWlu"
     },
     {
-      "name": "Stir Fry",
-      "artist": "Migos",
-      "playedAt": "2026-05-27T21:36:14.594Z",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+      "name": "QKThr",
+      "artist": "Aphex Twin",
+      "playedAt": "2026-05-28T14:38:10.192Z",
+      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 38,
+    "uniqueArtists": 34,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 8,
+    "repeatRate": 6,
     "mostPlayedTrack": "Maple Leaf Rag",
-    "mostPlayedCount": 4,
-    "peakHour": "3pm"
+    "mostPlayedCount": 3,
+    "peakHour": "2pm"
   }
 }
