@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-05-29T16:00:15.607Z",
+  "lastUpdated": "2026-05-29T20:34:31.057Z",
   "recentTracks": [
     {
-      "name": "Under Pressure",
-      "artist": "Logic",
-      "playedAt": "2026-05-29T04:52:39.008Z",
-      "url": "https://open.spotify.com/track/5LME7YULt0enp6UAB8VoDn"
+      "name": "La lune",
+      "artist": "L'Impératrice",
+      "playedAt": "2026-05-29T16:32:46.834Z",
+      "url": "https://open.spotify.com/track/6rbbDK18oqK3MxHGQhpmn2"
+    },
+    {
+      "name": "Voodoo?",
+      "artist": "L'Impératrice",
+      "playedAt": "2026-05-29T16:24:09.847Z",
+      "url": "https://open.spotify.com/track/3pr0y5h4MkBngy6gyozLDV"
     },
     {
       "name": "Agitations tropicales",
       "artist": "L'Impératrice",
-      "playedAt": "2026-05-29T03:53:46.057Z",
+      "playedAt": "2026-05-29T16:19:47.355Z",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "name": "Sexy Sadie - Remastered 2009",
-      "artist": "The Beatles",
-      "playedAt": "2026-05-29T03:49:36.725Z",
-      "url": "https://open.spotify.com/track/2tBv9tAdqEbLNDi5smSjbg"
     },
     {
       "name": "Young Lust",
       "artist": "Pink Floyd",
-      "playedAt": "2026-05-29T03:46:21.030Z",
+      "playedAt": "2026-05-29T16:11:51.746Z",
       "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 29,
+    "uniqueArtists": 27,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 10,
+    "repeatRate": 12,
     "mostPlayedTrack": "Agitations tropicales",
-    "mostPlayedCount": 5,
+    "mostPlayedCount": 6,
     "peakHour": "1am"
   }
 }
