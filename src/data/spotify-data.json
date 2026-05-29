@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-05-29T04:19:51.170Z",
+  "lastUpdated": "2026-05-29T10:08:05.497Z",
   "recentTracks": [
     {
-      "name": "Can I Watch? (feat. Apani B as Nikki)",
-      "artist": "Viktor Vaughn",
-      "playedAt": "2026-05-29T02:17:18.095Z",
-      "url": "https://open.spotify.com/track/4i4P1ACAeWcyJTxQSd0prx"
+      "name": "Under Pressure",
+      "artist": "Logic",
+      "playedAt": "2026-05-29T04:52:39.008Z",
+      "url": "https://open.spotify.com/track/5LME7YULt0enp6UAB8VoDn"
     },
     {
       "name": "Agitations tropicales",
       "artist": "L'Impératrice",
-      "playedAt": "2026-05-29T01:59:01.892Z",
+      "playedAt": "2026-05-29T03:53:46.057Z",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "name": "Sexy Sadie - Remastered 2009",
       "artist": "The Beatles",
-      "playedAt": "2026-05-29T01:54:52.553Z",
+      "playedAt": "2026-05-29T03:49:36.725Z",
       "url": "https://open.spotify.com/track/2tBv9tAdqEbLNDi5smSjbg"
     },
     {
       "name": "Young Lust",
       "artist": "Pink Floyd",
-      "playedAt": "2026-05-29T01:51:36.861Z",
+      "playedAt": "2026-05-29T03:46:21.030Z",
       "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 33,
+    "uniqueArtists": 29,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 10,
-    "mostPlayedTrack": "Can I Watch? (feat. Apani B as Nikki)",
+    "mostPlayedTrack": "Agitations tropicales",
     "mostPlayedCount": 5,
     "peakHour": "1am"
   }
