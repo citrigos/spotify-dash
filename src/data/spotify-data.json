@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-30T04:04:58.524Z",
+  "lastUpdated": "2026-05-30T08:36:03.157Z",
   "recentTracks": [
+    {
+      "name": "Fearless",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-05-30T04:21:09.263Z",
+      "url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
     {
       "name": "La lune",
       "artist": "L'Impératrice",
@@ -18,12 +24,6 @@
       "artist": "L'Impératrice",
       "playedAt": "2026-05-29T16:19:47.355Z",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "name": "Young Lust",
-      "artist": "Pink Floyd",
-      "playedAt": "2026-05-29T16:11:51.746Z",
-      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
     }
   ],
   "stats": {
