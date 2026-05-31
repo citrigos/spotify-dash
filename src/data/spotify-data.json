@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-05-30T19:37:08.508Z",
+  "lastUpdated": "2026-05-31T04:40:12.163Z",
   "recentTracks": [
     {
-      "name": "Fearless",
+      "name": "Green River",
+      "artist": "Creedence Clearwater Revival",
+      "playedAt": "2026-05-31T01:52:30.734Z",
+      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
+    },
+    {
+      "name": "Love Her Madly",
+      "artist": "The Doors",
+      "playedAt": "2026-05-31T01:49:56.206Z",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
+    },
+    {
+      "name": "Breathe (In the Air)",
       "artist": "Pink Floyd",
-      "playedAt": "2026-05-30T04:21:09.263Z",
-      "url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+      "playedAt": "2026-05-31T01:10:10.754Z",
+      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
     },
     {
-      "name": "La lune",
-      "artist": "L'Impératrice",
-      "playedAt": "2026-05-29T16:32:46.834Z",
-      "url": "https://open.spotify.com/track/6rbbDK18oqK3MxHGQhpmn2"
-    },
-    {
-      "name": "Voodoo?",
-      "artist": "L'Impératrice",
-      "playedAt": "2026-05-29T16:24:09.847Z",
-      "url": "https://open.spotify.com/track/3pr0y5h4MkBngy6gyozLDV"
-    },
-    {
-      "name": "Agitations tropicales",
-      "artist": "L'Impératrice",
-      "playedAt": "2026-05-29T16:19:47.355Z",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+      "name": "A Horse with No Name",
+      "artist": "America",
+      "playedAt": "2026-05-31T01:07:20.786Z",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     }
   ],
   "stats": {
@@ -32,9 +32,9 @@
     "uniqueArtists": 27,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 12,
-    "mostPlayedTrack": "Agitations tropicales",
-    "mostPlayedCount": 6,
+    "repeatRate": 14,
+    "mostPlayedTrack": "Young Lust",
+    "mostPlayedCount": 7,
     "peakHour": "1am"
   }
 }
