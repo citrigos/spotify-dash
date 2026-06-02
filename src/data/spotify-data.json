@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-01T21:40:49.103Z",
+  "lastUpdated": "2026-06-02T04:48:23.553Z",
   "recentTracks": [
+    {
+      "name": "I Gotta Feeling",
+      "artist": "Black Eyed Peas",
+      "playedAt": "2026-06-01T18:56:04.078Z",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
     {
       "name": "Blueberry Faygo",
       "artist": "Lil Mosey",
@@ -18,18 +24,12 @@
       "artist": "Kevin McKay",
       "playedAt": "2026-06-01T13:22:56.210Z",
       "url": "https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB"
-    },
-    {
-      "name": "Alien Blues",
-      "artist": "Vundabar",
-      "playedAt": "2026-05-31T21:53:12.544Z",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 29,
+    "uniqueArtists": 30,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 12,
