@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-03T11:16:11.637Z",
+  "lastUpdated": "2026-06-03T17:04:14.822Z",
   "recentTracks": [
     {
-      "name": "It's Over",
-      "artist": "Pouya",
-      "playedAt": "2026-06-03T01:01:02.934Z",
-      "url": "https://open.spotify.com/track/7G6NZXd2NYYZ5lrksaYM2D"
+      "name": "My Love (feat. T.I.)",
+      "artist": "Justin Timberlake",
+      "playedAt": "2026-06-03T14:51:15.728Z",
+      "url": "https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"
     },
     {
-      "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
-      "artist": "Lil Baby",
-      "playedAt": "2026-06-03T00:58:27.568Z",
-      "url": "https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX"
+      "name": "Unforgettable",
+      "artist": "French Montana",
+      "playedAt": "2026-06-03T14:46:39.123Z",
+      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
     },
     {
-      "name": "Trance (with Travis Scott & Young Thug)",
-      "artist": "Metro Boomin",
-      "playedAt": "2026-06-03T00:55:19.645Z",
-      "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
+      "name": "Crazy",
+      "artist": "Gnarls Barkley",
+      "playedAt": "2026-06-03T14:42:44.792Z",
+      "url": "https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ"
     },
     {
-      "name": "Everything Went Numb",
-      "artist": "Streetlight Manifesto",
-      "playedAt": "2026-06-03T00:52:04.406Z",
-      "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
+      "name": "Marlboro Nights",
+      "artist": "Lonely God",
+      "playedAt": "2026-06-03T14:39:42.278Z",
+      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 39,
+    "uniqueArtists": 43,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 6,
-    "mostPlayedTrack": "Young Lust",
-    "mostPlayedCount": 3,
-    "peakHour": "0am"
+    "repeatRate": 4,
+    "mostPlayedTrack": "Stronger",
+    "mostPlayedCount": 2,
+    "peakHour": "1pm"
   }
 }
