@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-02T21:18:03.805Z",
+  "lastUpdated": "2026-06-03T04:58:08.222Z",
   "recentTracks": [
     {
-      "name": "I Gotta Feeling",
-      "artist": "Black Eyed Peas",
-      "playedAt": "2026-06-01T18:56:04.078Z",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+      "name": "It's Over",
+      "artist": "Pouya",
+      "playedAt": "2026-06-03T01:01:02.934Z",
+      "url": "https://open.spotify.com/track/7G6NZXd2NYYZ5lrksaYM2D"
     },
     {
-      "name": "Blueberry Faygo",
-      "artist": "Lil Mosey",
-      "playedAt": "2026-06-01T13:30:53.938Z",
-      "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
+      "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
+      "artist": "Lil Baby",
+      "playedAt": "2026-06-03T00:58:27.568Z",
+      "url": "https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX"
     },
     {
-      "name": "Antichrist",
-      "artist": "Eminem",
-      "playedAt": "2026-06-01T13:28:10.952Z",
-      "url": "https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN"
+      "name": "Trance (with Travis Scott & Young Thug)",
+      "artist": "Metro Boomin",
+      "playedAt": "2026-06-03T00:55:19.645Z",
+      "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "name": "Gimme Gimme - Club Mix",
-      "artist": "Kevin McKay",
-      "playedAt": "2026-06-01T13:22:56.210Z",
-      "url": "https://open.spotify.com/track/7GjZZf77XJYaa5W4S2NbpB"
+      "name": "Everything Went Numb",
+      "artist": "Streetlight Manifesto",
+      "playedAt": "2026-06-03T00:52:04.406Z",
+      "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 30,
+    "uniqueArtists": 39,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 12,
+    "repeatRate": 6,
     "mostPlayedTrack": "Young Lust",
-    "mostPlayedCount": 6,
-    "peakHour": "1am"
+    "mostPlayedCount": 3,
+    "peakHour": "0am"
   }
 }
