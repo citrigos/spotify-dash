@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-03T21:23:36.906Z",
+  "lastUpdated": "2026-06-04T04:51:20.312Z",
   "recentTracks": [
+    {
+      "name": "1901",
+      "artist": "Phoenix",
+      "playedAt": "2026-06-04T00:40:34.257Z",
+      "url": "https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7"
+    },
     {
       "name": "My Love (feat. T.I.)",
       "artist": "Justin Timberlake",
@@ -18,18 +24,12 @@
       "artist": "Gnarls Barkley",
       "playedAt": "2026-06-03T14:42:44.792Z",
       "url": "https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ"
-    },
-    {
-      "name": "Marlboro Nights",
-      "artist": "Lonely God",
-      "playedAt": "2026-06-03T14:39:42.278Z",
-      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 43,
+    "uniqueArtists": 44,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 4,
