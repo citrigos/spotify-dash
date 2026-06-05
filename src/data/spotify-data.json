@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-05T10:04:18.504Z",
+  "lastUpdated": "2026-06-05T15:21:18.970Z",
   "recentTracks": [
     {
-      "name": "The View Between Villages",
-      "artist": "Noah Kahan",
-      "playedAt": "2026-06-05T02:04:03.751Z",
-      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
+      "name": "i met sarah in the bathroom",
+      "artist": "awfultune",
+      "playedAt": "2026-06-05T15:19:48.246Z",
+      "url": "https://open.spotify.com/track/6Csn07rSjTle1myRtfWAyn"
     },
     {
-      "name": "Homesick",
-      "artist": "Noah Kahan",
-      "playedAt": "2026-06-05T00:55:52.961Z",
-      "url": "https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0"
+      "name": "bury a friend",
+      "artist": "Billie Eilish",
+      "playedAt": "2026-06-05T15:17:46.413Z",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
     },
     {
-      "name": "Still",
-      "artist": "Noah Kahan",
-      "playedAt": "2026-06-05T00:55:52.961Z",
-      "url": "https://open.spotify.com/track/10r6fXqVFUfARiEswa4wqV"
+      "name": "I Write Sins Not Tragedies",
+      "artist": "Panic! At The Disco",
+      "playedAt": "2026-06-05T15:14:32.811Z",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
-      "name": "Halloween",
-      "artist": "Noah Kahan",
-      "playedAt": "2026-06-05T00:53:15.449Z",
-      "url": "https://open.spotify.com/track/5aeQMQDWe64gVnVYSOqW6A"
+      "name": "Groin Twerk",
+      "artist": "Dads",
+      "playedAt": "2026-06-05T15:11:25.742Z",
+      "url": "https://open.spotify.com/track/3uH23FwIwwbc5gykmowkUg"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 36,
+    "uniqueArtists": 34,
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Stronger",
-    "mostPlayedCount": 2,
-    "peakHour": "0am"
+    "repeatRate": 2,
+    "mostPlayedTrack": "i met sarah in the bathroom",
+    "mostPlayedCount": 1,
+    "peakHour": "2pm"
   }
 }
