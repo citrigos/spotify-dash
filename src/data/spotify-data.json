@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-05T15:21:18.970Z",
+  "lastUpdated": "2026-06-05T20:03:30.703Z",
   "recentTracks": [
+    {
+      "name": "Somniphobia",
+      "artist": "AFOURTEEN",
+      "playedAt": "2026-06-05T15:29:34.809Z",
+      "url": "https://open.spotify.com/track/6toAta17KOu4ECvRgnMTzv"
+    },
+    {
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
+      "playedAt": "2026-06-05T15:23:31.651Z",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
     {
       "name": "i met sarah in the bathroom",
       "artist": "awfultune",
@@ -12,18 +24,6 @@
       "artist": "Billie Eilish",
       "playedAt": "2026-06-05T15:17:46.413Z",
       "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
-    },
-    {
-      "name": "I Write Sins Not Tragedies",
-      "artist": "Panic! At The Disco",
-      "playedAt": "2026-06-05T15:14:32.811Z",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
-    },
-    {
-      "name": "Groin Twerk",
-      "artist": "Dads",
-      "playedAt": "2026-06-05T15:11:25.742Z",
-      "url": "https://open.spotify.com/track/3uH23FwIwwbc5gykmowkUg"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "i met sarah in the bathroom",
+    "mostPlayedTrack": "Somniphobia",
     "mostPlayedCount": 1,
     "peakHour": "2pm"
   }
