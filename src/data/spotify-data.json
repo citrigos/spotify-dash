@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-06-05T20:03:30.703Z",
+  "lastUpdated": "2026-06-06T04:08:32.576Z",
   "recentTracks": [
     {
-      "name": "Somniphobia",
-      "artist": "AFOURTEEN",
-      "playedAt": "2026-06-05T15:29:34.809Z",
-      "url": "https://open.spotify.com/track/6toAta17KOu4ECvRgnMTzv"
+      "name": "tv off (feat. lefty gunplay)",
+      "artist": "Kendrick Lamar",
+      "playedAt": "2026-06-06T00:50:26.631Z",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "name": "Mr. Brightside",
-      "artist": "The Killers",
-      "playedAt": "2026-06-05T15:23:31.651Z",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+      "name": "KOODA",
+      "artist": "6ix9ine",
+      "playedAt": "2026-06-06T00:46:45.506Z",
+      "url": "https://open.spotify.com/track/40LaNujg5lvImKt0N4xDge"
     },
     {
-      "name": "i met sarah in the bathroom",
-      "artist": "awfultune",
-      "playedAt": "2026-06-05T15:19:48.246Z",
-      "url": "https://open.spotify.com/track/6Csn07rSjTle1myRtfWAyn"
+      "name": "Drip or Drown",
+      "artist": "Gunna",
+      "playedAt": "2026-06-06T00:44:22.483Z",
+      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
     },
     {
-      "name": "bury a friend",
-      "artist": "Billie Eilish",
-      "playedAt": "2026-06-05T15:17:46.413Z",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+      "name": "Walk",
+      "artist": "Kodak Black",
+      "playedAt": "2026-06-06T00:42:15.862Z",
+      "url": "https://open.spotify.com/track/7kZKCghLgg9t0vvugqPXDV"
     }
   ],
   "stats": {
@@ -33,8 +33,8 @@
     "topArtist": "Kid Cudi",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Somniphobia",
+    "mostPlayedTrack": "tv off (feat. lefty gunplay)",
     "mostPlayedCount": 1,
-    "peakHour": "2pm"
+    "peakHour": "10pm"
   }
 }
