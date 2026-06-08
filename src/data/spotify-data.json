@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-08T11:10:55.317Z",
+  "lastUpdated": "2026-06-08T16:08:54.676Z",
   "recentTracks": [
     {
-      "name": "Miss You - Sped Up Version",
-      "artist": "Oliver Tree",
-      "playedAt": "2026-06-08T07:10:59.461Z",
-      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
+      "name": "Come Down",
+      "artist": "Arian Cook",
+      "playedAt": "2026-06-08T14:58:51.042Z",
+      "url": "https://open.spotify.com/track/40wTXYamDKhU9S3AUKJYrY"
     },
     {
-      "name": "Pump It Up",
-      "artist": "Endor",
-      "playedAt": "2026-06-08T07:08:07.323Z",
-      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
+      "name": "Nissim",
+      "artist": "The Gaslamp Killer",
+      "playedAt": "2026-06-08T14:47:14.096Z",
+      "url": "https://open.spotify.com/track/6U8yLkjsuvSldB5V7p228i"
     },
     {
-      "name": "Black Heroes",
-      "artist": "Ratatat",
-      "playedAt": "2026-06-08T07:05:36.260Z",
-      "url": "https://open.spotify.com/track/0bA5eRCNo8DqsZlesTepxD"
+      "name": "Pica",
+      "artist": "Deorro",
+      "playedAt": "2026-06-08T14:23:52.801Z",
+      "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
     },
     {
-      "name": "Party Sahne (aber schneller)",
-      "artist": "Ski Aggu",
-      "playedAt": "2026-06-08T07:01:25.455Z",
-      "url": "https://open.spotify.com/track/11TSNPvdhC4lcGrp6vcNXw"
+      "name": "SPRINTER",
+      "artist": "KARMA",
+      "playedAt": "2026-06-08T14:20:08.183Z",
+      "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 36,
+    "uniqueArtists": 38,
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Miss You - Sped Up Version",
+    "mostPlayedTrack": "Come Down",
     "mostPlayedCount": 1,
-    "peakHour": "10pm"
+    "peakHour": "0am"
   }
 }
