@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-08T16:08:54.676Z",
+  "lastUpdated": "2026-06-08T20:27:11.483Z",
   "recentTracks": [
+    {
+      "name": "Embrace It",
+      "artist": "Ndotz",
+      "playedAt": "2026-06-08T17:29:00.071Z",
+      "url": "https://open.spotify.com/track/1DplnY6lDY6GGiCa6VUqf7"
+    },
     {
       "name": "Come Down",
       "artist": "Arian Cook",
@@ -18,12 +24,6 @@
       "artist": "Deorro",
       "playedAt": "2026-06-08T14:23:52.801Z",
       "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
-    },
-    {
-      "name": "SPRINTER",
-      "artist": "KARMA",
-      "playedAt": "2026-06-08T14:20:08.183Z",
-      "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Come Down",
+    "mostPlayedTrack": "Embrace It",
     "mostPlayedCount": 1,
     "peakHour": "0am"
   }
