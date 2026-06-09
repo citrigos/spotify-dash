@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-09T09:57:49.618Z",
+  "lastUpdated": "2026-06-09T15:20:27.152Z",
   "recentTracks": [
+    {
+      "name": "We Like To Party! (The Vengabus)",
+      "artist": "Vengaboys",
+      "playedAt": "2026-06-09T12:17:27.216Z",
+      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+    },
+    {
+      "name": "Damaio",
+      "artist": "En:vy",
+      "playedAt": "2026-06-09T10:48:46.009Z",
+      "url": "https://open.spotify.com/track/4w5DHmH1vQIta841ZJj31W"
+    },
     {
       "name": "Strobe - Radio Edit",
       "artist": "deadmau5",
@@ -12,18 +24,6 @@
       "artist": "Ndotz",
       "playedAt": "2026-06-08T17:29:00.071Z",
       "url": "https://open.spotify.com/track/1DplnY6lDY6GGiCa6VUqf7"
-    },
-    {
-      "name": "Come Down",
-      "artist": "Arian Cook",
-      "playedAt": "2026-06-08T14:58:51.042Z",
-      "url": "https://open.spotify.com/track/40wTXYamDKhU9S3AUKJYrY"
-    },
-    {
-      "name": "Nissim",
-      "artist": "The Gaslamp Killer",
-      "playedAt": "2026-06-08T14:47:14.096Z",
-      "url": "https://open.spotify.com/track/6U8yLkjsuvSldB5V7p228i"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Strobe - Radio Edit",
+    "mostPlayedTrack": "We Like To Party! (The Vengabus)",
     "mostPlayedCount": 1,
     "peakHour": "0am"
   }
