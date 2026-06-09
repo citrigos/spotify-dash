@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-09T04:12:31.142Z",
+  "lastUpdated": "2026-06-09T09:57:49.618Z",
   "recentTracks": [
+    {
+      "name": "Strobe - Radio Edit",
+      "artist": "deadmau5",
+      "playedAt": "2026-06-09T04:22:42.376Z",
+      "url": "https://open.spotify.com/track/5vTPFJOzgr6IzF11Kvjzls"
+    },
     {
       "name": "Embrace It",
       "artist": "Ndotz",
@@ -18,12 +24,6 @@
       "artist": "The Gaslamp Killer",
       "playedAt": "2026-06-08T14:47:14.096Z",
       "url": "https://open.spotify.com/track/6U8yLkjsuvSldB5V7p228i"
-    },
-    {
-      "name": "Pica",
-      "artist": "Deorro",
-      "playedAt": "2026-06-08T14:23:52.801Z",
-      "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Embrace It",
+    "mostPlayedTrack": "Strobe - Radio Edit",
     "mostPlayedCount": 1,
     "peakHour": "0am"
   }
