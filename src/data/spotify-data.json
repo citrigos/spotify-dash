@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-10T15:55:29.720Z",
+  "lastUpdated": "2026-06-10T20:40:33.925Z",
   "recentTracks": [
+    {
+      "name": "Padam Padam",
+      "artist": "Kylie Minogue",
+      "playedAt": "2026-06-10T16:16:11.997Z",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "name": "Can I Watch? (feat. Apani B as Nikki)",
+      "artist": "Viktor Vaughn",
+      "playedAt": "2026-06-10T09:31:00.481Z",
+      "url": "https://open.spotify.com/track/4i4P1ACAeWcyJTxQSd0prx"
+    },
     {
       "name": "Peur des filles",
       "artist": "L'Impératrice",
@@ -12,29 +24,17 @@
       "artist": "The Doors",
       "playedAt": "2026-06-10T06:02:57.850Z",
       "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
-    },
-    {
-      "name": "Tangerine - Remaster",
-      "artist": "Led Zeppelin",
-      "playedAt": "2026-06-10T05:59:47.160Z",
-      "url": "https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS"
-    },
-    {
-      "name": "Soul Food",
-      "artist": "Logic",
-      "playedAt": "2026-06-10T05:56:34.830Z",
-      "url": "https://open.spotify.com/track/3lWCa9e0KhDghboM5L9C6d"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 39,
+    "uniqueArtists": 40,
     "topArtist": "Logic",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "Peur des filles",
-    "mostPlayedCount": 1,
+    "repeatRate": 4,
+    "mostPlayedTrack": "Can I Watch? (feat. Apani B as Nikki)",
+    "mostPlayedCount": 2,
     "peakHour": "0am"
   }
 }
