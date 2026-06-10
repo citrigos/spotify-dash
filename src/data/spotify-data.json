@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-06-10T04:23:25.299Z",
+  "lastUpdated": "2026-06-10T10:15:39.031Z",
   "recentTracks": [
     {
-      "name": "Rally House",
-      "artist": "prod. DTM",
-      "playedAt": "2026-06-09T20:26:40.695Z",
-      "url": "https://open.spotify.com/track/4CLh2FZhGbH7EouNDJQvjx"
+      "name": "Peur des filles",
+      "artist": "L'Impératrice",
+      "playedAt": "2026-06-10T06:06:27.099Z",
+      "url": "https://open.spotify.com/track/00mO8JKk2wQ7VqdPcY1r4O"
     },
     {
-      "name": "We Like To Party! (The Vengabus)",
-      "artist": "Vengaboys",
-      "playedAt": "2026-06-09T12:17:27.216Z",
-      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+      "name": "Touch Me",
+      "artist": "The Doors",
+      "playedAt": "2026-06-10T06:02:57.850Z",
+      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
     },
     {
-      "name": "Damaio",
-      "artist": "En:vy",
-      "playedAt": "2026-06-09T10:48:46.009Z",
-      "url": "https://open.spotify.com/track/4w5DHmH1vQIta841ZJj31W"
+      "name": "Tangerine - Remaster",
+      "artist": "Led Zeppelin",
+      "playedAt": "2026-06-10T05:59:47.160Z",
+      "url": "https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS"
     },
     {
-      "name": "Strobe - Radio Edit",
-      "artist": "deadmau5",
-      "playedAt": "2026-06-09T04:22:42.376Z",
-      "url": "https://open.spotify.com/track/5vTPFJOzgr6IzF11Kvjzls"
+      "name": "Soul Food",
+      "artist": "Logic",
+      "playedAt": "2026-06-10T05:56:34.830Z",
+      "url": "https://open.spotify.com/track/3lWCa9e0KhDghboM5L9C6d"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Rally House",
+    "mostPlayedTrack": "Peur des filles",
     "mostPlayedCount": 1,
     "peakHour": "0am"
   }
