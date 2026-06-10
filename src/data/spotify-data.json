@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-09T20:15:11.966Z",
+  "lastUpdated": "2026-06-10T04:23:25.299Z",
   "recentTracks": [
+    {
+      "name": "Rally House",
+      "artist": "prod. DTM",
+      "playedAt": "2026-06-09T20:26:40.695Z",
+      "url": "https://open.spotify.com/track/4CLh2FZhGbH7EouNDJQvjx"
+    },
     {
       "name": "We Like To Party! (The Vengabus)",
       "artist": "Vengaboys",
@@ -18,22 +24,16 @@
       "artist": "deadmau5",
       "playedAt": "2026-06-09T04:22:42.376Z",
       "url": "https://open.spotify.com/track/5vTPFJOzgr6IzF11Kvjzls"
-    },
-    {
-      "name": "Embrace It",
-      "artist": "Ndotz",
-      "playedAt": "2026-06-08T17:29:00.071Z",
-      "url": "https://open.spotify.com/track/1DplnY6lDY6GGiCa6VUqf7"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 38,
+    "uniqueArtists": 39,
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "We Like To Party! (The Vengabus)",
+    "mostPlayedTrack": "Rally House",
     "mostPlayedCount": 1,
     "peakHour": "0am"
   }
