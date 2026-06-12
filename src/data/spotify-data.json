@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-12T10:25:05.531Z",
+  "lastUpdated": "2026-06-12T15:31:47.156Z",
   "recentTracks": [
+    {
+      "name": "Happy Valentine's Day",
+      "artist": "Outkast",
+      "playedAt": "2026-06-12T15:30:25.554Z",
+      "url": "https://open.spotify.com/track/32q1h0jij3ePpp47ShIqVy"
+    },
+    {
+      "name": "Fly Me To The Moon (In Other Words)",
+      "artist": "Bobby Womack",
+      "playedAt": "2026-06-12T15:25:01.984Z",
+      "url": "https://open.spotify.com/track/2qhR4aymUGDfacDT6pzWf7"
+    },
     {
       "name": "Maybe Partying Will Help…Pt. 1",
       "artist": "Sublime",
@@ -12,18 +24,6 @@
       "artist": "Sublime",
       "playedAt": "2026-06-12T06:19:47.278Z",
       "url": "https://open.spotify.com/track/0bYymFq3oLdOzR38VAP5L0"
-    },
-    {
-      "name": "Can’t Miss You",
-      "artist": "Sublime",
-      "playedAt": "2026-06-12T06:16:23.117Z",
-      "url": "https://open.spotify.com/track/6KAM2zZGIWIN1mgI7aht60"
-    },
-    {
-      "name": "Wizard",
-      "artist": "Sublime",
-      "playedAt": "2026-06-12T06:13:50.223Z",
-      "url": "https://open.spotify.com/track/6VuDLRGS49bLI1Fjv0HG8N"
     }
   ],
   "stats": {
@@ -33,8 +33,8 @@
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Can I Watch? (feat. Apani B as Nikki)",
+    "mostPlayedTrack": "Fly Me To The Moon (In Other Words)",
     "mostPlayedCount": 2,
-    "peakHour": "6am"
+    "peakHour": "5am"
   }
 }
