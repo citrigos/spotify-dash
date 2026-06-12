@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-06-12T15:31:47.156Z",
+  "lastUpdated": "2026-06-12T20:20:12.140Z",
   "recentTracks": [
     {
-      "name": "Happy Valentine's Day",
-      "artist": "Outkast",
-      "playedAt": "2026-06-12T15:30:25.554Z",
-      "url": "https://open.spotify.com/track/32q1h0jij3ePpp47ShIqVy"
+      "name": "thankful",
+      "artist": "Meltycanon",
+      "playedAt": "2026-06-12T16:03:30.326Z",
+      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
     },
     {
-      "name": "Fly Me To The Moon (In Other Words)",
-      "artist": "Bobby Womack",
-      "playedAt": "2026-06-12T15:25:01.984Z",
-      "url": "https://open.spotify.com/track/2qhR4aymUGDfacDT6pzWf7"
+      "name": "Penthouse",
+      "artist": "Bas",
+      "playedAt": "2026-06-12T16:01:02.995Z",
+      "url": "https://open.spotify.com/track/0eMHygZ1KgAQF7nesBlM2O"
     },
     {
-      "name": "Maybe Partying Will Help…Pt. 1",
-      "artist": "Sublime",
-      "playedAt": "2026-06-12T06:21:37.310Z",
-      "url": "https://open.spotify.com/track/0qIWrWLZ6wFL9kBppuhLu5"
+      "name": "Daisyphobia",
+      "artist": "Youth Lagoon",
+      "playedAt": "2026-06-12T15:57:01.038Z",
+      "url": "https://open.spotify.com/track/3SWL4ShNumxntc77UevNBY"
     },
     {
-      "name": "Backwards (feat. FIDLAR)",
-      "artist": "Sublime",
-      "playedAt": "2026-06-12T06:19:47.278Z",
-      "url": "https://open.spotify.com/track/0bYymFq3oLdOzR38VAP5L0"
+      "name": "My House",
+      "artist": "The O'My's",
+      "playedAt": "2026-06-12T15:50:57.977Z",
+      "url": "https://open.spotify.com/track/7dPs1mOSvfQqwAZsFVtc9g"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 40,
+    "uniqueArtists": 42,
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Fly Me To The Moon (In Other Words)",
+    "mostPlayedTrack": "Can I Watch? (feat. Apani B as Nikki)",
     "mostPlayedCount": 2,
     "peakHour": "5am"
   }
