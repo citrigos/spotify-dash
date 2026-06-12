@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-12T04:48:37.731Z",
+  "lastUpdated": "2026-06-12T10:25:05.531Z",
   "recentTracks": [
     {
-      "name": "Bel Mercy",
-      "artist": "Jengi",
-      "playedAt": "2026-06-11T04:34:26.307Z",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+      "name": "Maybe Partying Will Help…Pt. 1",
+      "artist": "Sublime",
+      "playedAt": "2026-06-12T06:21:37.310Z",
+      "url": "https://open.spotify.com/track/0qIWrWLZ6wFL9kBppuhLu5"
     },
     {
-      "name": "Atmosphere",
-      "artist": "FISHER",
-      "playedAt": "2026-06-11T04:31:36.264Z",
-      "url": "https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa"
+      "name": "Backwards (feat. FIDLAR)",
+      "artist": "Sublime",
+      "playedAt": "2026-06-12T06:19:47.278Z",
+      "url": "https://open.spotify.com/track/0bYymFq3oLdOzR38VAP5L0"
     },
     {
-      "name": "Beggin'",
-      "artist": "Chris Lake",
-      "playedAt": "2026-06-11T04:28:32.967Z",
-      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+      "name": "Can’t Miss You",
+      "artist": "Sublime",
+      "playedAt": "2026-06-12T06:16:23.117Z",
+      "url": "https://open.spotify.com/track/6KAM2zZGIWIN1mgI7aht60"
     },
     {
-      "name": "Miss You - Bonus Track",
-      "artist": "Oliver Tree",
-      "playedAt": "2026-06-11T04:18:08.280Z",
-      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+      "name": "Wizard",
+      "artist": "Sublime",
+      "playedAt": "2026-06-12T06:13:50.223Z",
+      "url": "https://open.spotify.com/track/6VuDLRGS49bLI1Fjv0HG8N"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 44,
+    "uniqueArtists": 40,
     "topArtist": "Logic",
     "dailyAverage": 2,
     "repeatRate": 4,
     "mostPlayedTrack": "Can I Watch? (feat. Apani B as Nikki)",
     "mostPlayedCount": 2,
-    "peakHour": "4am"
+    "peakHour": "6am"
   }
 }
