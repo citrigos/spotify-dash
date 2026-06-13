@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-06-13T14:16:57.014Z",
+  "lastUpdated": "2026-06-13T19:46:18.456Z",
   "recentTracks": [
+    {
+      "name": "Fly Me To The Moon (In Other Words)",
+      "artist": "Bobby Womack",
+      "playedAt": "2026-06-13T18:31:12.244Z",
+      "url": "https://open.spotify.com/track/2qhR4aymUGDfacDT6pzWf7"
+    },
+    {
+      "name": "Amore di tabacco",
+      "artist": "Mina",
+      "playedAt": "2026-06-13T15:28:43.156Z",
+      "url": "https://open.spotify.com/track/3YdtBbMlQBXrX3wBT0n3mN"
+    },
+    {
+      "name": "I Like It Like That",
+      "artist": "Pete Rodriguez",
+      "playedAt": "2026-06-13T15:09:07.466Z",
+      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
+    },
     {
       "name": "1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)",
       "artist": "A$AP Rocky",
       "playedAt": "2026-06-13T04:58:07.106Z",
       "url": "https://open.spotify.com/track/1eLU27PPFxBhbp1CBjPh9J"
-    },
-    {
-      "name": "thankful",
-      "artist": "Meltycanon",
-      "playedAt": "2026-06-12T16:03:30.326Z",
-      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
-    },
-    {
-      "name": "Penthouse",
-      "artist": "Bas",
-      "playedAt": "2026-06-12T16:01:02.995Z",
-      "url": "https://open.spotify.com/track/0eMHygZ1KgAQF7nesBlM2O"
-    },
-    {
-      "name": "Daisyphobia",
-      "artist": "Youth Lagoon",
-      "playedAt": "2026-06-12T15:57:01.038Z",
-      "url": "https://open.spotify.com/track/3SWL4ShNumxntc77UevNBY"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 42,
+    "uniqueArtists": 41,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Can I Watch? (feat. Apani B as Nikki)",
+    "mostPlayedTrack": "Fly Me To The Moon (In Other Words)",
     "mostPlayedCount": 2,
     "peakHour": "4am"
   }
