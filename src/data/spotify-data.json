@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-13T04:27:11.895Z",
+  "lastUpdated": "2026-06-13T09:27:16.841Z",
   "recentTracks": [
+    {
+      "name": "1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)",
+      "artist": "A$AP Rocky",
+      "playedAt": "2026-06-13T04:58:07.106Z",
+      "url": "https://open.spotify.com/track/1eLU27PPFxBhbp1CBjPh9J"
+    },
     {
       "name": "thankful",
       "artist": "Meltycanon",
@@ -18,23 +24,17 @@
       "artist": "Youth Lagoon",
       "playedAt": "2026-06-12T15:57:01.038Z",
       "url": "https://open.spotify.com/track/3SWL4ShNumxntc77UevNBY"
-    },
-    {
-      "name": "My House",
-      "artist": "The O'My's",
-      "playedAt": "2026-06-12T15:50:57.977Z",
-      "url": "https://open.spotify.com/track/7dPs1mOSvfQqwAZsFVtc9g"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
     "uniqueArtists": 42,
-    "topArtist": "Logic",
+    "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 4,
     "mostPlayedTrack": "Can I Watch? (feat. Apani B as Nikki)",
     "mostPlayedCount": 2,
-    "peakHour": "5am"
+    "peakHour": "4am"
   }
 }
