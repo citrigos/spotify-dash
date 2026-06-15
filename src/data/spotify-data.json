@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-15T12:33:13.381Z",
+  "lastUpdated": "2026-06-15T21:12:58.168Z",
   "recentTracks": [
+    {
+      "name": "Sientate en Ese Deo",
+      "artist": "El Alfa",
+      "playedAt": "2026-06-15T15:51:51.565Z",
+      "url": "https://open.spotify.com/track/7no50s2we7Ap7UsvHtn6Px"
+    },
+    {
+      "name": "Open It Up",
+      "artist": "Migos",
+      "playedAt": "2026-06-15T15:47:21.944Z",
+      "url": "https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8"
+    },
     {
       "name": "Feedback",
       "artist": "Kanye West",
@@ -12,29 +24,17 @@
       "artist": "A Boogie Wit da Hoodie",
       "playedAt": "2026-06-15T11:24:45.292Z",
       "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
-    },
-    {
-      "name": "Laura",
-      "artist": "Scissor Sisters",
-      "playedAt": "2026-06-15T11:21:15.583Z",
-      "url": "https://open.spotify.com/track/0o53b22Zm0rmrxbvUvHTec"
-    },
-    {
-      "name": "Wop (Official Version)",
-      "artist": "J. Dash",
-      "playedAt": "2026-06-15T11:17:39.079Z",
-      "url": "https://open.spotify.com/track/3zbnvxvqV5lL4Vq0FznWsX"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 43,
+    "uniqueArtists": 44,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 4,
     "mostPlayedTrack": "Fly Me To The Moon (In Other Words)",
     "mostPlayedCount": 2,
-    "peakHour": "6am"
+    "peakHour": "3pm"
   }
 }
