@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-16T17:11:08.892Z",
+  "lastUpdated": "2026-06-16T21:12:41.339Z",
   "recentTracks": [
+    {
+      "name": "Willing and Able",
+      "artist": "Noah Kahan",
+      "playedAt": "2026-06-16T19:37:14.260Z",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+    },
     {
       "name": "Electric Love",
       "artist": "BØRNS",
@@ -18,12 +24,6 @@
       "artist": "Kendrick Lamar",
       "playedAt": "2026-06-16T10:33:37.652Z",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
-    },
-    {
-      "name": "Knock Knock",
-      "artist": "Mac Miller",
-      "playedAt": "2026-06-16T10:27:10.279Z",
-      "url": "https://open.spotify.com/track/6AjXmTomWUWZ6Za0X6ypjl"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Electric Love",
+    "mostPlayedTrack": "Willing and Able",
     "mostPlayedCount": 1,
     "peakHour": "6am"
   }
