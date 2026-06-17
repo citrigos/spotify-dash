@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-17T11:10:04.706Z",
+  "lastUpdated": "2026-06-17T15:54:04.915Z",
   "recentTracks": [
+    {
+      "name": "PRIDE.",
+      "artist": "Kendrick Lamar",
+      "playedAt": "2026-06-17T15:31:23.941Z",
+      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
+    },
     {
       "name": "Love Sosa",
       "artist": "Chief Keef",
@@ -18,22 +24,16 @@
       "artist": "Coolio",
       "playedAt": "2026-06-17T04:13:20.619Z",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
-    },
-    {
-      "name": "The Cult of Dionysus",
-      "artist": "The Orion Experience",
-      "playedAt": "2026-06-17T04:09:19.472Z",
-      "url": "https://open.spotify.com/track/08KTQSs3ickNki7FFTb6fY"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 48,
+    "uniqueArtists": 47,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Love Sosa",
+    "mostPlayedTrack": "PRIDE.",
     "mostPlayedCount": 1,
     "peakHour": "6am"
   }
