@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-06-16T21:12:41.339Z",
+  "lastUpdated": "2026-06-17T04:56:57.536Z",
   "recentTracks": [
     {
-      "name": "Willing and Able",
-      "artist": "Noah Kahan",
-      "playedAt": "2026-06-16T19:37:14.260Z",
-      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+      "name": "Love Sosa",
+      "artist": "Chief Keef",
+      "playedAt": "2026-06-17T04:19:42.720Z",
+      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
     },
     {
-      "name": "Electric Love",
-      "artist": "BØRNS",
-      "playedAt": "2026-06-16T10:39:42.558Z",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+      "name": "One Whole Me",
+      "artist": "Dev Lemons",
+      "playedAt": "2026-06-17T04:15:36.077Z",
+      "url": "https://open.spotify.com/track/1Kwt1626crESGcKlQWCQBz"
     },
     {
-      "name": "Salad Days",
-      "artist": "Mac DeMarco",
-      "playedAt": "2026-06-16T10:36:03.991Z",
-      "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
+      "name": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "playedAt": "2026-06-17T04:13:20.619Z",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "name": "Money Trees",
-      "artist": "Kendrick Lamar",
-      "playedAt": "2026-06-16T10:33:37.652Z",
-      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+      "name": "The Cult of Dionysus",
+      "artist": "The Orion Experience",
+      "playedAt": "2026-06-17T04:09:19.472Z",
+      "url": "https://open.spotify.com/track/08KTQSs3ickNki7FFTb6fY"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 49,
+    "uniqueArtists": 48,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Willing and Able",
+    "mostPlayedTrack": "Love Sosa",
     "mostPlayedCount": 1,
     "peakHour": "6am"
   }
