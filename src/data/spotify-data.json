@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-17T15:54:04.915Z",
+  "lastUpdated": "2026-06-17T20:24:08.117Z",
   "recentTracks": [
+    {
+      "name": "Breathe (In the Air)",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-06-17T15:56:11.843Z",
+      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
     {
       "name": "PRIDE.",
       "artist": "Kendrick Lamar",
@@ -18,12 +24,6 @@
       "artist": "Dev Lemons",
       "playedAt": "2026-06-17T04:15:36.077Z",
       "url": "https://open.spotify.com/track/1Kwt1626crESGcKlQWCQBz"
-    },
-    {
-      "name": "Gangsta's Paradise",
-      "artist": "Coolio",
-      "playedAt": "2026-06-17T04:13:20.619Z",
-      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "PRIDE.",
+    "mostPlayedTrack": "Breathe (In the Air)",
     "mostPlayedCount": 1,
     "peakHour": "6am"
   }
