@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-18T15:44:39.515Z",
+  "lastUpdated": "2026-06-18T20:34:05.745Z",
   "recentTracks": [
     {
-      "name": "Breathe (In the Air)",
-      "artist": "Pink Floyd",
-      "playedAt": "2026-06-17T15:56:11.843Z",
-      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+      "name": "Dancing Queen",
+      "artist": "ABBA",
+      "playedAt": "2026-06-18T17:04:29.430Z",
+      "url": "https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc"
     },
     {
-      "name": "PRIDE.",
-      "artist": "Kendrick Lamar",
-      "playedAt": "2026-06-17T15:31:23.941Z",
-      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
+      "name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "playedAt": "2026-06-18T17:00:37.908Z",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
-      "name": "Love Sosa",
-      "artist": "Chief Keef",
-      "playedAt": "2026-06-17T04:19:42.720Z",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+      "name": "Yes Sir, I Can Boogie",
+      "artist": "Baccara",
+      "playedAt": "2026-06-18T16:52:36.299Z",
+      "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
     },
     {
-      "name": "One Whole Me",
-      "artist": "Dev Lemons",
-      "playedAt": "2026-06-17T04:15:36.077Z",
-      "url": "https://open.spotify.com/track/1Kwt1626crESGcKlQWCQBz"
+      "name": "(Sittin' On) the Dock of the Bay - Mono",
+      "artist": "Otis Redding",
+      "playedAt": "2026-06-18T16:48:03.860Z",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 47,
+    "uniqueArtists": 48,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Breathe (In the Air)",
+    "mostPlayedTrack": "Dancing Queen",
     "mostPlayedCount": 1,
-    "peakHour": "6am"
+    "peakHour": "4pm"
   }
 }
