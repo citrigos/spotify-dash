@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-19T10:50:16.760Z",
+  "lastUpdated": "2026-06-19T15:35:11.495Z",
   "recentTracks": [
     {
-      "name": "Coochie Land",
-      "artist": "YN Jay",
-      "playedAt": "2026-06-19T10:42:14.531Z",
-      "url": "https://open.spotify.com/track/7xRfZWNM3XZiOtdx0Lg8FR"
+      "name": "Lifestyle",
+      "artist": "Rich Gang",
+      "playedAt": "2026-06-19T15:20:26.364Z",
+      "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
     },
     {
-      "name": "Baby, I Love Your Way - Live",
-      "artist": "Peter Frampton",
-      "playedAt": "2026-06-19T10:34:00.361Z",
-      "url": "https://open.spotify.com/track/1ksayCHVLH4eKFm43GFokU"
+      "name": "Tyler Herro",
+      "artist": "Jack Harlow",
+      "playedAt": "2026-06-19T15:15:56.229Z",
+      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
     },
     {
-      "name": "Missed Calls",
-      "artist": "Mac Miller",
-      "playedAt": "2026-06-19T10:26:10.020Z",
-      "url": "https://open.spotify.com/track/5BIO2qEnjAs52RJA4CSZGI"
+      "name": "False Alarm",
+      "artist": "The Weeknd",
+      "playedAt": "2026-06-19T15:13:19.190Z",
+      "url": "https://open.spotify.com/track/4oeaIftdpT3JuZLcCkKmVE"
     },
     {
-      "name": "I want to see the World",
-      "artist": "Hobo Johnson",
-      "playedAt": "2026-06-19T10:23:10.661Z",
-      "url": "https://open.spotify.com/track/3nCzbZSiTfndYff2YxrrXb"
+      "name": "On the Gram",
+      "artist": "Peewee Longway",
+      "playedAt": "2026-06-19T15:09:38.393Z",
+      "url": "https://open.spotify.com/track/4l5kuZhFgOsRa5Kx40d7P0"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 45,
+    "uniqueArtists": 46,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
-    "repeatRate": 4,
+    "repeatRate": 6,
     "mostPlayedTrack": "Brand New Guy (feat. ScHoolboy Q)",
-    "mostPlayedCount": 2,
-    "peakHour": "10am"
+    "mostPlayedCount": 3,
+    "peakHour": "2pm"
   }
 }
