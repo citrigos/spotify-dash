@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-19T05:07:45.687Z",
+  "lastUpdated": "2026-06-19T10:50:16.760Z",
   "recentTracks": [
     {
-      "name": "Dancing Queen",
-      "artist": "ABBA",
-      "playedAt": "2026-06-18T17:04:29.430Z",
-      "url": "https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc"
+      "name": "Coochie Land",
+      "artist": "YN Jay",
+      "playedAt": "2026-06-19T10:42:14.531Z",
+      "url": "https://open.spotify.com/track/7xRfZWNM3XZiOtdx0Lg8FR"
     },
     {
-      "name": "Last Friday Night (T.G.I.F.)",
-      "artist": "Katy Perry",
-      "playedAt": "2026-06-18T17:00:37.908Z",
-      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+      "name": "Baby, I Love Your Way - Live",
+      "artist": "Peter Frampton",
+      "playedAt": "2026-06-19T10:34:00.361Z",
+      "url": "https://open.spotify.com/track/1ksayCHVLH4eKFm43GFokU"
     },
     {
-      "name": "Yes Sir, I Can Boogie",
-      "artist": "Baccara",
-      "playedAt": "2026-06-18T16:52:36.299Z",
-      "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
+      "name": "Missed Calls",
+      "artist": "Mac Miller",
+      "playedAt": "2026-06-19T10:26:10.020Z",
+      "url": "https://open.spotify.com/track/5BIO2qEnjAs52RJA4CSZGI"
     },
     {
-      "name": "(Sittin' On) the Dock of the Bay - Mono",
-      "artist": "Otis Redding",
-      "playedAt": "2026-06-18T16:48:03.860Z",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+      "name": "I want to see the World",
+      "artist": "Hobo Johnson",
+      "playedAt": "2026-06-19T10:23:10.661Z",
+      "url": "https://open.spotify.com/track/3nCzbZSiTfndYff2YxrrXb"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 48,
+    "uniqueArtists": 45,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "Dancing Queen",
-    "mostPlayedCount": 1,
-    "peakHour": "4pm"
+    "repeatRate": 4,
+    "mostPlayedTrack": "Brand New Guy (feat. ScHoolboy Q)",
+    "mostPlayedCount": 2,
+    "peakHour": "10am"
   }
 }
