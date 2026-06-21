@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-21T14:25:56.480Z",
+  "lastUpdated": "2026-06-21T19:54:26.571Z",
   "recentTracks": [
+    {
+      "name": "Starships",
+      "artist": "Nicki Minaj",
+      "playedAt": "2026-06-21T16:36:00.831Z",
+      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
+    },
     {
       "name": "Party In The U.S.A.",
       "artist": "Miley Cyrus",
@@ -18,12 +24,6 @@
       "artist": "Nelly",
       "playedAt": "2026-06-21T10:11:21.820Z",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "name": "Miss You - Remastered",
-      "artist": "The Rolling Stones",
-      "playedAt": "2026-06-19T19:52:26.253Z",
-      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
     }
   ],
   "stats": {
