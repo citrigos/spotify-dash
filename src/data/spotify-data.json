@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-23T09:57:14.977Z",
+  "lastUpdated": "2026-06-23T15:16:26.358Z",
   "recentTracks": [
+    {
+      "name": "I Wonder",
+      "artist": "Kanye West",
+      "playedAt": "2026-06-23T14:04:11.801Z",
+      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
+    },
     {
       "name": "Cadillacs (Version '93) - Remasterizado 2008",
       "artist": "Los Fabulosos Cadillacs",
@@ -18,22 +24,16 @@
       "artist": "Kid Cudi",
       "playedAt": "2026-06-23T08:43:49.595Z",
       "url": "https://open.spotify.com/track/62Mre4mWZkOGjau4UQtFUV"
-    },
-    {
-      "name": "Friendship (Is A Small Boat In A Storm)",
-      "artist": "Chicano Batman",
-      "playedAt": "2026-06-23T08:38:42.666Z",
-      "url": "https://open.spotify.com/track/4OSHaqeLldc5zqncKQep8M"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 44,
+    "uniqueArtists": 43,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Cadillacs (Version '93) - Remasterizado 2008",
+    "mostPlayedTrack": "I Wonder",
     "mostPlayedCount": 1,
     "peakHour": "8am"
   }
