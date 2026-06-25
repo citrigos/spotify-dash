@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-25T14:46:51.727Z",
+  "lastUpdated": "2026-06-25T20:12:17.331Z",
   "recentTracks": [
+    {
+      "name": "Celebration",
+      "artist": "Kool & The Gang",
+      "playedAt": "2026-06-25T15:10:47.721Z",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
+    {
+      "name": "Celebration",
+      "artist": "Kool & The Gang",
+      "playedAt": "2026-06-25T15:08:13.219Z",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
     {
       "name": "I Wonder",
       "artist": "Kanye West",
@@ -12,29 +24,17 @@
       "artist": "Los Fabulosos Cadillacs",
       "playedAt": "2026-06-23T08:48:12.514Z",
       "url": "https://open.spotify.com/track/5IybPVqcyjgkuM1IAtjJeZ"
-    },
-    {
-      "name": "El Nayer",
-      "artist": "Natanael Cano",
-      "playedAt": "2026-06-23T08:46:37.312Z",
-      "url": "https://open.spotify.com/track/6KCYZaTtjTkDoKgQr61tay"
-    },
-    {
-      "name": "The Guide",
-      "artist": "Kid Cudi",
-      "playedAt": "2026-06-23T08:43:49.595Z",
-      "url": "https://open.spotify.com/track/62Mre4mWZkOGjau4UQtFUV"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 43,
+    "uniqueArtists": 42,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "I Wonder",
-    "mostPlayedCount": 1,
+    "repeatRate": 4,
+    "mostPlayedTrack": "Celebration",
+    "mostPlayedCount": 2,
     "peakHour": "8am"
   }
 }
