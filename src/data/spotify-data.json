@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-06-26T14:39:05.168Z",
+  "lastUpdated": "2026-06-26T20:00:15.126Z",
   "recentTracks": [
     {
-      "name": "Get Down On It",
-      "artist": "Kool & The Gang",
-      "playedAt": "2026-06-25T22:35:26.164Z",
-      "url": "https://open.spotify.com/track/4Cv6ongCvJy9JfSkWVnb5D"
+      "name": "Grease - 2007 Remaster",
+      "artist": "Frankie Valli",
+      "playedAt": "2026-06-26T17:34:54.025Z",
+      "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
     },
     {
-      "name": "Celebration",
-      "artist": "Kool & The Gang",
-      "playedAt": "2026-06-25T15:10:47.721Z",
-      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+      "name": "Boogie Wonderland (with The Emotions)",
+      "artist": "Earth, Wind & Fire",
+      "playedAt": "2026-06-26T17:28:44.210Z",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
-      "name": "Celebration",
-      "artist": "Kool & The Gang",
-      "playedAt": "2026-06-25T15:08:13.219Z",
-      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+      "name": "Low Rider",
+      "artist": "War",
+      "playedAt": "2026-06-26T17:23:55.372Z",
+      "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
-      "name": "I Wonder",
-      "artist": "Kanye West",
-      "playedAt": "2026-06-23T14:04:11.801Z",
-      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
+      "name": "I Heard It Through The Grapevine",
+      "artist": "Marvin Gaye",
+      "playedAt": "2026-06-26T17:20:44.101Z",
+      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
     }
   ],
   "stats": {
-    "tracksPlayed": 50,
+    "tracksPlayed": 47,
     "listeningHours": 3,
-    "uniqueArtists": 41,
+    "uniqueArtists": 38,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Celebration",
+    "mostPlayedTrack": "Get Down On It",
     "mostPlayedCount": 2,
     "peakHour": "8am"
   }
