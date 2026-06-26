@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-25T20:12:17.331Z",
+  "lastUpdated": "2026-06-26T04:19:23.536Z",
   "recentTracks": [
+    {
+      "name": "Get Down On It",
+      "artist": "Kool & The Gang",
+      "playedAt": "2026-06-25T22:35:26.164Z",
+      "url": "https://open.spotify.com/track/4Cv6ongCvJy9JfSkWVnb5D"
+    },
     {
       "name": "Celebration",
       "artist": "Kool & The Gang",
@@ -18,18 +24,12 @@
       "artist": "Kanye West",
       "playedAt": "2026-06-23T14:04:11.801Z",
       "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
-    },
-    {
-      "name": "Cadillacs (Version '93) - Remasterizado 2008",
-      "artist": "Los Fabulosos Cadillacs",
-      "playedAt": "2026-06-23T08:48:12.514Z",
-      "url": "https://open.spotify.com/track/5IybPVqcyjgkuM1IAtjJeZ"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 42,
+    "uniqueArtists": 41,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 4,
