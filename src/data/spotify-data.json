@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-06-28T19:40:24.329Z",
+  "lastUpdated": "2026-06-29T04:47:36.961Z",
   "recentTracks": [
     {
-      "name": "S&M",
+      "name": "Oops!...I Did It Again",
+      "artist": "Britney Spears",
+      "playedAt": "2026-06-28T20:01:47.572Z",
+      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
+    },
+    {
+      "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "playedAt": "2026-06-28T19:58:15.964Z",
+      "url": "https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs"
+    },
+    {
+      "name": "Feel This Moment (feat. Christina Aguilera)",
+      "artist": "Pitbull",
+      "playedAt": "2026-06-28T19:55:02.380Z",
+      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "name": "Only Girl (In The World)",
       "artist": "Rihanna",
-      "playedAt": "2026-06-28T19:38:37.451Z",
-      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
-    },
-    {
-      "name": "Starships",
-      "artist": "Nicki Minaj",
-      "playedAt": "2026-06-28T19:34:33.450Z",
-      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
-    },
-    {
-      "name": "Party In The U.S.A.",
-      "artist": "Miley Cyrus",
-      "playedAt": "2026-06-28T19:31:02.377Z",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "name": "Rather Be (feat. Jess Glynne)",
-      "artist": "Clean Bandit",
-      "playedAt": "2026-06-28T19:27:39.865Z",
-      "url": "https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi"
+      "playedAt": "2026-06-28T19:51:12.437Z",
+      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 44,
+    "uniqueArtists": 42,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 4,
     "mostPlayedTrack": "Get Down On It",
     "mostPlayedCount": 2,
-    "peakHour": "8am"
+    "peakHour": "7pm"
   }
 }
