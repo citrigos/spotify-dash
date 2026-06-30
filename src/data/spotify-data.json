@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-06-30T09:54:24.923Z",
+  "lastUpdated": "2026-06-30T14:34:07.549Z",
   "recentTracks": [
     {
-      "name": "Oops!...I Did It Again",
-      "artist": "Britney Spears",
-      "playedAt": "2026-06-28T20:01:47.572Z",
-      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
+      "name": "Best of My Love",
+      "artist": "The Emotions",
+      "playedAt": "2026-06-30T13:43:16.437Z",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
-      "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
-      "artist": "Taylor Swift",
-      "playedAt": "2026-06-28T19:58:15.964Z",
-      "url": "https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs"
+      "name": "Bad Romance",
+      "artist": "Lady Gaga",
+      "playedAt": "2026-06-30T13:43:08.151Z",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
-      "name": "Feel This Moment (feat. Christina Aguilera)",
-      "artist": "Pitbull",
-      "playedAt": "2026-06-28T19:55:02.380Z",
-      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "artist": "Leo Sayer",
+      "playedAt": "2026-06-30T12:37:02.164Z",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
-      "playedAt": "2026-06-28T19:51:12.437Z",
-      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+      "name": "Real Love Baby",
+      "artist": "Father John Misty",
+      "playedAt": "2026-06-30T12:33:22.162Z",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     }
   ],
   "stats": {
-    "tracksPlayed": 41,
-    "listeningHours": 2,
-    "uniqueArtists": 34,
+    "tracksPlayed": 47,
+    "listeningHours": 3,
+    "uniqueArtists": 38,
     "topArtist": "Noah Kahan",
-    "dailyAverage": 1,
-    "repeatRate": 5,
-    "mostPlayedTrack": "Get Down On It",
+    "dailyAverage": 2,
+    "repeatRate": 4,
+    "mostPlayedTrack": "You Make Me Feel Like Dancing - Remastered",
     "mostPlayedCount": 2,
     "peakHour": "7pm"
   }
