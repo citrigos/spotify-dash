@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T04:14:04.513Z",
+  "lastUpdated": "2026-06-30T09:54:24.923Z",
   "recentTracks": [
     {
       "name": "Oops!...I Did It Again",
@@ -27,12 +27,12 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 50,
-    "listeningHours": 3,
-    "uniqueArtists": 42,
+    "tracksPlayed": 41,
+    "listeningHours": 2,
+    "uniqueArtists": 34,
     "topArtist": "Noah Kahan",
-    "dailyAverage": 2,
-    "repeatRate": 4,
+    "dailyAverage": 1,
+    "repeatRate": 5,
     "mostPlayedTrack": "Get Down On It",
     "mostPlayedCount": 2,
     "peakHour": "7pm"
