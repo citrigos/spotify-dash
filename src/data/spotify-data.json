@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-07-01T10:03:21.443Z",
+  "lastUpdated": "2026-07-01T14:51:19.821Z",
   "recentTracks": [
     {
-      "name": "Texas Sun",
-      "artist": "Khruangbin",
-      "playedAt": "2026-07-01T08:09:05.144Z",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+      "name": "Lejos de Ti",
+      "artist": "The Marías",
+      "playedAt": "2026-07-01T13:04:15.959Z",
+      "url": "https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI"
     },
     {
-      "name": "Should've Been A Cowboy",
-      "artist": "Toby Keith",
-      "playedAt": "2026-07-01T08:04:51.907Z",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+      "name": "Why Don't We Just Dance",
+      "artist": "Josh Turner",
+      "playedAt": "2026-07-01T11:02:51.021Z",
+      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
     },
     {
-      "name": "Daddy Lessons",
-      "artist": "Beyoncé",
-      "playedAt": "2026-07-01T07:58:41.594Z",
-      "url": "https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn"
+      "name": "Drift Away",
+      "artist": "Uncle Kracker",
+      "playedAt": "2026-07-01T10:53:22.790Z",
+      "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
     },
     {
-      "name": "Wondering Why",
-      "artist": "The Red Clay Strays",
-      "playedAt": "2026-07-01T07:53:53.179Z",
-      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
+      "name": "Indigo (feat. Avery Anna)",
+      "artist": "Sam Barber",
+      "playedAt": "2026-07-01T10:49:06.772Z",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 42,
+    "uniqueArtists": 41,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Texas Sun",
+    "mostPlayedTrack": "Lejos de Ti",
     "mostPlayedCount": 1,
     "peakHour": "7pm"
   }
