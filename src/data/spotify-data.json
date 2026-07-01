@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-07-01T14:51:19.821Z",
+  "lastUpdated": "2026-07-01T20:04:27.369Z",
   "recentTracks": [
+    {
+      "name": "Always Forever",
+      "artist": "Cults",
+      "playedAt": "2026-07-01T16:50:28.463Z",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "name": "Ghostride",
+      "artist": "Crumb",
+      "playedAt": "2026-07-01T15:30:03.889Z",
+      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
+    },
+    {
+      "name": "I Think I Left the Stove On",
+      "artist": "Hotel Ugly",
+      "playedAt": "2026-07-01T15:19:50.353Z",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
+    },
     {
       "name": "Lejos de Ti",
       "artist": "The Marías",
       "playedAt": "2026-07-01T13:04:15.959Z",
       "url": "https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI"
-    },
-    {
-      "name": "Why Don't We Just Dance",
-      "artist": "Josh Turner",
-      "playedAt": "2026-07-01T11:02:51.021Z",
-      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
-    },
-    {
-      "name": "Drift Away",
-      "artist": "Uncle Kracker",
-      "playedAt": "2026-07-01T10:53:22.790Z",
-      "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
-    },
-    {
-      "name": "Indigo (feat. Avery Anna)",
-      "artist": "Sam Barber",
-      "playedAt": "2026-07-01T10:49:06.772Z",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     }
   ],
   "stats": {
@@ -33,7 +33,7 @@
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
     "repeatRate": 2,
-    "mostPlayedTrack": "Lejos de Ti",
+    "mostPlayedTrack": "Always Forever",
     "mostPlayedCount": 1,
     "peakHour": "7pm"
   }
