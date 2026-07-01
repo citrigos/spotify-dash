@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-01T04:42:27.529Z",
+  "lastUpdated": "2026-07-01T10:03:21.443Z",
   "recentTracks": [
     {
-      "name": "Summertime Sadness",
-      "artist": "Lana Del Rey",
-      "playedAt": "2026-06-30T19:07:29.588Z",
-      "url": "https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1"
+      "name": "Texas Sun",
+      "artist": "Khruangbin",
+      "playedAt": "2026-07-01T08:09:05.144Z",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
-      "name": "Young And Beautiful",
-      "artist": "Lana Del Rey",
-      "playedAt": "2026-06-30T19:03:04.373Z",
-      "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
+      "name": "Should've Been A Cowboy",
+      "artist": "Toby Keith",
+      "playedAt": "2026-07-01T08:04:51.907Z",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
-      "name": "Crazy In Love (feat. JAY-Z)",
+      "name": "Daddy Lessons",
       "artist": "Beyoncé",
-      "playedAt": "2026-06-30T18:58:43.553Z",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+      "playedAt": "2026-07-01T07:58:41.594Z",
+      "url": "https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn"
     },
     {
-      "name": "Best of My Love",
-      "artist": "The Emotions",
-      "playedAt": "2026-06-30T13:43:16.437Z",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+      "name": "Wondering Why",
+      "artist": "The Red Clay Strays",
+      "playedAt": "2026-07-01T07:53:53.179Z",
+      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 40,
+    "uniqueArtists": 42,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "You Make Me Feel Like Dancing - Remastered",
-    "mostPlayedCount": 2,
+    "repeatRate": 2,
+    "mostPlayedTrack": "Texas Sun",
+    "mostPlayedCount": 1,
     "peakHour": "7pm"
   }
 }
