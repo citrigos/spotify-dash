@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-02T09:26:10.154Z",
+  "lastUpdated": "2026-07-02T14:20:32.484Z",
   "recentTracks": [
     {
-      "name": "Always Forever",
-      "artist": "Cults",
-      "playedAt": "2026-07-01T16:50:28.463Z",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "name": "Ghostride",
+      "name": "Ice Melt",
       "artist": "Crumb",
-      "playedAt": "2026-07-01T15:30:03.889Z",
-      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
+      "playedAt": "2026-07-02T10:23:46.503Z",
+      "url": "https://open.spotify.com/track/1OPkXWnIK8RYyWTp3NWvM9"
     },
     {
-      "name": "I Think I Left the Stove On",
-      "artist": "Hotel Ugly",
-      "playedAt": "2026-07-01T15:19:50.353Z",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
-    },
-    {
-      "name": "Lejos de Ti",
+      "name": "Little by Little",
       "artist": "The Marías",
-      "playedAt": "2026-07-01T13:04:15.959Z",
-      "url": "https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI"
+      "playedAt": "2026-07-02T10:21:17.111Z",
+      "url": "https://open.spotify.com/track/3EzlgdxyFvjeAGzR5WxHB8"
+    },
+    {
+      "name": "Beanie",
+      "artist": "Chezile",
+      "playedAt": "2026-07-02T10:18:18.166Z",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "name": "No. 1 Party Anthem",
+      "artist": "Arctic Monkeys",
+      "playedAt": "2026-07-02T10:16:05.573Z",
+      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 41,
+    "uniqueArtists": 37,
     "topArtist": "Noah Kahan",
     "dailyAverage": 2,
-    "repeatRate": 2,
-    "mostPlayedTrack": "Always Forever",
-    "mostPlayedCount": 1,
-    "peakHour": "7pm"
+    "repeatRate": 4,
+    "mostPlayedTrack": "Little by Little",
+    "mostPlayedCount": 2,
+    "peakHour": "7am"
   }
 }
