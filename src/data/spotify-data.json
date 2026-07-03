@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-03T14:25:00.740Z",
+  "lastUpdated": "2026-07-03T19:40:01.826Z",
   "recentTracks": [
     {
-      "name": "Lejos de Ti",
-      "artist": "The Marías",
-      "playedAt": "2026-07-03T02:29:23.673Z",
-      "url": "https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI"
+      "name": "Undiscovered Colors",
+      "artist": "The Flashbulb",
+      "playedAt": "2026-07-03T19:35:01.542Z",
+      "url": "https://open.spotify.com/track/0LnCYw0TjjeJDeHFxmn9HO"
     },
     {
-      "name": "Beyond",
-      "artist": "Leon Bridges",
-      "playedAt": "2026-07-03T02:26:23.689Z",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+      "name": "Marijuana",
+      "artist": "Chrome Sparks",
+      "playedAt": "2026-07-03T19:30:43.645Z",
+      "url": "https://open.spotify.com/track/4MPyyq69wHFvmjCKSpN4Ri"
     },
     {
-      "name": "No One Noticed",
-      "artist": "The Marías",
-      "playedAt": "2026-07-03T02:22:22.637Z",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "name": "Not Exactly",
+      "artist": "deadmau5",
+      "playedAt": "2026-07-03T19:27:42.029Z",
+      "url": "https://open.spotify.com/track/7gdJHtnAqy58RV61EpRBLo"
     },
     {
-      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
-      "artist": "Dean Martin",
-      "playedAt": "2026-07-03T02:14:46.053Z",
-      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
+      "name": "I Remember",
+      "artist": "Kaskade",
+      "playedAt": "2026-07-03T19:19:42.031Z",
+      "url": "https://open.spotify.com/track/5miifYL53idUsDxGKjICtb"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 25,
+    "uniqueArtists": 34,
     "topArtist": "The Marías",
     "dailyAverage": 2,
-    "repeatRate": 14,
-    "mostPlayedTrack": "All I Really Want Is You",
-    "mostPlayedCount": 7,
-    "peakHour": "0am"
+    "repeatRate": 6,
+    "mostPlayedTrack": "Lejos de Ti",
+    "mostPlayedCount": 3,
+    "peakHour": "4pm"
   }
 }
