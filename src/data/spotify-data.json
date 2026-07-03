@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-02T19:42:34.672Z",
+  "lastUpdated": "2026-07-03T03:56:08.200Z",
   "recentTracks": [
     {
-      "name": "Ice Melt",
-      "artist": "Crumb",
-      "playedAt": "2026-07-02T10:23:46.503Z",
-      "url": "https://open.spotify.com/track/1OPkXWnIK8RYyWTp3NWvM9"
-    },
-    {
-      "name": "Little by Little",
+      "name": "Lejos de Ti",
       "artist": "The Marías",
-      "playedAt": "2026-07-02T10:21:17.111Z",
-      "url": "https://open.spotify.com/track/3EzlgdxyFvjeAGzR5WxHB8"
+      "playedAt": "2026-07-03T02:29:23.673Z",
+      "url": "https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI"
     },
     {
-      "name": "Beanie",
-      "artist": "Chezile",
-      "playedAt": "2026-07-02T10:18:18.166Z",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+      "name": "Beyond",
+      "artist": "Leon Bridges",
+      "playedAt": "2026-07-03T02:26:23.689Z",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
-      "name": "No. 1 Party Anthem",
-      "artist": "Arctic Monkeys",
-      "playedAt": "2026-07-02T10:16:05.573Z",
-      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
+      "name": "No One Noticed",
+      "artist": "The Marías",
+      "playedAt": "2026-07-03T02:22:22.637Z",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
+      "artist": "Dean Martin",
+      "playedAt": "2026-07-03T02:14:46.053Z",
+      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 37,
-    "topArtist": "Noah Kahan",
+    "uniqueArtists": 25,
+    "topArtist": "The Marías",
     "dailyAverage": 2,
-    "repeatRate": 4,
-    "mostPlayedTrack": "Little by Little",
-    "mostPlayedCount": 2,
-    "peakHour": "7am"
+    "repeatRate": 14,
+    "mostPlayedTrack": "All I Really Want Is You",
+    "mostPlayedCount": 7,
+    "peakHour": "0am"
   }
 }
