@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-03T19:40:01.826Z",
+  "lastUpdated": "2026-07-04T03:49:42.869Z",
   "recentTracks": [
     {
-      "name": "Undiscovered Colors",
-      "artist": "The Flashbulb",
-      "playedAt": "2026-07-03T19:35:01.542Z",
-      "url": "https://open.spotify.com/track/0LnCYw0TjjeJDeHFxmn9HO"
-    },
-    {
-      "name": "Marijuana",
-      "artist": "Chrome Sparks",
-      "playedAt": "2026-07-03T19:30:43.645Z",
-      "url": "https://open.spotify.com/track/4MPyyq69wHFvmjCKSpN4Ri"
-    },
-    {
-      "name": "Not Exactly",
-      "artist": "deadmau5",
-      "playedAt": "2026-07-03T19:27:42.029Z",
-      "url": "https://open.spotify.com/track/7gdJHtnAqy58RV61EpRBLo"
+      "name": "I Remember",
+      "artist": "Kaskade",
+      "playedAt": "2026-07-03T23:45:21.486Z",
+      "url": "https://open.spotify.com/track/5miifYL53idUsDxGKjICtb"
     },
     {
       "name": "I Remember",
       "artist": "Kaskade",
-      "playedAt": "2026-07-03T19:19:42.031Z",
+      "playedAt": "2026-07-03T23:31:33.718Z",
       "url": "https://open.spotify.com/track/5miifYL53idUsDxGKjICtb"
+    },
+    {
+      "name": "Young Lust",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-07-03T23:22:25.838Z",
+      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
+    },
+    {
+      "name": "Breathe (In the Air)",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-07-03T23:18:55.602Z",
+      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 34,
+    "uniqueArtists": 31,
     "topArtist": "The Marías",
     "dailyAverage": 2,
     "repeatRate": 6,
-    "mostPlayedTrack": "Lejos de Ti",
+    "mostPlayedTrack": "I Remember",
     "mostPlayedCount": 3,
-    "peakHour": "4pm"
+    "peakHour": "6pm"
   }
 }
