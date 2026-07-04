@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-04T13:49:47.528Z",
+  "lastUpdated": "2026-07-04T19:24:51.306Z",
   "recentTracks": [
     {
-      "name": "I Remember",
-      "artist": "Kaskade",
-      "playedAt": "2026-07-03T23:45:21.486Z",
-      "url": "https://open.spotify.com/track/5miifYL53idUsDxGKjICtb"
+      "name": "Ain't It Just Like You",
+      "artist": "Toby Keith",
+      "playedAt": "2026-07-04T17:06:30.950Z",
+      "url": "https://open.spotify.com/track/545Wmj0mztWWScl6BqhLNZ"
     },
     {
-      "name": "I Remember",
-      "artist": "Kaskade",
-      "playedAt": "2026-07-03T23:31:33.718Z",
-      "url": "https://open.spotify.com/track/5miifYL53idUsDxGKjICtb"
+      "name": "Huckleberry",
+      "artist": "Toby Keith",
+      "playedAt": "2026-07-04T17:00:48.321Z",
+      "url": "https://open.spotify.com/track/6xTr7I1TPZwJHid5dG0VNJ"
     },
     {
-      "name": "Young Lust",
-      "artist": "Pink Floyd",
-      "playedAt": "2026-07-03T23:22:25.838Z",
-      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
+      "name": "Losing My Touch",
+      "artist": "Toby Keith",
+      "playedAt": "2026-07-04T16:51:32.233Z",
+      "url": "https://open.spotify.com/track/2fTAnfaaBXEkvajJ0gdeZY"
     },
     {
-      "name": "Breathe (In the Air)",
-      "artist": "Pink Floyd",
-      "playedAt": "2026-07-03T23:18:55.602Z",
-      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+      "name": "It's All Good",
+      "artist": "Toby Keith",
+      "playedAt": "2026-07-04T16:45:11.641Z",
+      "url": "https://open.spotify.com/track/7kYGGMGIlB4MAluKOHoiaN"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 31,
+    "uniqueArtists": 26,
     "topArtist": "The Marías",
     "dailyAverage": 2,
     "repeatRate": 6,
     "mostPlayedTrack": "I Remember",
     "mostPlayedCount": 3,
-    "peakHour": "6pm"
+    "peakHour": "7pm"
   }
 }
