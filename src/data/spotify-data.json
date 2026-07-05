@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-04T19:24:51.306Z",
+  "lastUpdated": "2026-07-05T04:08:01.859Z",
   "recentTracks": [
+    {
+      "name": "Rock You Baby",
+      "artist": "Toby Keith",
+      "playedAt": "2026-07-04T20:19:12.996Z",
+      "url": "https://open.spotify.com/track/1hDyukwpyJ9H5QBZoIs0Dm"
+    },
     {
       "name": "Ain't It Just Like You",
       "artist": "Toby Keith",
@@ -18,12 +24,6 @@
       "artist": "Toby Keith",
       "playedAt": "2026-07-04T16:51:32.233Z",
       "url": "https://open.spotify.com/track/2fTAnfaaBXEkvajJ0gdeZY"
-    },
-    {
-      "name": "It's All Good",
-      "artist": "Toby Keith",
-      "playedAt": "2026-07-04T16:45:11.641Z",
-      "url": "https://open.spotify.com/track/7kYGGMGIlB4MAluKOHoiaN"
     }
   ],
   "stats": {
