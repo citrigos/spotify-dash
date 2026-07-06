@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-05T19:35:18.803Z",
+  "lastUpdated": "2026-07-06T04:14:59.720Z",
   "recentTracks": [
     {
-      "name": "Rock You Baby",
-      "artist": "Toby Keith",
-      "playedAt": "2026-07-04T20:19:12.996Z",
-      "url": "https://open.spotify.com/track/1hDyukwpyJ9H5QBZoIs0Dm"
+      "name": "Willing and Able",
+      "artist": "Noah Kahan",
+      "playedAt": "2026-07-06T03:43:27.703Z",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
     },
     {
-      "name": "Ain't It Just Like You",
-      "artist": "Toby Keith",
-      "playedAt": "2026-07-04T17:06:30.950Z",
-      "url": "https://open.spotify.com/track/545Wmj0mztWWScl6BqhLNZ"
+      "name": "Didn't I",
+      "artist": "Darondo",
+      "playedAt": "2026-07-05T23:18:40.059Z",
+      "url": "https://open.spotify.com/track/04ve8kygNL5OTCQFr6nnJ5"
     },
     {
-      "name": "Huckleberry",
-      "artist": "Toby Keith",
-      "playedAt": "2026-07-04T17:00:48.321Z",
-      "url": "https://open.spotify.com/track/6xTr7I1TPZwJHid5dG0VNJ"
+      "name": "Fly Me To The Moon (In Other Words)",
+      "artist": "Bobby Womack",
+      "playedAt": "2026-07-05T23:15:10.442Z",
+      "url": "https://open.spotify.com/track/2qhR4aymUGDfacDT6pzWf7"
     },
     {
-      "name": "Losing My Touch",
-      "artist": "Toby Keith",
-      "playedAt": "2026-07-04T16:51:32.233Z",
-      "url": "https://open.spotify.com/track/2fTAnfaaBXEkvajJ0gdeZY"
+      "name": "Watercolor Eyes - From “Euphoria” An HBO Original Series",
+      "artist": "Lana Del Rey",
+      "playedAt": "2026-07-05T23:13:01.621Z",
+      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 26,
+    "uniqueArtists": 23,
     "topArtist": "The Marías",
     "dailyAverage": 2,
     "repeatRate": 6,
     "mostPlayedTrack": "I Remember",
     "mostPlayedCount": 3,
-    "peakHour": "7pm"
+    "peakHour": "11pm"
   }
 }
