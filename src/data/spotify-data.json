@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-08T14:31:16.610Z",
+  "lastUpdated": "2026-07-08T19:45:04.178Z",
   "recentTracks": [
     {
-      "name": "Willing and Able",
-      "artist": "Noah Kahan",
-      "playedAt": "2026-07-06T03:43:27.703Z",
-      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+      "name": "Wop (Official Version)",
+      "artist": "J. Dash",
+      "playedAt": "2026-07-08T16:39:56.331Z",
+      "url": "https://open.spotify.com/track/5tqyZmF6uEoTkD6ja7KZjv"
     },
     {
-      "name": "Didn't I",
-      "artist": "Darondo",
-      "playedAt": "2026-07-05T23:18:40.059Z",
-      "url": "https://open.spotify.com/track/04ve8kygNL5OTCQFr6nnJ5"
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "artist": "Outkast",
+      "playedAt": "2026-07-08T16:36:04.183Z",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
-      "name": "Fly Me To The Moon (In Other Words)",
-      "artist": "Bobby Womack",
-      "playedAt": "2026-07-05T23:15:10.442Z",
-      "url": "https://open.spotify.com/track/2qhR4aymUGDfacDT6pzWf7"
+      "name": "Ayy Ladies (feat. Tyga)",
+      "artist": "Travis Porter",
+      "playedAt": "2026-07-08T16:30:45.286Z",
+      "url": "https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9"
     },
     {
-      "name": "Watercolor Eyes - From “Euphoria” An HBO Original Series",
-      "artist": "Lana Del Rey",
-      "playedAt": "2026-07-05T23:13:01.621Z",
-      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
+      "name": "Swag Surfin'",
+      "artist": "F.L.Y. (Fast Life Yungstaz)",
+      "playedAt": "2026-07-08T16:27:13.559Z",
+      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 23,
+    "uniqueArtists": 26,
     "topArtist": "The Marías",
     "dailyAverage": 2,
-    "repeatRate": 6,
-    "mostPlayedTrack": "I Remember",
-    "mostPlayedCount": 3,
+    "repeatRate": 4,
+    "mostPlayedTrack": "Blow the Whistle",
+    "mostPlayedCount": 2,
     "peakHour": "11pm"
   }
 }
