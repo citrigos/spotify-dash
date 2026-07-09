@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-08T19:45:04.178Z",
+  "lastUpdated": "2026-07-09T03:58:48.698Z",
   "recentTracks": [
+    {
+      "name": "Gettin' It (feat. Parliament Funkadelic)",
+      "artist": "Too $hort",
+      "playedAt": "2026-07-08T21:03:18.079Z",
+      "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
+    },
     {
       "name": "Wop (Official Version)",
       "artist": "J. Dash",
@@ -18,18 +24,12 @@
       "artist": "Travis Porter",
       "playedAt": "2026-07-08T16:30:45.286Z",
       "url": "https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9"
-    },
-    {
-      "name": "Swag Surfin'",
-      "artist": "F.L.Y. (Fast Life Yungstaz)",
-      "playedAt": "2026-07-08T16:27:13.559Z",
-      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 26,
+    "uniqueArtists": 25,
     "topArtist": "The Marías",
     "dailyAverage": 2,
     "repeatRate": 4,
