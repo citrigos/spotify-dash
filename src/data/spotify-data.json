@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-10T14:43:47.015Z",
+  "lastUpdated": "2026-07-10T19:43:32.436Z",
   "recentTracks": [
     {
-      "name": "Best of My Love",
-      "artist": "The Emotions",
-      "playedAt": "2026-07-10T14:41:53.036Z",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+      "name": "Open It Up",
+      "artist": "Migos",
+      "playedAt": "2026-07-10T16:31:16.539Z",
+      "url": "https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8"
     },
     {
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "artist": "Leo Sayer",
-      "playedAt": "2026-07-10T14:38:11.951Z",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+      "name": "Everyday People",
+      "artist": "Sly & The Family Stone",
+      "playedAt": "2026-07-10T16:17:34.557Z",
+      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
     },
     {
-      "name": "Real Love Baby",
-      "artist": "Father John Misty",
-      "playedAt": "2026-07-10T14:34:31.966Z",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+      "name": "At Last",
+      "artist": "Etta James",
+      "playedAt": "2026-07-10T16:09:40.974Z",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
-      "name": "Knockin' On Heaven's Door",
-      "artist": "Bob Dylan",
-      "playedAt": "2026-07-10T14:31:22.149Z",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+      "name": "At Last",
+      "artist": "Etta James",
+      "playedAt": "2026-07-10T16:08:33.514Z",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     }
   ],
   "stats": {
     "tracksPlayed": 50,
     "listeningHours": 3,
-    "uniqueArtists": 27,
+    "uniqueArtists": 38,
     "topArtist": "The Marías",
     "dailyAverage": 2,
     "repeatRate": 4,
-    "mostPlayedTrack": "Blow the Whistle",
+    "mostPlayedTrack": "At Last",
     "mostPlayedCount": 2,
-    "peakHour": "11pm"
+    "peakHour": "3pm"
   }
 }
