@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-07-13T14:51:17.859Z",
+  "lastUpdated": "2026-07-13T19:39:07.075Z",
   "recentTracks": [
+    {
+      "name": "Blow the Whistle",
+      "artist": "Too $hort",
+      "playedAt": "2026-07-13T14:57:40.493Z",
+      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
+    },
+    {
+      "name": "Swag Surfin'",
+      "artist": "F.L.Y. (Fast Life Yungstaz)",
+      "playedAt": "2026-07-13T14:52:36.604Z",
+      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
+    },
     {
       "name": "Blow the Whistle",
       "artist": "Too $hort",
@@ -12,29 +24,17 @@
       "artist": "UGK",
       "playedAt": "2026-07-11T05:06:36.889Z",
       "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD"
-    },
-    {
-      "name": "I Got 5 On It",
-      "artist": "Luniz",
-      "playedAt": "2026-07-11T00:01:11.774Z",
-      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "name": "Turn My Swag On",
-      "artist": "Soulja Boy",
-      "playedAt": "2026-07-10T23:56:54.626Z",
-      "url": "https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS"
     }
   ],
   "stats": {
-    "tracksPlayed": 44,
+    "tracksPlayed": 46,
     "listeningHours": 3,
     "uniqueArtists": 38,
     "topArtist": "The Marías",
-    "dailyAverage": 1,
-    "repeatRate": 7,
+    "dailyAverage": 2,
+    "repeatRate": 9,
     "mostPlayedTrack": "Blow the Whistle",
-    "mostPlayedCount": 3,
+    "mostPlayedCount": 4,
     "peakHour": "3pm"
   }
 }
