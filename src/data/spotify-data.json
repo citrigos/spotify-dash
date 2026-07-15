@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T13:58:08.818Z",
+  "lastUpdated": "2026-07-15T19:22:17.483Z",
   "recentTracks": [
     {
       "name": "Swag Surfin'",
@@ -27,14 +27,14 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 47,
-    "listeningHours": 3,
-    "uniqueArtists": 38,
+    "tracksPlayed": 41,
+    "listeningHours": 2,
+    "uniqueArtists": 36,
     "topArtist": "The Marías",
-    "dailyAverage": 2,
-    "repeatRate": 9,
-    "mostPlayedTrack": "Blow the Whistle",
-    "mostPlayedCount": 4,
+    "dailyAverage": 1,
+    "repeatRate": 5,
+    "mostPlayedTrack": "Swag Surfin'",
+    "mostPlayedCount": 2,
     "peakHour": "3pm"
   }
 }
