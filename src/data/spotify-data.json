@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T13:53:54.187Z",
+  "lastUpdated": "2026-07-17T19:20:34.335Z",
   "recentTracks": [
     {
       "name": "Swag Surfin'",
@@ -27,14 +27,14 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 40,
-    "listeningHours": 2,
-    "uniqueArtists": 36,
+    "tracksPlayed": 12,
+    "listeningHours": 1,
+    "uniqueArtists": 10,
     "topArtist": "The Marías",
-    "dailyAverage": 1,
-    "repeatRate": 5,
+    "dailyAverage": 0,
+    "repeatRate": 17,
     "mostPlayedTrack": "Swag Surfin'",
     "mostPlayedCount": 2,
-    "peakHour": "3pm"
+    "peakHour": "11pm"
   }
 }
