@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-18T13:37:32.297Z",
+  "lastUpdated": "2026-07-18T19:14:04.543Z",
   "recentTracks": [
+    {
+      "name": "Good Times Roll",
+      "artist": "The Cars",
+      "playedAt": "2026-07-18T16:35:17.582Z",
+      "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
+    },
+    {
+      "name": "Miss You - Remastered",
+      "artist": "The Rolling Stones",
+      "playedAt": "2026-07-18T16:31:31.209Z",
+      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
+    },
+    {
+      "name": "Sexy Sadie - Remastered 2009",
+      "artist": "The Beatles",
+      "playedAt": "2026-07-18T16:26:42.012Z",
+      "url": "https://open.spotify.com/track/2tBv9tAdqEbLNDi5smSjbg"
+    },
     {
       "name": "Swag Surfin'",
       "artist": "F.L.Y. (Fast Life Yungstaz)",
       "playedAt": "2026-07-14T05:10:14.075Z",
       "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
-    },
-    {
-      "name": "Blow the Whistle",
-      "artist": "Too $hort",
-      "playedAt": "2026-07-13T14:57:40.493Z",
-      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
-    },
-    {
-      "name": "Swag Surfin'",
-      "artist": "F.L.Y. (Fast Life Yungstaz)",
-      "playedAt": "2026-07-13T14:52:36.604Z",
-      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
-    },
-    {
-      "name": "Blow the Whistle",
-      "artist": "Too $hort",
-      "playedAt": "2026-07-12T19:58:58.172Z",
-      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
     }
   ],
   "stats": {
-    "tracksPlayed": 4,
+    "tracksPlayed": 7,
     "listeningHours": 0,
-    "uniqueArtists": 2,
+    "uniqueArtists": 5,
     "topArtist": "The Marías",
     "dailyAverage": 0,
-    "repeatRate": 50,
+    "repeatRate": 29,
     "mostPlayedTrack": "Swag Surfin'",
     "mostPlayedCount": 2,
-    "peakHour": "2pm"
+    "peakHour": "4pm"
   }
 }
