@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T19:15:52.640Z",
+  "lastUpdated": "2026-07-20T03:48:39.946Z",
   "recentTracks": [
     {
       "name": "Good Times Roll",
@@ -27,12 +27,12 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 7,
+    "tracksPlayed": 6,
     "listeningHours": 0,
     "uniqueArtists": 5,
     "topArtist": "The Marías",
     "dailyAverage": 0,
-    "repeatRate": 29,
+    "repeatRate": 33,
     "mostPlayedTrack": "Swag Surfin'",
     "mostPlayedCount": 2,
     "peakHour": "4pm"
