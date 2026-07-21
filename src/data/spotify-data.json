@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-21T14:09:18.222Z",
+  "lastUpdated": "2026-07-21T19:41:43.707Z",
   "recentTracks": [
+    {
+      "name": "Fahrradsattel",
+      "artist": "Pisse",
+      "playedAt": "2026-07-21T14:18:15.084Z",
+      "url": "https://open.spotify.com/track/0P0nhrK36P885ltXsdRovK"
+    },
+    {
+      "name": "Young Lust",
+      "artist": "Pink Floyd",
+      "playedAt": "2026-07-21T14:16:25.604Z",
+      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
+    },
+    {
+      "name": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "playedAt": "2026-07-21T14:11:49.773Z",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
     {
       "name": "Blow the Whistle",
       "artist": "Too $hort",
       "playedAt": "2026-07-21T14:08:04.059Z",
       "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
-    },
-    {
-      "name": "Wondering Why",
-      "artist": "The Red Clay Strays",
-      "playedAt": "2026-07-21T00:12:42.126Z",
-      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
-    },
-    {
-      "name": "Tennessee Whiskey",
-      "artist": "Chris Stapleton",
-      "playedAt": "2026-07-21T00:08:48.768Z",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
-    },
-    {
-      "name": "Drinkin' Problem",
-      "artist": "Midland",
-      "playedAt": "2026-07-21T00:03:55.045Z",
-      "url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD"
     }
   ],
   "stats": {
-    "tracksPlayed": 9,
+    "tracksPlayed": 12,
     "listeningHours": 1,
-    "uniqueArtists": 9,
+    "uniqueArtists": 12,
     "topArtist": "The Marías",
     "dailyAverage": 0,
-    "repeatRate": 11,
-    "mostPlayedTrack": "Blow the Whistle",
+    "repeatRate": 8,
+    "mostPlayedTrack": "Fahrradsattel",
     "mostPlayedCount": 1,
-    "peakHour": "0am"
+    "peakHour": "2pm"
   }
 }
