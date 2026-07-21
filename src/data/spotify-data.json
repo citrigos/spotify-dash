@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T03:27:47.095Z",
+  "lastUpdated": "2026-07-21T08:39:31.031Z",
   "recentTracks": [
     {
       "name": "Wondering Why",
@@ -27,12 +27,12 @@
     }
   ],
   "stats": {
-    "tracksPlayed": 9,
-    "listeningHours": 1,
-    "uniqueArtists": 9,
+    "tracksPlayed": 8,
+    "listeningHours": 0,
+    "uniqueArtists": 8,
     "topArtist": "The Marías",
     "dailyAverage": 0,
-    "repeatRate": 11,
+    "repeatRate": 13,
     "mostPlayedTrack": "Wondering Why",
     "mostPlayedCount": 1,
     "peakHour": "0am"
