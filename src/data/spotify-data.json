@@ -1,40 +1,40 @@
 {
-  "lastUpdated": "2026-07-20T19:50:31.966Z",
+  "lastUpdated": "2026-07-21T03:27:47.095Z",
   "recentTracks": [
     {
-      "name": "Good Times Roll",
-      "artist": "The Cars",
-      "playedAt": "2026-07-18T16:35:17.582Z",
-      "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
+      "name": "Wondering Why",
+      "artist": "The Red Clay Strays",
+      "playedAt": "2026-07-21T00:12:42.126Z",
+      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
     },
     {
-      "name": "Miss You - Remastered",
-      "artist": "The Rolling Stones",
-      "playedAt": "2026-07-18T16:31:31.209Z",
-      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
+      "name": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "playedAt": "2026-07-21T00:08:48.768Z",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
-      "name": "Sexy Sadie - Remastered 2009",
-      "artist": "The Beatles",
-      "playedAt": "2026-07-18T16:26:42.012Z",
-      "url": "https://open.spotify.com/track/2tBv9tAdqEbLNDi5smSjbg"
+      "name": "Drinkin' Problem",
+      "artist": "Midland",
+      "playedAt": "2026-07-21T00:03:55.045Z",
+      "url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD"
     },
     {
-      "name": "Swag Surfin'",
-      "artist": "F.L.Y. (Fast Life Yungstaz)",
-      "playedAt": "2026-07-14T05:10:14.075Z",
-      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
+      "name": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "artist": "Toby Keith",
+      "playedAt": "2026-07-20T23:59:28.136Z",
+      "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
     }
   ],
   "stats": {
-    "tracksPlayed": 4,
-    "listeningHours": 0,
-    "uniqueArtists": 4,
+    "tracksPlayed": 9,
+    "listeningHours": 1,
+    "uniqueArtists": 9,
     "topArtist": "The Marías",
     "dailyAverage": 0,
-    "repeatRate": 25,
-    "mostPlayedTrack": "Good Times Roll",
+    "repeatRate": 11,
+    "mostPlayedTrack": "Wondering Why",
     "mostPlayedCount": 1,
-    "peakHour": "4pm"
+    "peakHour": "0am"
   }
 }
